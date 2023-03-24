@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cohort 2022-2032. rOpenSci Champions Program Mentor Guidelines v1.0",
+    "section": "",
+    "text": "Cohort 2022-2032. rOpenSci Champions Program Mentor Guidelines v1.0\n\nYanina Bellini Saibene"
+  },
+  {
+    "objectID": "introduction.html#welcome",
+    "href": "introduction.html#welcome",
+    "title": "1  Introduction",
+    "section": "1.1 Welcome",
+    "text": "1.1 Welcome\nThank you for volunteering to be a mentor for the rOpenSci Champions Program.\nWe develop this guide to help you to navigate the logistics of the program and provide tools for your role as mentor.\nAs a living document we build together, we are always grateful for feedback, improvements and contributions."
+  },
+  {
+    "objectID": "introduction.html#role-description",
+    "href": "introduction.html#role-description",
+    "title": "1  Introduction",
+    "section": "1.2 Role Description",
+    "text": "1.2 Role Description\nMentors will play a vital role in the rOpenSci Champions Program by advising and inspiring their mentees. Mentors will also connect their mentees to people, programs, and organizations; recommend, resources, readings, training, and experiences; and provide feedback on the mentee’s project.\nYou will work with Champions to develop their project, which can be one of the following options:\n\nCreate a new package;\n\n \n\nGo through the review process with an R package they have already developed;\n\n \n\nServe as a reviewer for the rOpenSci software peer review system.\n\nMentors may also support Champions with delivering other activities including: giving a talk, writing blog posts, and teaching other community members."
+  },
+  {
+    "objectID": "introduction.html#timeline",
+    "href": "introduction.html#timeline",
+    "title": "1  Introduction",
+    "section": "1.3 Timeline",
+    "text": "1.3 Timeline\nThe total time commitment is expected to be approximately 1-2 hours per month from December 2022 - December 2023 to complete the following tentative program timeline.\n\n\n\n\n\n\n\n\n\nDate\nEvent\nDetail\nDuration\n\n\n\n\nJanuary 2023\nKick-off event\nLearn about the program, review the program expectations, and address questions. Meet mentees.\n1 h\n\n\nFebruary 2023\nMentor Orientation\nHow to mentor and logistics on the program.\n1.5 h\n\n\nMarch 2023\nCohort meeting: Presentation of projects\nChampions give 5 minutes presentations on their project (package review or development) and get feedback.\n1.5 h\n\n\nMarch-July 2023\nMeeting with mentee\nProvide feedback and guidance on mentee project. Connect with other experts, mentors or community members. Recommend training, resources for the mentee project.\n1 meeting per month 0.5 h\n\n\nJun 2023\nCohort meeting: Reflections on projects\nChampions will be invited to share takeaways from their projects with the cohort.\n1.5 h\n\n\nAugust - November 2023\nMeeting with mentee\nProvide feedback and guidance on mentee project. Connect with other experts, mentors or community members. Recommend training, resources for the mentee project.\n1 meeting per month 0.5 h\n\n\nSeptember 2023\nCohort meeting: Reflections on events\nChampions will be invited to share takeaways from their events with the cohort.\n1.5 h\n\n\nDecember 2023\nCohort meeting: Reflections on program\nMentors will be invited to share takeaways from the program and help to define future roles for Champions.\n1.5 h"
+  },
+  {
+    "objectID": "introduction.html#quick-links",
+    "href": "introduction.html#quick-links",
+    "title": "1  Introduction",
+    "section": "1.4 Quick Links",
+    "text": "1.4 Quick Links\n\n1.4.1 Social\nChampions Web Page: https://ropensci.org/champions/\nSlack: ropensci.slack.com\nMastodon: https://hachyderm.io/@rOpenSci\nTwitter: https://twitter.com/rOpenSci\nVimeo: https://vimeo.com/ropensci\n\n\n1.4.2 Code of Conduct\nhttps://ropensci.org/code-of-conduct/\n\n\n1.4.3 Contact/Meet with the Community Manager\nCalendly - Book a meeting with Yani (you can choose from 15 to 60 minutes meeting)\nEmail: yabellini@ropensci.org"
+  },
+  {
+    "objectID": "mentors-tools.html",
+    "href": "mentors-tools.html",
+    "title": "2  Mentors Tools",
+    "section": "",
+    "text": "2.0.1 Infrastructure\nWe created a series of tools to help you in your mentoring.\n\nGoogle Drive: we created a Google Drive with:\n\nA folder for each champion. You have access to your mentee folder only. This folder now has a document with your mentee application.\nA common folder for mentors with:\n\nThe slides of the kick-off meeting\nThe mentor guide book\nThe slides of this training\nThe templates\n\n\nTemplates: we created templates for your meeting with your mentee. There are 3 different templates: one for the first meeting, one for the last meeting and one for the rest of the meeting. The templates google doc can be copied and modified.\nSlack: we have two private channels for your communication with other mentors and with the champions:\n\n#mentors-2023: only mentors in this channel. You can ask questions, share\n\n\n\nresources, ask for advice from your peers. Yani is in this space to provide support and share information for mentors.\n\n\n#champions-and-mentors: a channel with all the participants. Yani and Maëlle are in this channel to provide support and share common information.\n\n\n\n2.0.2 Tools for meetings\nAll our online meetings will use:\n\nVideo conferencing software\nCollaborative notes\nScheduling Tools\nCode of Conduct\n\nThe following list is an overview of the tools we’ll be using in our full-cohort session (training and meetings) along with alternatives you can use in your mentorship meetings. If you are used to using a tool that is not in this list, you can use it (and let us know which one it is, so we can add it to this list).\n\n\n2.0.3 Video Conferencing\nFor our Cohort Calls we will use Zoom. We will sent a calendar with the full schedule of the program and the zoom links and meeting share document to your email. You can add this calendar to your schedule.\nFor Mentorship Meetings, usually 1:1 call with your mentee, you are free to use any tool you both agree. Here are a list of services:\n\nZoom: you can also use your own Zoom rooms. The free account allow 40 minutes call for 1 to 1 meetings.\nSlack: Slack allow calls between the member of the workspace. You can use this functionality on rOpenSci Slack.\nGoogle Meet: if you’re using google calendar to schedule your mentorship calls, add a call is straightforward, click on the button ‘Add Google Meet video conferencing’.\nJitsi: an open source alternative. Integrates with Google Calendar and Slack.\nSkype: works well for lower bandwidth areas.\nWhatsApp: works well for lower bandwidth areas.\nTelegram: also great for low bandwidth areas.\nWhereby: unlimited time for one-on-one meetings.\n\n\n\n2.0.4 Collaborative Notes\nWe’ll be using Google Docs for our Cohort calls. For your 1:1 mentorship meeting notes, you’re welcome to use any collaborative note tools.\n\nGoogle Docs: To use Google Docs for your mentorship meetings, please create a doc in your Google Drive folder. You can make a copy of the template we provide.\nHack.md: This is an accessible option and have Markdown format for the text. You can integrate with GitHub.\n\n\n\n2.0.5 Scheduling Tools\nWe use tools to agree on what day and time we will meet. Perhaps for you, it is easier to agree by email, but here are a list of tool that can help on this task (specially because time zones can be very tricky)\n\nWhen2meet: it is free, allows you to choose a day and time interval and create a link to fill the pool. You can say yes or no. It is not screen reader accessible.\nDoodle: the free version shows ads. It is screen reader accessible. You choose what day and times you can use, and it provides a third option, which is “Maybe”. It is screen reader accessible.\nCalendly: you can link your calendar with Calendly and provide a link to other people to choose a day and time in your agenda. It is free for only one type of event. It also provides a pool option. Have a 40 spot limit and it is not screen reader accessible.\nGoogle Calendar: if you have a business plan, you can offer spots on your agenda for people to book with you.\nTime and date: for checking time zones and calculate dates and times.\n\nCode of Conduct\nrOpenSci is committed to providing a safe, inclusive, welcoming, and harassment-free experience for everyone. We have a Code of Conduct that includes the reporting guidelines for reinforcing our CoC. Alternatively, you may email conduct@ropensci.org, which will go to the Committee members."
+  },
+  {
+    "objectID": "mentorship-meetings.html#collaborative-notes",
+    "href": "mentorship-meetings.html#collaborative-notes",
+    "title": "3  Mentorship Meetings",
+    "section": "3.1 Collaborative notes",
+    "text": "3.1 Collaborative notes\nWe ask that you keep collaborative notes for your meetings. This will help focus your discussion and keep a record of progress. If you use Google Docs, please create a document in the folder we created for you and your mentee. You can make a copy of the template we provide."
+  },
+  {
+    "objectID": "mentorship-meetings.html#frequency",
+    "href": "mentorship-meetings.html#frequency",
+    "title": "3  Mentorship Meetings",
+    "section": "3.2 Frequency",
+    "text": "3.2 Frequency\nYou should be meeting with your mentees every month, we estimate at least 30 minutes meeting. You can have more meetings if necessary, and both can. You can agree on the schedule with your mentee."
+  },
+  {
+    "objectID": "mentorship-meetings.html#meeting-tracking",
+    "href": "mentorship-meetings.html#meeting-tracking",
+    "title": "3  Mentorship Meetings",
+    "section": "3.3 Meeting Tracking",
+    "text": "3.3 Meeting Tracking\nWe will ask you to record on this form when you hold these meetings. This helps us to keep track and know if everything is going well.\nOn the meeting templates google doc we provide a guidance on what topics/questions you can use on each meeting. Of course, you can choose your own structure, but it is important to have an agenda.\n\n3.3.0.1 First meeting\nOn the first meeting, we recommend:\n\nIntroductions - get to know each other,\nMentees, tell your mentor about your project\nSet 1-2 goals for your project\nPossible areas to think about:\n\nFor a new package project: a first functional version of the package following the recommendation of the rOpenSci development guide. Improve functions, testing, documentation, repository, functionalities. Improve the developer guide (content, translations)\nFor a package sent to review: prepare the package to sent to the review process, send the package to review and complete the process. Improve functions, testing, documentation, repository, functionalities, governance. Write a paper for JOSS about the package. Improve the review process (accessibility, languages, guidelines)\nFor become a reviewer: select a package to review. Review a package. Improve the review process (accessibility, languages, guidelines)\n\nWhat do you want to see from a mentor?\n\n\n\n3.3.0.2 In between meetings\nFor the following meetings, we recommend:\n\nHighlights from the past month + Recognitions (anyone to thank or appreciate?)\nReview goals & roadmap\n\nAre we progressing? Should we adjust anywhere?\n[In July/august meeting] Set 1-2 goals for mentee outreach activities\n\nAnalyze potential contributions by type (community call, meetups, conference, blog post, tutorial), by number, when, by goal (develop a new skill, try something new, organize something with other community).\n\n\n*[When is a month with a cohort call]*Review the cohort call: any thoughts / questions / feedback after last week’s call?\nHow else can we help?\n\n \n\nNext time\n\n\n\n3.3.0.3 Last meeting\nFor the last meeting, we recommend:\n\nCelebrate! Look at all you accomplished the past months!\n\nReview goals from the beginning of the program. Are you where you thought you would be? Why or why not?\n\nSprint + Mentorship & Training\n\nWhat went well?\nWhat could be better?\nAnything we should do differently next time?\n\nNext steps"
+  },
+  {
+    "objectID": "mentorship-skills.html#active-listening",
+    "href": "mentorship-skills.html#active-listening",
+    "title": "4  Mentorship Skills",
+    "section": "4.1 Active Listening",
+    "text": "4.1 Active Listening\nTips for active listening:\n\nSuspend judgment and listen\nGive your full attention to the speaker (don’t rehearse what you’re going to say)\nEncourage the speaker with verbal and nonverbal cues"
+  },
+  {
+    "objectID": "mentorship-skills.html#effective-questioning",
+    "href": "mentorship-skills.html#effective-questioning",
+    "title": "4  Mentorship Skills",
+    "section": "4.2 Effective Questioning",
+    "text": "4.2 Effective Questioning\nQuestions let us:\n\nAccess & analyze information\nStimulate thinking & creativity\nLearn through discussion\n\nSee the GROW model for examples."
+  },
+  {
+    "objectID": "mentorship-skills.html#giving-feedback",
+    "href": "mentorship-skills.html#giving-feedback",
+    "title": "4  Mentorship Skills",
+    "section": "4.3 Giving Feedback",
+    "text": "4.3 Giving Feedback\nFeedback is easier to give and receive when both parties share expectations about what is and isn’t in scope and about how comments ought to be phrased.\nTips for giving feedback:\n\nTry to be helpful\nBe specific. Focus on observable behavior.\nSpeak for yourself\nBalance praise & critical feedback: it’s important to tell people what they should keep doing as well as what they should change."
+  },
+  {
+    "objectID": "mentorship-skills.html#grow-model",
+    "href": "mentorship-skills.html#grow-model",
+    "title": "4  Mentorship Skills",
+    "section": "4.4 GROW Model",
+    "text": "4.4 GROW Model\nGoal: Agree on a topic & objective or longer-term goals\nReality: self-assessment, specific examples\nOptions: suggestions offered & choices made\nWay forward: next steps\nGROW model tips:\n\n‘Ask’ rather than ‘tell’\nIllustrate and check understanding\nThink creatively!\nYou don’t need to be an expert in the situation - you’re acting as a facilitator\n\nSample Questions:\nGOAL\n\nWhat do you want to achieve?\nWhat will be happening when you have succeeded?\nGOALS can be SMART (Specific, Measurable, Achievable, Realistic, Time bound)\n\nREALITY\n\nWhat is happening at the moment?\nWhat stops you from moving on?\nWhat have you tried?\nWhat happened?\nWhat have you learned?\n\nOPTIONS\n\nWhat could you do? What else?\nWhat are the advantages/ disadvantages of each option?\nWould you like suggestions from me?\nWhat options do you like the most?\n\nWAY FORWARD\n\nWhat will you do?\nWhat will be the first step?\nWhen precisely are you going to start and finish each step?\nWhat support do you need and from whom?"
+  },
+  {
+    "objectID": "sources.html",
+    "href": "sources.html",
+    "title": "5  Sources",
+    "section": "",
+    "text": "Mozilla Open Leaders. https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/\nTeaching Tech Together. https://teachtogether.tech/en/index.html\nThe Carpentries Instructor Training. https://carpentries.github.io/instructor-training/"
+  },
+  {
+    "objectID": "feedback.html",
+    "href": "feedback.html",
+    "title": "6  Feedback",
+    "section": "",
+    "text": "Contributions of all kinds are welcome, from suggestions for improvements to errata and new material. Please, contact Yani with your ideas."
+  }
+]
