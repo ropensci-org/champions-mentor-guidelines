@@ -1,0 +1,139 @@
+# Mentors Tools
+
+### Infrastructure
+
+We created a series of tools to help you in your mentoring.
+
+- **Google Drive:** we created a Google Drive with:
+
+  - A folder for each champion. You have access to your mentee folder
+    only. This folder now has a document with your mentee application.
+
+  - A common folder for mentors with:
+
+    - The slides of the kick-off meeting
+
+    - The mentor guide book
+
+    - The slides of this training
+
+    - The templates
+
+- **Templates:** we created templates for your meeting with your mentee.
+  There are 3 different templates: one for the first meeting, one for
+  the last meeting and one for the rest of the meeting. The [*templates
+  google
+  doc*](https://docs.google.com/document/u/0/d/1vjmfbjv9ABJ6fkbtQRMFPydJZ3ypKOIpZ-xf7_iBhvo/edit)
+  can be copied and modified.
+
+- **Slack:** we have two private channels for your communication with
+  other mentors and with the champions:
+
+  - **\#mentors-2023**: only mentors in this channel. You can ask
+    questions, share
+
+> resources, ask for advice from your peers. Yani is in this space to
+> provide support and share information for mentors.
+
+- **\#champions-and-mentors:** a channel with all the participants. Yani
+  and Maëlle are in this channel to provide support and share common
+  information.
+
+### Tools for meetings
+
+All our online meetings will use:
+
+- Video conferencing software
+
+- Collaborative notes
+
+- Scheduling Tools
+
+- Code of Conduct
+
+The following list is an overview of the tools we’ll be using in our
+full-cohort session (training and meetings) along with alternatives you
+can use in your mentorship meetings. If you are used to using a tool
+that is not in this list, you can use it (and let us know which one it
+is, so we can add it to this list).
+
+### Video Conferencing
+
+For our Cohort Calls we will use Zoom. We will sent a calendar with the
+full schedule of the program and the zoom links and meeting share
+document to your email. You can add this calendar to your schedule.
+
+For Mentorship Meetings, usually 1:1 call with your mentee, you are free
+to use any tool you both agree. Here are a list of services:
+
+- [*Zoom*](http://zoom.us/): you can also use your own Zoom rooms. The
+  free account allow 40 minutes call for 1 to 1 meetings.
+
+- [*Slack*](https://slack.com/help/articles/216771908-Make-calls-in-Slack):
+  Slack allow calls between the member of the workspace. You can use
+  this functionality on rOpenSci Slack.
+
+- Google Meet: if you’re using google calendar to schedule your
+  mentorship calls, add a call is straightforward, click on the button
+  ‘Add Google Meet video conferencing’.
+
+- [*Jitsi:*](http://meet.jit.si/) an open source alternative. Integrates
+  with Google Calendar and Slack.
+
+- [*Skype*](http://skype.com/): works well for lower bandwidth areas.
+
+- [*WhatsApp*](https://www.whatsapp.com/): works well for lower
+  bandwidth areas.
+
+- [*Telegram*](https://telegram.org/): also great for low bandwidth
+  areas.
+
+- [*Whereby*](https://whereby.com/): unlimited time for one-on-one
+  meetings.
+
+### Collaborative Notes
+
+We’ll be using Google Docs for our Cohort calls. For your 1:1 mentorship
+meeting notes, you’re welcome to use any collaborative note tools.
+
+- Google Docs: To use Google Docs for your mentorship meetings, please
+  create a doc in your Google Drive folder. You can make a copy of the
+  template we provide.
+
+- [*Hack.md:*](https://hackmd.io/) This is an accessible option and have
+  Markdown format for the text. You can integrate with GitHub.
+
+### Scheduling Tools
+
+We use tools to agree on what day and time we will meet. Perhaps for
+you, it is easier to agree by email, but here are a list of tool that
+can help on this task (specially because time zones can be very tricky)
+
+- [*When2meet:*](https://www.when2meet.com/) it is free, allows you to
+  choose a day and time interval and create a link to fill the pool. You
+  can say yes or no. It is not screen reader accessible.
+
+- [*Doodle:*](https://doodle.com/) the free version shows ads. It is
+  screen reader accessible. You choose what day and times you can use,
+  and it provides a third option, which is “Maybe”. It is screen reader
+  accessible.
+
+- [*Calendly*](https://calendly.com/): you can link your calendar with
+  Calendly and provide a link to other people to choose a day and time
+  in your agenda. It is free for only one type of event. It also
+  provides a pool option. Have a 40 spot limit and it is not screen
+  reader accessible.
+
+- Google Calendar: if you have a business plan, you can offer spots on
+  your agenda for people to book with you.
+
+- [*Time and date*](http://timeanddate.com/): for checking time zones
+  and calculate dates and times.
+
+Code of Conduct
+
+rOpenSci is committed to providing a safe, inclusive, welcoming, and
+harassment-free experience for everyone. We have a [*Code of
+Conduct*](https://ropensci.org/code-of-conduct/) that includes the
+reporting guidelines for reinforcing our CoC. Alternatively, you may
+email conduct@ropensci.org, which will go to the Committee members.

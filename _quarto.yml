@@ -1,0 +1,16 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Cohort 2022-2032. rOpenSci Champions Program Mentor Guidelines v1.0"
+  author: "Yanina Bellini Saibene"
+  date: "2023-03-24"
+  chapters:
+    - index.qmd
+    - introduction.qmd
+    - mentors-tools.qmd
+    - mentorship-meetings.qmd
+    - mentorship-skills.qmd
+    - sources.qmd
+    - feedback.qmd

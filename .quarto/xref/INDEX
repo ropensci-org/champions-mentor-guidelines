@@ -1,0 +1,23 @@
+{
+  "index.qmd": {
+    "index.html": "865cfa29"
+  },
+  "introduction.qmd": {
+    "introduction.html": "1f1e3fc5"
+  },
+  "mentors-tools.qmd": {
+    "mentors-tools.html": "1248a06a"
+  },
+  "mentorship-meetings.qmd": {
+    "mentorship-meetings.html": "0d218497"
+  },
+  "mentorship-skills.qmd": {
+    "mentorship-skills.html": "c0f1dbb1"
+  },
+  "sources.qmd": {
+    "sources.html": "2e463b2e"
+  },
+  "feedback.qmd": {
+    "feedback.html": "e041178b"
+  }
+}

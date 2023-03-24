@@ -1,0 +1,107 @@
+# Mentorship Meetings
+
+Mentorship meetings are the individual online calls you have with your
+mentees.
+
+## Collaborative notes
+
+We ask that you keep collaborative notes for your meetings. This will
+help focus your discussion and keep a record of progress. If you use
+Google Docs, please create a document in the folder we created for you
+and your mentee. You can make a copy of the
+[*template*](https://docs.google.com/document/u/0/d/1vjmfbjv9ABJ6fkbtQRMFPydJZ3ypKOIpZ-xf7_iBhvo/edit)
+we provide.
+
+## Frequency
+
+You should be meeting with your mentees every month, we estimate at
+least 30 minutes meeting. You can have more meetings if necessary, and
+both can. You can agree on the schedule with your mentee.
+
+## Meeting Tracking
+
+We will ask you to record on this form when you hold these meetings.
+This helps us to keep track and know if everything is going well.
+
+On the meeting [*templates google
+doc*](https://docs.google.com/document/u/0/d/1vjmfbjv9ABJ6fkbtQRMFPydJZ3ypKOIpZ-xf7_iBhvo/edit)
+we provide a guidance on what topics/questions you can use on each
+meeting. Of course, you can choose your own structure, but it is
+important to have an agenda.
+
+#### First meeting
+
+On the first meeting, we recommend:
+
+- Introductions - get to know each other,
+
+- Mentees, tell your mentor about your project
+
+- Set 1-2 goals for your project
+
+- Possible areas to think about:
+
+  - *For a new package project:* a first functional version of the
+    package following the recommendation of the rOpenSci development
+    guide. Improve functions, testing, documentation, repository,
+    functionalities. Improve the developer guide (content, translations)
+
+  - *For a package sent to review:* prepare the package to sent to the
+    review process, send the package to review and complete the process.
+    Improve functions, testing, documentation, repository,
+    functionalities, governance. Write a paper for JOSS about the
+    package. Improve the review process (accessibility, languages,
+    guidelines)
+
+  - *For become a reviewer:* select a package to review. Review a
+    package. Improve the review process (accessibility, languages,
+    guidelines)
+
+- What do you want to see from a mentor?
+
+#### In between meetings
+
+For the following meetings, we recommend:
+
+- Highlights from the past month + Recognitions (anyone to thank or
+  appreciate?)
+
+- Review goals & roadmap
+
+  - Are we progressing? Should we adjust anywhere?
+
+  - *\[In July/august meeting\]* Set 1-2 goals for mentee outreach
+    activities
+
+    - Analyze potential contributions by type (community call, meetups,
+      conference, blog post, tutorial), by number, when, by goal
+      (develop a new skill, try something new, organize something with
+      other community).
+
+- \*\[When is a month with a cohort call\]\*Review the cohort call: any
+  thoughts / questions / feedback after last week’s call?
+
+- How else can we help?
+
+ 
+
+- Next time
+
+#### Last meeting
+
+For the last meeting, we recommend:
+
+- Celebrate! Look at all you accomplished the past months!
+
+  - Review goals from the beginning of the program. Are you where you
+    thought you would be? Why or why not?
+
+- Sprint + Mentorship & Training
+
+  - What went well?
+
+  - What could be better?
+
+  - Anything we should do differently next time?
+
+- Next steps

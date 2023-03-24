@@ -1,0 +1,10 @@
+# Sources
+
+- Mozilla Open Leaders.
+  [*https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/*](https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/)
+
+- Teaching Tech Together.
+  [*https://teachtogether.tech/en/index.html*](https://teachtogether.tech/en/index.html)
+
+- The Carpentries Instructor Training.
+  [*https://carpentries.github.io/instructor-training/*](https://carpentries.github.io/instructor-training/)

@@ -1,0 +1,82 @@
+# Introduction
+
+## Welcome
+
+Thank you for volunteering to be a mentor for the rOpenSci Champions
+Program.
+
+We develop this guide to help you to navigate the logistics of the
+program and provide tools for your role as mentor.
+
+As a living document we build together, we are always grateful for
+feedback, improvements and contributions.
+
+## Role Description
+
+Mentors will play a vital role in the rOpenSci Champions Program by
+advising and inspiring their mentees. Mentors will also connect their
+mentees to people, programs, and organizations; recommend, resources,
+readings, training, and experiences; and provide feedback on the
+mentee’s project.
+
+You will work with Champions to develop their project, which can be one
+of the following options:
+
+- Create a new package;
+
+ 
+
+- Go through the review process with an R package they have already
+  developed;
+
+ 
+
+- Serve as a reviewer for the rOpenSci software peer review system.
+
+Mentors may also support Champions with delivering other activities
+including: giving a talk, writing blog posts, and teaching other
+community members.
+
+## Timeline
+
+The total time commitment is expected to be approximately **1-2 hours
+per month** from **December 2022 - December 2023** to complete the
+following tentative program timeline.
+
+| **Date**               | **Event**                                | **Detail**                                                                                                                                                       | **Duration**              |
+|------------------------|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| January 2023           | Kick-off event                           | Learn about the program, review the program expectations, and address questions. Meet mentees.                                                                   | 1 h                       |
+| February 2023          | Mentor Orientation                       | How to mentor and logistics on the program.                                                                                                                      | 1.5 h                     |
+| March 2023             | Cohort meeting: Presentation of projects | Champions give 5 minutes presentations on their project (package review or development) and get feedback.                                                        | 1.5 h                     |
+| March-July 2023        | Meeting with mentee                      | Provide feedback and guidance on mentee project. Connect with other experts, mentors or community members. Recommend training, resources for the mentee project. | 1 meeting per month 0.5 h |
+| Jun 2023               | Cohort meeting: Reflections on projects  | Champions will be invited to share takeaways from their projects with the cohort.                                                                                | 1.5 h                     |
+| August - November 2023 | Meeting with mentee                      | Provide feedback and guidance on mentee project. Connect with other experts, mentors or community members. Recommend training, resources for the mentee project. | 1 meeting per month 0.5 h |
+| September 2023         | Cohort meeting: Reflections on events    | Champions will be invited to share takeaways from their events with the cohort.                                                                                  | 1.5 h                     |
+| December 2023          | Cohort meeting: Reflections on program   | Mentors will be invited to share takeaways from the program and help to define future roles for Champions.                                                       | 1.5 h                     |
+
+## Quick Links
+
+### Social
+
+Champions Web Page:
+[*https://ropensci.org/champions/*](https://ropensci.org/champions/)
+
+Slack: ropensci.slack.com
+
+Mastodon:
+[*https://hachyderm.io/@rOpenSci*](https://hachyderm.io/@rOpenSci)
+
+Twitter: [*https://twitter.com/rOpenSci*](https://twitter.com/rOpenSci)
+
+Vimeo: [*https://vimeo.com/ropensci*](https://vimeo.com/ropensci)
+
+### Code of Conduct
+
+[*https://ropensci.org/code-of-conduct/*](https://ropensci.org/code-of-conduct/)
+
+### Contact/Meet with the Community Manager
+
+Calendly - Book a meeting with Yani (you can choose from 15 to 60
+minutes meeting)
+
+Email: [*yabellini@ropensci.org*](mailto:yabellini@ropensci.org)
