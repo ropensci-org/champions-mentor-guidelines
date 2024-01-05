@@ -1,9 +1,8 @@
 # Mentorship Skills
 
 This is a list of resources and tools from the Mentor training and
-orientation meeting. You can access the
-[*slides*](https://docs.google.com/presentation/d/1qAv8IfSMRRGbQlwOkyM7QvnYQSEvL-cUFPj72ixNgN4/edit?usp=sharing)
-and the shared notes (meeting 1 and meeting 2).
+orientation meeting. You can access all the [traning material](https://ropensci-training.github.io/ropensci-mentors/), including the 
+[*slides*](https://docs.google.com/presentation/d/1qAv8IfSMRRGbQlwOkyM7QvnYQSEvL-cUFPj72ixNgN4/edit?usp=sharing). We also shared the meeting collaborative notes pinned in the Slack channel for mentors. 
 
 ## Active Listening
 

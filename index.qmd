@@ -1,5 +1,11 @@
-# Cohort 2022-2032. rOpenSci Champions Program Mentor Guidelines v1.0 {.unnumbered}
+## Cohorts 2022-2024 {.unnumbered}
 
 ![](images/media/image2.png)
+_Cover illustration by [Lydia Hill](https://www.lydiakahill.com/)_
 
-**Yanina Bellini Saibene**
+## License
+This work is licensed under the [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) license (CC-BY-4.0).
+
+## How to cite this work
+
+Yanina Bellini Saibene. (2024, January 5). rOpenSci Champions Program Mentor Guidelines v2.0. 

@@ -3,9 +3,9 @@ project:
   output-dir: docs
 
 book:
-  title: "Cohort 2022-2032. rOpenSci Champions Program Mentor Guidelines v1.0"
+  title: "rOpenSci Champions Program Mentor Guidelines v2.0"
   author: "Yanina Bellini Saibene"
-  date: "2023-03-24"
+  date: "2024-01-05"
   chapters:
     - index.qmd
     - introduction.qmd
