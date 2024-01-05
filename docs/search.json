@@ -142,11 +142,11 @@
   {
     "objectID": "sources.html",
     "href": "sources.html",
-    "title": "5  Sources",
+    "title": "5  Sources and Acknowledgments",
     "section": "",
-    "text": "We use different sources to build this training and the material. We thank these organizations and their authors for sharing their material under an open license that we can reuse and remix.\n\nMozilla Open Leaders. https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/\nTeaching Tech Together. https://teachtogether.tech/en/index.html\nThe Carpentries Instructor Training. https://carpentries.github.io/instructor-training/\n\nThis book was build using the rOpenSci package quartificate by Maëlle Salmon.\nCover illustration by Lydia Hill",
+    "text": "We use different sources to build this training and the material. We thank these organizations and their authors for sharing their material under an open license that we can reuse and remix.\n\nMozilla Open Leaders. https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/\nTeaching Tech Together. https://teachtogether.tech/en/index.html\nThe Carpentries Instructor Training. https://carpentries.github.io/instructor-training/\n\nThis book was build using the rOpenSci package quartificate by Maëlle Salmon.\nCover illustration by Lydia Hill\nThis work was supported in part by a CZI Grant to rOpenSci.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Sources</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Sources and Acknowledgments</span>"
     ]
   },
   {
