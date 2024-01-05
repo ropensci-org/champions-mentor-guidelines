@@ -82,3 +82,9 @@ GitHub: [https://github.com/ropensci](https://github.com/ropensci)
 minutes meeting)
 
 Email: [*yabellini@ropensci.org*](mailto:yabellini@ropensci.org)
+
+# Feedback
+
+Contributions of all kinds are welcome, from suggestions for
+improvements to errata and new material. Please, contact
+the Community Manager with your ideas.
