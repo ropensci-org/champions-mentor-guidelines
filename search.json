@@ -21,6 +21,13 @@
     "text": "How to cite this work\nYanina Bellini Saibene. (2024, January 5). rOpenSci Champions Program Mentor Guidelines v2.0."
   },
   {
+    "objectID": "introduction.html",
+    "href": "introduction.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "2 Feedback\nContributions of all kinds are welcome, from suggestions for improvements to errata and new material. Please, contact the Community Manager with your ideas."
+  },
+  {
     "objectID": "introduction.html#welcome",
     "href": "introduction.html#welcome",
     "title": "1  Introduction",
@@ -110,12 +117,5 @@
     "title": "5  Sources",
     "section": "",
     "text": "We use different sources to build this training and the material. We thank these organizations and their authors for sharing their material under an open license that we can reuse and remix.\n\nMozilla Open Leaders. https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/\nTeaching Tech Together. https://teachtogether.tech/en/index.html\nThe Carpentries Instructor Training. https://carpentries.github.io/instructor-training/\n\nThis book was build using the rOpenSci package quartificate by Maëlle Salmon.\nCover illustration by Lydia Hill"
-  },
-  {
-    "objectID": "feedback.html",
-    "href": "feedback.html",
-    "title": "6  Feedback",
-    "section": "",
-    "text": "Contributions of all kinds are welcome, from suggestions for improvements to errata and new material. Please, contact Yani with your ideas."
   }
 ]
