@@ -9,7 +9,7 @@ rOpenSci Champions Program Mentor Guidelines v2.0
 
 ### Suggestions and updates
 
-Contributions of all kinds are welcome, from suggestions for improvements to errata and new material. Please, contact the Community Manager with your ideas, or fill an [issue submissions in this repository](https://github.com/ropensci-org/champions-mentor-guidelines/issues).
+Contributions of all kinds are welcome, from suggestions for improvements to errata and new material. Please contact the Community Manager with your ideas or fill out an [issue submission in this repository](https://github.com/ropensci-org/champions-mentor-guidelines/issues).
 You can also suggest changes by editing the `.Rmd` files that are at the root of this repository and submitting a pull request.
 An "edit" button at the top of all book chapters will take you to the relevant page on GitHub to make such changes.
 Please target your pull requests to the `main` branch.
@@ -18,9 +18,9 @@ As with all our spaces and activities, this project is under our [Code of Conduc
 
 ### Technical details
 
-This book was build using [quartificate package](https://docs.ropensci.org/quartificate/)
+This book was built using [quartificate package](https://docs.ropensci.org/quartificate/)
 
-# Meta
+## License and citation
 
 This work is licensed under the [Creative Commons Attribution 4.0 license (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/).
 
