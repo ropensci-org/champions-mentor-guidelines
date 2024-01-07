@@ -1,6 +1,6 @@
 # rOpenSci Champions Program Mentor Guidelines v2.0
 
-[![Project Status: Active -- The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![DOI]()]()
+[![Project Status: Active -- The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10467064.svg)]()
 
 rOpenSci Champions Program Mentor Guidelines v2.0
 [Read it here]([https://translationguide.ropensci.org)](https://ropensci-org.github.io/champions-mentor-guidelines/).
@@ -24,4 +24,4 @@ This book was built using [quartificate package](https://docs.ropensci.org/quart
 
 This work is licensed under the [Creative Commons Attribution 4.0 license (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/).
 
-You can cite this book using [its Zenodo metadata and DOI]().
+You can cite this book using [its Zenodo metadata and DOI](https://zenodo.org/doi/10.5281/zenodo.10467063).
