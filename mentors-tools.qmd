@@ -105,6 +105,8 @@ meeting notes, you’re welcome to use any collaborative note tools.
 
 - [*Hack.md:*](https://hackmd.io/) This is an accessible option and have
   Markdown format for the text. You can integrate with GitHub.
+  
+- [Etherpad format](https://pad.riseup.net/): this is another accesible option with Markdown format for the text and don't need an account from users.  The cons is that it only available for some time (you can configure how many days from a list of options).  
 
 ### Scheduling Tools {#scheduling}
 
