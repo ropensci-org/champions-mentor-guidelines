@@ -76,7 +76,7 @@ to use any tool you both agree. Here are a list of services:
   Slack allow calls between the member of the workspace. You can use
   this functionality on rOpenSci Slack.
 
-- Google Meet: if you’re using google calendar to schedule your
+- [Google Meet](https://meet.google.com/landing): if you’re using google calendar to schedule your
   mentorship calls, add a call is straightforward, click on the button
   ‘Add Google Meet video conferencing’.
 
@@ -99,35 +99,38 @@ to use any tool you both agree. Here are a list of services:
 We’ll be using Google Docs for our Cohort calls. For your 1:1 mentorship
 meeting notes, you’re welcome to use any collaborative note tools.
 
-- Google Docs: To use Google Docs for your mentorship meetings, please
-  create a doc in your Google Drive folder. You can make a copy of the
-  template we provide.
+- [Google Docs](https://docs.google.com/): To use Google Docs for your mentorship meetings,
+please create a doc in your Google Drive folder. 
+You can make a copy of the template we provide.
 
-- [*Hack.md:*](https://hackmd.io/) This is an accessible option and have
-  Markdown format for the text. You can integrate with GitHub.
+- [Hack.md:](https://hackmd.io/) This is an accessible option and have
+  Markdown format for the text. 
+  You can integrate with GitHub.
   
-- [Etherpad format](https://pad.riseup.net/): this is another accesible option with Markdown format for the text and don't need an account from users.  The cons is that it only available for some time (you can configure how many days from a list of options).  
+- [Etherpad format](https://pad.riseup.net/): this is another accesible option with Markdown format for the text and don't need an account from users.
+The cons is that it only available for some time (you can configure how many days from a list of options).  
 
 ### Scheduling Tools {#scheduling}
 
-We use tools to agree on what day and time we will meet. Perhaps for
-you, it is easier to agree by email, but here are a list of tool that
-can help on this task (specially because time zones can be very tricky)
-
-- [*When2meet:*](https://www.when2meet.com/) it is free, allows you to
-  choose a day and time interval and create a link to fill the pool. You
-  can say yes or no. It is not screen reader accessible.
-
-- [*Doodle:*](https://doodle.com/) the free version shows ads. It is
-  screen reader accessible. You choose what day and times you can use,
-  and it provides a third option, which is “Maybe”. It is screen reader
-  accessible.
+We use tools to agree on what day and time we will meet. 
+Perhaps for you, it is easier to agree by email, 
+but here are a list of tool that can help on this task (specially because time zones can be very tricky).
 
 - [*Calendly*](https://calendly.com/): you can link your calendar with
   Calendly and provide a link to other people to choose a day and time
   in your agenda. It is free for only one type of event. It also
-  provides a pool option. Have a 40 spot limit and it is not screen
+  provides a pool option. Have a 40 spot limit and it is screen
   reader accessible.
+
+- [*Doodle:*](https://doodle.com/) the free version shows ads. It is
+  screen reader accessible. The ads are very annoying for the navigation of the tool.
+  You choose what day and times you can use,
+  and it provides a third option, which is “Maybe”. 
+  It is screen reader accessible.
+
+- [*When2meet:*](https://www.when2meet.com/) it is free, allows you to
+  choose a day and time interval and create a link to fill the pool.
+  You can say yes or no. It is not screen reader accessible.
 
 - Google Calendar: if you have a business plan, you can offer spots on
   your agenda for people to book with you.
