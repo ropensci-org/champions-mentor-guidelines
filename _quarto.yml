@@ -13,3 +13,16 @@ book:
     - mentorship-meetings.qmd
     - mentorship-skills.qmd
     - sources.qmd
+
+babelquarto:
+  languagecodes:
+  - name: es
+    text: "Version in es"
+  - name: en
+    text: "Version in en"
+  mainlanguage: 'en'
+  languages: ['es']
+title-es: Orientaciones para mentor(a|e)s del Programa de Campeon(e|a)s de rOpenSci v2.0
+description-es: ""
+author-es: Yanina Bellini Saibene
+lang: en
