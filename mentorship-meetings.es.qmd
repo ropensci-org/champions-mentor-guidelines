@@ -1,83 +1,86 @@
-# Mentorship Meetings
+# Reuniones de tutoría
 
-Mentorship meetings are the individual online calls you have with your mentees.
+Las reuniones de tutoría son las llamadas individuales en línea que mantienes con tus tutelados.
 
-::: callout-note
-## In-person meeting
+::: llamada-nota
 
-This meeting format is optional. No face-to-face meetings are expected.
+## Reunión en persona
+
+Este formato de reunión es opcional. No se esperan reuniones presenciales.
 :::
 
-## Collaborative notes
+## Notas de colaboración
 
-We ask that you keep collaborative notes for your meetings. This will help focus your discussion and keep a record of progress. If you use Google Docs, please create a document in the folder we created for you and your mentee. You can make a copy of the [*template*](https://docs.google.com/document/u/0/d/1vjmfbjv9ABJ6fkbtQRMFPydJZ3ypKOIpZ-xf7_iBhvo/edit) we provide.
+Te pedimos que tomes notas colaborativas de tus reuniones. Esto os ayudará a centrar el debate y a mantener un registro de los progresos. Si utilizas Google Docs, crea un documento en la carpeta que hemos creado para ti y tu alumno. Puedes hacer una copia del [*plantilla*](https://docs.google.com/document/u/0/d/1vjmfbjv9ABJ6fkbtQRMFPydJZ3ypKOIpZ-xf7_iBhvo/edit) que te proporcionamos.
 
-## Frequency
+## Frecuencia
 
-You should meet with your mentee **every month**; we estimate at least 30-minute meetings, have more sessions if necessary, and both can. You can agree on the schedule with your mentee. Check the @scheduling section to have some tools idea. 
+Debes reunirte con tu alumno **cada mes**; estimamos al menos reuniones de 30 minutos, ten más sesiones si es necesario, y ambos pueden. Puedes acordar el horario con tu tutelado. Consulta la sección @programación para tener alguna idea de las herramientas.
 
-## Meeting Tracking
+## Seguimiento de las reuniones
 
-We will ask you to record on [this form]() when you hold these meetings. This helps us to keep track and know if everything is going well. **You can use this form to ask for support to the rOpenSci Community Manager**.
+Te pediremos que registres en [este formulario]() cuando celebres estas reuniones. Esto nos ayuda a hacer un seguimiento y saber si todo va bien. **Puedes utilizar este formulario para pedir apoyo al Gestor de la Comunidad rOpenSci**.
 
-On the meeting [*templates google doc*](https://docs.google.com/document/u/0/d/1vjmfbjv9ABJ6fkbtQRMFPydJZ3ypKOIpZ-xf7_iBhvo/edit) we provide a guidance on what topics/questions you can use on each meeting. Of course, you can choose your own structure, but it is important to have an agenda.
+En la reunión [*plantillas google doc*](https://docs.google.com/document/u/0/d/1vjmfbjv9ABJ6fkbtQRMFPydJZ3ypKOIpZ-xf7_iBhvo/edit) te ofrecemos una guía sobre los temas/preguntas que puedes utilizar en cada reunión. Por supuesto, puedes elegir tu propia estructura, pero es importante tener un orden del día.
 
-#### First meeting
+#### Primera reunión
 
-On the first meeting, we recommend:
+En la primera reunión, recomendamos:
 
--   Introductions - get to know each other,
+- Presentaciones: conocerse mutuamente,
 
--   Mentees, tell your mentor about your project,
+- Alumnos, hablad a vuestro mentor de vuestro proyecto,
 
--   Set 1-2 goals for your project,
+- Establece 1-2 objetivos para tu proyecto,
 
--   Possible areas to think about:
+- Posibles áreas en las que pensar:
+  
+  - *Para un nuevo proyecto de paquete:* una primera versión funcional del paquete siguiendo las recomendaciones de la guía de desarrollo de rOpenSci. Mejorar las funciones, pruebas, documentación, repositorio, funcionalidades. Mejorar la guía del desarrollador (contenido, traducciones).
+  
+  - *Para un paquete enviado a revisión:* prepara el paquete para enviarlo al proceso de revisión, envía el paquete a revisión y completa el proceso. Mejorar las funciones, las pruebas, la documentación, el repositorio, las funcionalidades, la gobernanza. Escribe un artículo para JOSS sobre el paquete. Mejorar el proceso de revisión (accesibilidad, idiomas, directrices).
+  
+  - *Para convertirte en revisor:* selecciona un paquete para revisar. Revisar un paquete. Mejorar el proceso de revisión (accesibilidad, idiomas, directrices)
 
-    - *For a new package project:* a first functional version of the package following the recommendation of the rOpenSci development guide. Improve functions, testing, documentation, repository, functionalities. Improve the developer guide (content, translations)
+- ¿Qué quieres ver de un mentor?
 
-    - *For a package sent to review:* prepare the package to sent to the review process, send the package to review and complete the process. Improve functions, testing, documentation, repository, functionalities, governance. Write a paper for JOSS about the package. Improve the review process (accessibility, languages, guidelines)
+#### Entre reunión y reunión
 
-    - *For become a reviewer:* select a package to review. Review a package. Improve the review process (accessibility, languages, guidelines)
+Para las siguientes reuniones, te recomendamos
 
--   What do you want to see from a mentor?
+- Lo más destacado del mes anterior + Reconocimientos (¿alguien a quien dar las gracias o apreciar?)
 
-#### In between meetings
+- Revisar los objetivos y la hoja de ruta
 
-For the following meetings, we recommend:
+- ¿Estamos progresando? ¿Debemos ajustar algo?
 
--   Highlights from the past month + Recognitions (anyone to thank or appreciate?)
+- **En la reunión de julio/agosto** Fijar 1-2 objetivos para las actividades de divulgación de los alumnos
+  
+  - Analiza las posibles contribuciones por tipo (llamada a la comunidad, reuniones, conferencia, entrada en el blog, tutorial), por número, por cuándo, por objetivo (desarrollar una nueva habilidad, probar algo nuevo, organizar algo con otra comunidad).
 
--   Review goals & roadmap
+- **Cuándo es un mes con una convocatoria de la cohorte**: Repasa la llamada de cohorte: ¿algún pensamiento / pregunta / comentario tras la llamada de la semana pasada?
 
-  -   Are we progressing? Should we adjust anywhere?
+- ¿En qué más podemos ayudar?
 
-  -   **In July/August meeting** Set 1-2 goals for mentee outreach activities
+- La próxima vez
 
-        -   Analyze potential contributions by type (community call, meetups, conference, blog post, tutorial), by number, when, by goal (develop a new skill, try something new, organize something with other community).
+Las reuniones intermedias pueden utilizarse para sesiones de programación entre iguales o de codificación.
 
-  -   **When is a month with a cohort call**: Review the cohort call: any thoughts / questions / feedback after last week’s call?
+#### Última reunión
 
--   How else can we help?
+Para la última reunión, recomendamos:
 
--   Next time
+- ¡Celebrarlo! ¡Mira todo lo que has conseguido en los últimos meses!
+  
+  - Repasa los objetivos desde el principio del programa. ¿Estás donde pensabas que estarías? ¿Por qué sí o por qué no?
 
-The in-between meetings can be used for peer-programing or coding sessions. 
+- Sprint + Tutoría y Formación
+  
+  - ¿Qué ha ido bien?
+  
+  - ¿Qué podría ir mejor?
+  
+  - ¿Algo que debamos hacer de forma diferente la próxima vez?
 
-#### Last meeting
+- Próximos pasos
 
-For the last meeting, we recommend:
 
--   Celebrate! Look at all you accomplished the past months!
-
-    -   Review goals from the beginning of the program. Are you where you thought you would be? Why or why not?
-
--   Sprint + Mentorship & Training
-
-    -   What went well?
-
-    -   What could be better?
-
-    -   Anything we should do differently next time?
-
--   Next steps
