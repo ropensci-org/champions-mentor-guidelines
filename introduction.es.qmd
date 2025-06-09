@@ -1,90 +1,90 @@
-# Introduction
+# Introducción
 
-## Welcome
+## Bienvenido
 
-Thank you for volunteering to be a mentor for the [rOpenSci Champions
-Program](https://ropensci.org/champions/).
+Gracias por ofrecerte como voluntario para ser mentor del [Campeones rOpenSci
+Programa](https://ropensci.org/champions/).
 
-We develop this guide to help you to navigate the logistics of the
-program and provide tools for your role as _mentor_.
+Desarrollamos esta guía para ayudarte a navegar por la logística del
+programa y proporcionar herramientas para tu papel como *mentor*.
 
-As a living document we build together, we are always grateful for
-feedback, improvements and contributions.
+Como documento vivo que construimos juntos, siempre estamos agradecidos por
+comentarios, mejoras y contribuciones.
 
-## Role Description
+## Descripción de funciones
 
-Mentors will play a vital role in the rOpenSci Champions Program by
-advising and inspiring their mentees. Mentors will also connect their
-mentees to people, programs, and organizations; recommend, resources,
-readings, training, and experiences; and provide feedback on the
-mentee’s project.
+Los mentores desempeñarán un papel vital en el Programa rOpenSci Champions al
+aconsejando e inspirando a sus alumnos. Los mentores también conectarán a sus
+a sus alumnos con personas, programas y organizaciones, recomendándoles recursos,
+recomendar recursos, lecturas, formación y experiencias.
+proyecto del alumno.
 
-You will work with Champions to develop their project, which can be one
-of the following options:
+Trabajarás con los Adalides para desarrollar su proyecto, que puede ser una
+de las siguientes opciones:
 
-- Create a new package;
+- Crear un nuevo paquete;
 
+- Pasar por el proceso de revisión con un paquete R que ya tengan
+  desarrollado;
 
-- Go through the review process with an R package they have already
-  developed;
+- Servir como revisor para el sistema de revisión por pares del software rOpenSci.
 
+Los mentores también pueden apoyar a los Campeones en la realización de otras actividades
+entre las que se incluyen: dar una charla, escribir entradas en el blog y enseñar a otros
+miembros de la comunidad.
 
-- Serve as a reviewer for the rOpenSci software peer review system.
+## Cronología
 
-Mentors may also support Champions with delivering other activities
-including: giving a talk, writing blog posts, and teaching other
-community members.
+Se espera que el compromiso de tiempo total sea de aproximadamente **1-2 horas
+al mes** desde **noviembre de 2023 - noviembre de 2024** para completar la
+siguiente calendario provisional del programa.
 
-## Timeline
+| **Fecha**                        | **Evento**                                                                      | **Detalle**                                                                                                                                                                                                                | **Duración**                       | 
+| ----------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
+| Octubre de 2023         | Seleccionar campeones                                                 | Revisa, clasifica y selecciona 1-2 proyectos revisados para mentorizarlos.                                                                                                                                      | 2 h                    | 
+| noviembre de 2023       | Acto inaugural                                                        | Infórmate sobre el programa, revisa las expectativas del programa y resuelve tus dudas. Conoce a los alumnos.                                                                                                   | 1\.5 h                  | 
+| enero - abril 2024      | Formación                                                             | Cómo hacer de mentor y logística en el programa.                                                                                                                                                                | 2 h                    | 
+| marzo-julio 2024        | Reunión con el alumno                                                 | Proporcionar comentarios y orientación sobre el proyecto del alumno.  Ponerle en contacto con otros expertos, mentores o miembros de la comunidad. Recomendar formación y recursos para el proyecto del alumno. | 1 reunión al mes 0,5 h | 
+| Mayo de 2024            | Reunión de cohortes [opcional]                                        | Los campeones presentarán su proyecto y recibirán comentarios.                                                                                                                                                  | 1\.5 h                  | 
+| agosto - noviembre 2023 | Reunión con el alumno                                                 | Proporcionar comentarios y orientación sobre el proyecto del alumno.  Ponerle en contacto con otros expertos, mentores o miembros de la comunidad. Recomendar formación y recursos para el proyecto del alumno. | 1 reunión al mes 0,5 h | 
+| Julio de 2024           | Reunión de cohortes [opcional]: Reflexiones sobre los proyectos       | Se invitará a los promotores a compartir con la cohorte las conclusiones de sus proyectos.                                                                                                                      | 1\.5 h                  | 
+| Septiembre de 2024      | Reunión de cohortes [opcional]: Reflexiones sobre los acontecimientos | Se invitará a los promotores a compartir con la cohorte las conclusiones de sus actos.                                                                                                                          | 1\.5 h                  | 
+| Octubre de 2024         | Reunión de cohortes: Reflexiones sobre el programa                    | Se invitará a los mentores a compartir las conclusiones del programa y a ayudar a definir las futuras funciones de los Campeones.                                                                               | 1\.5 h                  | 
+| Noviembre de 2024       | Fin del plazo                                                         | Cerrar la cohorte y definir nuevas funciones para los Campeones y Mentores.                                                                                                                                     | 1 h                    | 
 
-The total time commitment is expected to be approximately **1-2 hours
-per month** from **November 2023 - November 2024** to complete the
-following tentative program timeline.
-
-|**Date**|**Event**|**Detail**|**Duration**|
-|----|-----|------|--------|
-|October, 2023|Select Champions |Review, rank and select 1-2 reviewed projects to mentor.|2 h|
-|November 2023|Kick-off event|Learn about the program, review the program expectations, and address questions. Meet mentees.|1.5 h|
-|January - April 2024|Training|How to mentor and logistics on the program.|2 h|
-|March-July 2024|Meeting with mentee|Provide feedback and guidance on mentee project.  Connect with other experts, mentors or community members. Recommend training, resources for the mentee project.|1 meeting per month 0.5 h|
-|May 2024|Cohort meeting [optional] |Champions will present their project and get feedback. |1.5 h|
-|August - November 2023|Meeting with mentee|Provide feedback and guidance on mentee project.  Connect with other experts, mentors or community members. Recommend training, resources for the mentee project. |1 meeting per month 0.5 h|
-|July 2024 | Cohort meeting [optional]: Reflections on projects|Champions will be invited to share takeaways from their projects with the cohort. | 1.5 h|
-|September 2024|Cohort meeting [optional]: Reflections on events|Champions will be invited to share takeaways from their events with the cohort.|1.5 h|
-|October 2024|Cohort meeting: Reflections on program|Mentors will be invited to share takeaways from the program and help to define future roles for Champions.|1.5 h|
-|November 2024|End of term|Close cohort and define new roles for Champions and Mentors.|1 h|
-
-## Quick Links
+## Enlaces rápidos
 
 ### Social
 
-Champions Program Web Page:
-[https://ropensci.org/champions/](https://ropensci.org/champions/)
+Página Web del Programa Campeones:
+<https://ropensci.org/champions/>
 
 Slack: ropensci.slack.com
 
 Mastodon:
-[https://hachyderm.io/@rOpenSci](https://hachyderm.io/@rOpenSci)
+<https://hachyderm.io/@rOpenSci>
 
-LinkedIn:[https://www.linkedin.com/company/ropensci/](https://www.linkedin.com/company/ropensci/) 
+LinkedIn:<https://www.linkedin.com/company/ropensci/>
 
-Vimeo: [https://vimeo.com/ropensci](https://vimeo.com/ropensci)
+Vimeo: <https://vimeo.com/ropensci>
 
-GitHub: [https://github.com/ropensci](https://github.com/ropensci)
+GitHub: <https://github.com/ropensci>
 
-### Code of Conduct
+### Código de conducta
 
-[*https://ropensci.org/code-of-conduct/*](https://ropensci.org/code-of-conduct/)
+<https://ropensci.org/code-of-conduct/>
 
-### Contact/Meet with the Community Manager
+### Contacto/Reunión con el Responsable de la Comunidad
 
-[Calendly](https://calendly.com/yabellini-ropensci) - Book a meeting with Yani (you can choose from 15 to 60
-minutes meeting)
+[Calendly](https://calendly.com/yabellini-ropensci) - Reserva una reunión con Yani (puedes elegir entre 15 y 60
+minutos)
 
-Email: [*yabellini@ropensci.org*](mailto:yabellini@ropensci.org)
+Correo electrónico: [*yabellini@ropensci.org*](mailto:yabellini@ropensci.org)
 
-# Feedback
+# Comentarios
 
-Contributions of all kinds are welcome, from suggestions for
-improvements to errata and new material. Please, contact
-the Community Manager with your ideas.
+Las aportaciones de todo tipo son bienvenidas, desde sugerencias para
+mejoras, erratas y material nuevo. Por favor, ponte en contacto con
+con tus ideas.
+
+
