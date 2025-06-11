@@ -9,6 +9,6 @@ Esta obra está bajo licencia [Creative Commons Reconocimiento 4.0](https://crea
 
 ## Cómo citar este trabajo
 
-Yanina Bellini Saibene. (2024, 5 de enero). rOpenSci Champions Program Mentor Guidelines v2.0.
+Yanina Bellini Saibene. (2025, 11 de Junio). rOpenSci Champions Program Mentor Guidelines v3.0.
 
 
