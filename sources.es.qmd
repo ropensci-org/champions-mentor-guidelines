@@ -1,18 +1,20 @@
-# Sources and Acknowledgments
+# Fuentes y agradecimientos
 
-We use different sources to build this training and the material. We thank these organizations and their authors for sharing their material under an open license that we can reuse and remix.
+Utilizamos diferentes fuentes para construir esta formación y el material. Damos las gracias a estas organizaciones y a sus autores por compartir su material bajo una licencia abierta que podemos reutilizar y remezclar.
 
 - Mozilla Open Leaders.
-  [*https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/*](https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/)
+  <https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/>
 
-- Teaching Tech Together.
-  [*https://teachtogether.tech/en/index.html*](https://teachtogether.tech/en/index.html)
+- Enseñar juntos tecnología.
+  <https://teachtogether.tech/en/index.html>
 
-- The Carpentries Instructor Training.
-  [*https://carpentries.github.io/instructor-training/*](https://carpentries.github.io/instructor-training/)
+- Formación de Instructores de Carpintería.
+  <https://carpentries.github.io/instructor-training/>
 
-This book was build using the rOpenSci package [quartificate](https://docs.ropensci.org/quartificate/) by Maëlle Salmon. 
+Este libro se ha creado utilizando el paquete rOpenSci [cuartificado](https://docs.ropensci.org/quartificate/) de Maëlle Salmon.
 
-Cover illustration by [Lydia Hill](https://www.lydiakahill.com/)
+Ilustración de portada de [Lydia Hill](https://www.lydiakahill.com/)
 
-This work was supported in part by a [CZI](https://chanzuckerberg.com) Grant to rOpenSci.
+Este trabajo ha sido financiado en parte por un [CZI](https://chanzuckerberg.com) a rOpenSci.
+
+
