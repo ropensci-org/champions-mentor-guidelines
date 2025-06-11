@@ -19,7 +19,7 @@ Debes reunirte con la persona que mentoreas **cada mes**; estimamos al menos reu
 
 ## Seguimiento de las reuniones
 
-Te pediremos que registres en [este formulario]() cuando celebres estas reuniones. Esto nos ayuda a hacer un seguimiento y saber si todo va bien. **Puedes utilizar este formulario para pedir apoyo al staff de rOpenSci**.
+Te pediremos que registres en [este formulario](https://airtable.com/appF6OXmxkk8VmR8a/shrV3SruqtGwe1Bdj) cuando celebres estas reuniones. Esto nos ayuda a hacer un seguimiento y saber si todo va bien. **Puedes utilizar este formulario para pedir apoyo al staff de rOpenSci**.
 
 En la  [*plantilla de reunión de google doc*](https://docs.google.com/document/d/1VtNYfDNYRS7xAbs1Ajf2S5wsv3mOQ0BcTn93cXAv6sc/edit?usp=sharing) te ofrecemos una guía sobre los temas/preguntas que puedes utilizar en cada reunión. Por supuesto, puedes elegir tu propia estructura, pero es importante tener un orden del día.
 
