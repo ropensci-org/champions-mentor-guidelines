@@ -1,27 +1,27 @@
 # Reuniones de tutoría
 
-Las reuniones de tutoría son las llamadas individuales en línea que mantienes con tus tutelados.
+Las reuniones de mentoría son las llamadas individuales en línea que mantienes con tu campeon/a.
 
-::: llamada-nota
+::: callout-note
 
 ## Reunión en persona
 
-Este formato de reunión es opcional. No se esperan reuniones presenciales.
+Este formato de reunión es opcional. No se espera que tengas reuniones presenciales.
 :::
 
-## Notas de colaboración
+## Agenda y notas de las reuniones  
 
-Te pedimos que tomes notas colaborativas de tus reuniones. Esto os ayudará a centrar el debate y a mantener un registro de los progresos. Si utilizas Google Docs, crea un documento en la carpeta que hemos creado para ti y tu alumno. Puedes hacer una copia del [*plantilla*](https://docs.google.com/document/u/0/d/1vjmfbjv9ABJ6fkbtQRMFPydJZ3ypKOIpZ-xf7_iBhvo/edit) que te proporcionamos.
+Te pedimos que tomen notas colaborativas de tus reuniones. Esto ayudará a centrar el debate y a mantener un registro de los progresos. Si utilizas Google Docs, puedes crear un documento en la carpeta que creamos para ustdes en el drive del programa. Puedes hacer una copia de la [*plantilla para reuniones*](https://docs.google.com/document/d/1VtNYfDNYRS7xAbs1Ajf2S5wsv3mOQ0BcTn93cXAv6sc/) que te proporcionamos.
 
 ## Frecuencia
 
-Debes reunirte con tu alumno **cada mes**; estimamos al menos reuniones de 30 minutos, ten más sesiones si es necesario, y ambos pueden. Puedes acordar el horario con tu tutelado. Consulta la sección @programación para tener alguna idea de las herramientas.
+Debes reunirte con la persona que mentoreas **cada mes**; estimamos al menos reuniones de 30 minutos, ten más sesiones si es necesario y ambos dos pueden. El día y horario lo acuerdan entre ustedes. Consulta la sección @programación para tener alguna idea de las herramientas disponibles para las reuniones.
 
 ## Seguimiento de las reuniones
 
-Te pediremos que registres en [este formulario]() cuando celebres estas reuniones. Esto nos ayuda a hacer un seguimiento y saber si todo va bien. **Puedes utilizar este formulario para pedir apoyo al Gestor de la Comunidad rOpenSci**.
+Te pediremos que registres en [este formulario]() cuando celebres estas reuniones. Esto nos ayuda a hacer un seguimiento y saber si todo va bien. **Puedes utilizar este formulario para pedir apoyo al staff de rOpenSci**.
 
-En la reunión [*plantillas google doc*](https://docs.google.com/document/u/0/d/1vjmfbjv9ABJ6fkbtQRMFPydJZ3ypKOIpZ-xf7_iBhvo/edit) te ofrecemos una guía sobre los temas/preguntas que puedes utilizar en cada reunión. Por supuesto, puedes elegir tu propia estructura, pero es importante tener un orden del día.
+En la  [*plantilla de reunión de google doc*](https://docs.google.com/document/d/1VtNYfDNYRS7xAbs1Ajf2S5wsv3mOQ0BcTn93cXAv6sc/edit?usp=sharing) te ofrecemos una guía sobre los temas/preguntas que puedes utilizar en cada reunión. Por supuesto, puedes elegir tu propia estructura, pero es importante tener un orden del día.
 
 #### Primera reunión
 
@@ -29,19 +29,19 @@ En la primera reunión, recomendamos:
 
 - Presentaciones: conocerse mutuamente,
 
-- Alumnos, hablad a vuestro mentor de vuestro proyecto,
+- Momento ideas para que Campeones-as hablen de su proyecto con sus mentores-as.
 
 - Establece 1-2 objetivos para tu proyecto,
 
 - Posibles áreas en las que pensar:
   
-  - *Para un nuevo proyecto de paquete:* una primera versión funcional del paquete siguiendo las recomendaciones de la guía de desarrollo de rOpenSci. Mejorar las funciones, pruebas, documentación, repositorio, funcionalidades. Mejorar la guía del desarrollador (contenido, traducciones).
+  - *Para un nuevo proyecto de paquete:* una primera versión funcional del paquete siguiendo las recomendaciones de la guía de desarrollo de rOpenSci. Mejorar las funciones, pruebas, documentación, repositorio, funcionalidades. Generar la web del paquete o mejorarla. 
   
-  - *Para un paquete enviado a revisión:* prepara el paquete para enviarlo al proceso de revisión, envía el paquete a revisión y completa el proceso. Mejorar las funciones, las pruebas, la documentación, el repositorio, las funcionalidades, la gobernanza. Escribe un artículo para JOSS sobre el paquete. Mejorar el proceso de revisión (accesibilidad, idiomas, directrices).
+  - *Para un paquete que se envia a revisión:* prepara el paquete para enviarlo al proceso de revisión, enviar el paquete a revisión y completar el proceso. Mejorar las funciones, las pruebas, la documentación, el repositorio, las funcionalidades, la gobernanza. Escribir un artículo para JOSS o JOSE sobre el paquete. 
   
-  - *Para convertirte en revisor:* selecciona un paquete para revisar. Revisar un paquete. Mejorar el proceso de revisión (accesibilidad, idiomas, directrices)
+  - *Para convertirte en revisor:* [completa el formulario para revisar](https://airtable.com/app8dssb6a7PG6Vwj/shrnfDI2S9uuyxtDw), luego revisa [el listado de paquetes que estan esperando revision](https://github.com/ropensci/software-review/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) y charlen cuales pueden ser buenas opciones para revisar.  Comentarle a la Community Manager sobre estas preferencias, es quien debe comunicarse con el equipo editor para acordar la revisión. [Leer la guia de revision de paquetes de rOpenSci](https://devguide.ropensci.org/es/index.es.html). Revisar al menos un paquete asignado. 
 
-- ¿Qué quieres ver de un mentor?
+- ¿Qué es lo que esperas de tu mentor/a?
 
 #### Entre reunión y reunión
 
@@ -53,23 +53,23 @@ Para las siguientes reuniones, te recomendamos
 
 - ¿Estamos progresando? ¿Debemos ajustar algo?
 
-- **En la reunión de julio/agosto** Fijar 1-2 objetivos para las actividades de divulgación de los alumnos
+- **En la reunión de enero/febrero** Fijar 1-2 objetivos para las actividades de divulgación 
   
-  - Analiza las posibles contribuciones por tipo (llamada a la comunidad, reuniones, conferencia, entrada en el blog, tutorial), por número, por cuándo, por objetivo (desarrollar una nueva habilidad, probar algo nuevo, organizar algo con otra comunidad).
+  - Analiza las posibles contribuciones por tipo (Eventos como "conversaciones con la comunidad", webinarios, reuniones, conferencias (una charla o taller en useR!, Posit, LatinR), artículo en el blog, tutorial, taller, charla, sesión de co-trabajo), por número, tener en cuenta cuándo y con quién (otra comunidad, grupo de R-Ladies, universidad, instituciones), por objetivo (desarrollar una nueva habilidad, probar algo nuevo, practicar una habilidad, organizar algo con otra comunidad).
 
-- **Cuándo es un mes con una convocatoria de la cohorte**: Repasa la llamada de cohorte: ¿algún pensamiento / pregunta / comentario tras la llamada de la semana pasada?
+- **Cuándo es un mes con una convocatoria de la cohorte**: Repasa la llamada de cohorte: ¿algún pensamiento / pregunta / comentario tras la llamada pasada?
 
 - ¿En qué más podemos ayudar?
 
 - La próxima vez
 
-Las reuniones intermedias pueden utilizarse para sesiones de programación entre iguales o de codificación.
+Las reuniones intermedias pueden utilizarse para sesiones de programación por pares o revisión de código.
 
 #### Última reunión
 
 Para la última reunión, recomendamos:
 
-- ¡Celebrarlo! ¡Mira todo lo que has conseguido en los últimos meses!
+- ¡Celebrar! ¡Mira todo lo que has conseguido en los últimos meses!
   
   - Repasa los objetivos desde el principio del programa. ¿Estás donde pensabas que estarías? ¿Por qué sí o por qué no?
 
