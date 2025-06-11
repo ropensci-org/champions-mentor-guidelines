@@ -1,8 +1,8 @@
 # Habilidades de tutoría
 
-Esta es una lista de recursos y herramientas de la formación de Mentores y
-reunión de orientación. Puedes acceder a todos los [material de formación](https://ropensci-training.github.io/ropensci-mentors/) incluido el
-[*diapositivas*](https://docs.google.com/presentation/d/1qAv8IfSMRRGbQlwOkyM7QvnYQSEvL-cUFPj72ixNgN4/edit?usp=sharing). También compartimos las notas colaborativas de la reunión ancladas en el canal de Slack para mentores.
+Esta es una lista de recursos y herramientas de la formación para Mentor(a|e)s de rOpenSci.
+Puedes acceder a todos los [material de la capacitación](https://ropensci-training.github.io/ropensci-mentors/) incluido las
+[*diapositivas*](https://docs.google.com/presentation/d/1OQ_EpW6cgebENt-gBtG53WbgvioIy_EU9Ntym7wJocg/). También compartimos las notas colaborativas de la reunión ancladas en el canal de Slack para mentores y mentoras.
 
 ## Escucha activa
 
@@ -10,12 +10,12 @@ Consejos para la escucha activa:
 
 - Suspende el juicio y escucha.
 
-- Presta toda tu atención al orador (no ensayes lo que estás
-  vas a decir).
+- Presta toda tu atención a quien habla (no ensayes lo que 
+  vas a decir/contestar)
 
-- Anima al orador con señales verbales y no verbales.
+- Anima a la quien habla con señales verbales y no verbales.
 
-## Interrogatorio eficaz
+## Preguntas efectivas
 
 Las preguntas nos permiten
 
@@ -23,11 +23,11 @@ Las preguntas nos permiten
 
 - Estimular el pensamiento y la creatividad.
 
-- Aprende mediante el debate.
+- Aprender mediante el debate.
 
-Ver la [*CRECE*](#grow-model) para ver ejemplos.
+Ver el modelo [*GROW (CRECE en Inglés)*](#grow-model) para ver ejemplos.
 
-## Dar retroalimentación
+## Dar retroalimentación (feedback)
 
 Es más fácil dar y recibir opiniones cuando ambas partes comparten
 expectativas sobre lo que está y no está dentro del alcance y sobre cómo los comentarios
@@ -37,16 +37,16 @@ Consejos para dar retroalimentación:
 
 - Intenta ser útil.
 
-- Sé concreto. Céntrate en el comportamiento observable.
+- Ve a lo concreto. Céntrate en comportamientos observables.
 
 - Habla por ti.
 
-- Equilibra los elogios y los comentarios críticos: es importante decir a la gente lo que
+- Equilibra los elogios y los comentarios críticos: es importante decirle a las personas lo que
   deben seguir haciendo, así como lo que deben cambiar.
 
-## Modelo CRECE
+## Modelo _GROW_
 
-**Objetivo:** Acuerda un tema y un objetivo o metas a más largo plazo.
+**Objetivo:** Acuerda un tema y un objetivo o una o dos metas a más largo plazo.
 
 **Realidad:** autoevaluación, ejemplos concretos.
 
@@ -54,27 +54,26 @@ Consejos para dar retroalimentación:
 
 **Camino a seguir:** próximos pasos.
 
-Consejos para el modelo CRECE:
+Consejos para el modelo _GROW_:
 
-- "Pregunta" en lugar de "cuenta".
+- "Pregunta" en lugar de "habla".
 
 - Ilustra y comprueba la comprensión.
 
 - ¡Piensa de forma creativa!
 
-- No necesitas ser un experto en la situación: estás actuando como un
-  facilitador.
+- No necesitas ser una persona experta en la situación: estás 
+  facilitando.
 
 Ejemplos de preguntas:
 
-META
+META u OBJETIVOS
 
 - ¿Qué quieres conseguir?
 
 - ¿Qué ocurrirá cuando lo hayas conseguido?
 
-- Los OBJETIVOS pueden ser SMART (Específicos, Mensurables, Alcanzables, Realistas y Temporales).
-  tiempo).
+- Los OBJETIVOS pueden ser _SMART_ (inteligentes en Inglés): Específicos, Mensurables, Alcanzables, Realistas y Temporales.
 
 REALIDAD
 
@@ -90,7 +89,7 @@ REALIDAD
 
 OPCIONES
 
-- ¿Qué podrías hacer? ¿Qué otra cosa?
+- ¿Qué podrías hacer? ¿Qué otra cosa más podrías hacer?
 
 - ¿Cuáles son las ventajas/desventajas de cada opción?
 
