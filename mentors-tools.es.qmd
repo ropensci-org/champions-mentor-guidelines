@@ -66,40 +66,38 @@ Para nuestras Llamadas de Cohorte utilizaremos Zoom. Enviaremos un calendario co
 horario completo del programa y los enlaces de zoom y la reunión compartida
 a tu correo electrónico. Puedes añadir este calendario a tu agenda.
 
-Para las reuniones de tutoría, normalmente llamadas 1:1 con tu tutelado, eres libre
-de utilizar cualquier herramienta que ambos acordéis. Aquí tienes una lista de servicios:
+Para las reuniones de mentoría, normalmente llamadas 1:1 con tu campeon/a, eres libre
+de utilizar cualquier herramienta que acuerden. Aquí tienes una lista de servicios:
 
 - [*Zoom*](http://zoom.us/): también puedes utilizar tus propias salas Zoom. En
   cuenta gratuita permite 40 minutos de llamada para reuniones 1 a 1.
 
 - [*Slack*](https://slack.com/help/articles/216771908-Make-calls-in-Slack):
   Slack permite llamadas entre los miembros del espacio de trabajo. Puedes utilizar
-  esta funcionalidad en rOpenSci Slack.
+  esta funcionalidad en el Slack de rOpenSci.
 
 - [Google Meet](https://meet.google.com/landing): si utilizas google calendar para programar tu
-  llamadas de tutoría, añadir una llamada es sencillo, haz clic en el botón
+  llamadas de mentoría, puedes añadir una llamada haciendo clic en el botón
   'Añadir videoconferencia de Google Meet'.
 
 - [*Jitsi:*](http://meet.jit.si/) una alternativa de código abierto. Integra
   con Google Calendar y Slack.
 
-- [*Skype*](http://skype.com/): funciona bien en zonas con menor ancho de banda.
 
-- [*WhatsApp*](https://www.whatsapp.com/): funciona bien para los bajos
-  de ancho de banda.
+- [*WhatsApp*](https://www.whatsapp.com/): funciona bien en zonas con menor 
+  ancho de banda.
 
-- [*Telegrama*](https://telegram.org/): también es genial para un ancho de banda bajo
-  zonas.
+- [*Telegrama*](https://telegram.org/): también es genial para zonas con un ancho de banda bajo.
+  
 
-- [*Por lo que*](https://whereby.com/) tiempo ilimitado para el cara a cara
-  reuniones.
+- [*Whereby*](https://whereby.com/) tiempo ilimitado para reuniones uno a uno.
 
-### Notas de colaboración {#note-taking}
+### Notas colaborativas {#note-taking}
 
-Utilizaremos Google Docs para nuestras llamadas de Cohorte. Para tu tutoría 1:1
+Utilizaremos Google Docs o una solucion simil Etherpad (si es requedida por accesibilidad) para nuestras llamadas de Cohorte. Para tu mentoría 1:1
 puedes utilizar cualquier herramienta de notas colaborativas.
 
-- [Google Docs](https://docs.google.com/) Para utilizar Google Docs en tus reuniones de tutoría,
+- [Google Docs](https://docs.google.com/) Para utilizar Google Docs en tus reuniones de mentoría,
   crea un documento en tu carpeta de Google Drive.
   Puedes hacer una copia de la plantilla que te proporcionamos.
 
@@ -110,30 +108,30 @@ puedes utilizar cualquier herramienta de notas colaborativas.
 - [Formato Etherpad](https://pad.riseup.net/) esta es otra opción accesible con formato Markdown para el texto y no necesita una cuenta de usuario.
   El inconveniente es que sólo está disponible durante un tiempo (puedes configurar cuántos días de una lista de opciones).
 
-### Herramientas de programación {#scheduling}
+### Herramientas para organizar y agendar reuniones {#scheduling}
 
 Utilizamos herramientas para acordar el día y la hora en que nos reuniremos.
-Quizá para ti sea más fácil acordarlo por correo electrónico,
+Quizás la forma más fácil acordar las reuniones sea por correo electrónico,
 pero aquí tienes una lista de herramientas que pueden ayudarte en esta tarea (especialmente porque las zonas horarias pueden ser muy complicadas).
 
 - [*Calendly*](https://calendly.com/): puedes enlazar tu calendario con
   Calendly y proporcionar un enlace a otras personas para que elijan un día y una hora
   en tu agenda. Es gratuito sólo para un tipo de evento. También
-  ofrece una opción de billar. Tiene un límite de 40 plazas y es pantalla
+  ofrece una opción de encusta Tiene un límite de 40 lugares y es accesible para lectores de pantalla.
   lector de pantalla.
 
-- [*Garabato:*](https://doodle.com/) la versión gratuita muestra anuncios. Es
+- [*Doodle:*](https://doodle.com/) la versión gratuita muestra anuncios. Es
   accesible para lectores de pantalla. Los anuncios son muy molestos para la navegación de la herramienta.
-  Tú eliges qué día y a qué horas puedes utilizarla,
-  y ofrece una tercera opción, que es "Tal vez".
+  Tú eliges qué día y a qué horas de esos dias estas disponible,
+  y ofrece una tercera opción, que es "Tal vez" y que permite organizar con una mayor flexibilidad que cuando las opcopnes son "Si Puedo" y "No puedo".
   Es accesible para lectores de pantalla.
 
-- [*Cuándo2meet:*](https://www.when2meet.com/) es gratuito, te permite
+- [*When2meet:*](https://www.when2meet.com/) es gratuito, te permite
   elegir un día y un intervalo de tiempo y crear un enlace para llenar la reserva.
   Puedes decir sí o no. No es accesible para lectores de pantalla.
 
-- Google Calendar: si tienes un plan de empresa, puedes ofrecer plazas en
-  tu agenda para que la gente reserve contigo.
+- Google Calendar: si tienes un plan de empresa, puedes ofrecer lugares libres en
+  tu agenda para que la gente reserve reuniones contigo.
 
 - [*Hora y fecha*](http://timeanddate.com/): para comprobar los husos horarios
   y calcular fechas y horas.
@@ -144,25 +142,25 @@ pero aquí tienes una lista de herramientas que pueden ayudarte en esta tarea (e
 ### Código de conducta
 
 rOpenSci se compromete a proporcionar un ambiente seguro, inclusivo, acogedor y
-y libre de acoso para todos. Tenemos una [*Código de
-Conducta*](https://ropensci.org/code-of-conduct/) que incluye el
-directrices de información para reforzar nuestro CdC. Alternativamente, puedes
+y libre de acoso para todas las personas. Tenemos un [*Código de
+Conducta*](https://ropensci.org/code-of-conduct/) que incluye instrucciones
+pare reportar incidentes y como es el proceso para aplicar nuestro CdC. Alternativamente, puedes
 enviar un correo electrónico a '[conduct@ropensci.org](mailto:conduct@ropensci.org) que se enviará a los miembros del Comité.
 
 ### Divulgación y contribuciones
 
-En la segunda parte del año, los campeones planificarán y llevarán a cabo actividades de divulgación en sus comunidades locales.
+En la segunda parte del año, campeones/as planificarán y llevarán a cabo actividades de divulgación, de preferencia en sus comunidades locales, pero también en comunidades internacionales.
 
-Estas actividades pueden ser talleres, charlas, participación en actos y conferencias, publicaciones en blogs o entrevistas.  Pueden organizarse con instituciones, comunidades, grupos de usuarios y organizaciones locales y regionales; de hecho, ¡es muy deseable que se organicen así!
+Estas actividades pueden ser talleres, charlas, participación en eventos y conferencias, publicaciones en blogs o entrevistas.  Pueden organizarse con instituciones, comunidades, grupos de usuarios y organizaciones locales y regionales; de hecho, ¡es muy deseable que se organicen así!
 
-Por supuesto, estas actividades pueden estar dentro del abanico de posibilidades de contribución que ya tiene rOpenSci, como las Convocatorias Comunitarias, la sesión de co-working, la entrada en el blog de rOpenSci y las traducciones.
+Por supuesto, estas actividades pueden estar dentro del abanico de posibilidades de contribución que ya tiene rOpenSci, como las "Conversaciones con la comunidad", las sesiones de co-working, los mini-hackatones, articulos en el blog de rOpenSci y las traducciones.
 
 Estos recursos pueden ayudarte a ver qué tipo de contribuciones y participaciones se pueden hacer en rOpenSci y con estas ideas planificar la actividad de difusión del programa:
 
-- [Hoja de consejos](https://ropensci.org/blog/2022/09/13/contributing-ropensci/) Esta hoja de consejos contiene un resumen de las distintas formas de contribuir y participar en rOpenSci.
+- [Hoja de consejos](https://ropensci.org/es/blog/2022/09/13/contributing-ropensci-es/) Esta hoja de consejos contiene un resumen de las distintas formas de contribuir y participar en rOpenSci.
 
-- [Guía de contribución](https://contributing.ropensci.org/) tiene más detalles, enlaces, materiales y ejemplos de cada forma de participar en nuestra comunidad.
+- [Guía de contribución](https://contributing.ropensci.org/) tiene más detalles, enlaces, materiales y ejemplos de cada forma de participar en nuestra comunidad. (En ingles).
 
-- [Guía del blog](https://blogguide.ropensci.org/): este libro explica cómo contribuir con una entrada de blog para el sitio web de rOpenSci.
+- [Guía del blog](https://blogguide.ropensci.org/): este libro explica cómo escribir un blog post para el sitio web de rOpenSci (en Ingles).
 
 
