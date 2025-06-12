@@ -1,22 +1,42 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "index.html#cohorts-2022-2024",
+    "href": "index.html#cohorts-2022-2024",
     "title": "rOpenSci Champions Program Mentor Guidelines v2.0",
-    "section": "",
-    "text": "rOpenSci Champions Program Mentor Guidelines v2.0\n\nYanina Bellini Saibene",
+    "section": "Cohorts 2022-2024",
+    "text": "Cohorts 2022-2024\n Cover illustration by Lydia Hill",
     "crumbs": [
-      "rOpenSci Champions Program Mentor Guidelines v2.0"
+      "Cohorts 2022-2024"
     ]
   },
   {
-    "objectID": "index.html#ropensci-champions-program-2022-2024",
-    "href": "index.html#ropensci-champions-program-2022-2024",
+    "objectID": "index.html#license",
+    "href": "index.html#license",
     "title": "rOpenSci Champions Program Mentor Guidelines v2.0",
-    "section": "rOpenSci Champions Program 2022-2024",
-    "text": "rOpenSci Champions Program 2022-2024\n Cover illustration by Lydia Hill",
+    "section": "License",
+    "text": "License\nThis work is licensed under the Creative Commons Attribution 4.0 license (CC-BY-4.0).",
     "crumbs": [
-      "rOpenSci Champions Program 2022-2024"
+      "Cohorts 2022-2024"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-cite-this-work",
+    "href": "index.html#how-to-cite-this-work",
+    "title": "rOpenSci Champions Program Mentor Guidelines v2.0",
+    "section": "How to cite this work",
+    "text": "How to cite this work\nYanina Bellini Saibene. (2024, January 5). rOpenSci Champions Program Mentor Guidelines v2.0.",
+    "crumbs": [
+      "Cohorts 2022-2024"
+    ]
+  },
+  {
+    "objectID": "introduction.html",
+    "href": "introduction.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "2 Feedback\nContributions of all kinds are welcome, from suggestions for improvements to errata and new material. Please, contact the Community Manager with your ideas.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
     ]
   },
   {
@@ -64,7 +84,7 @@
     "href": "mentors-tools.html",
     "title": "2  Mentors Tools",
     "section": "",
-    "text": "2.0.1 Infrastructure\nWe setup a series of tools to help you in your mentoring.\n\nGoogle Drive: the drive contain:\n\nA folder for each champion. You have access to your mentee folder only. This folder now has a document with your mentee application. In the future we will also upload videos or other material you mentee will generate as part of their work on the program. You can also use it to store and share resources with your mentee.\nA common folder for mentors with:\n\nThe slides of the kick-off meeting.\nThe link to this book.\nThe slides of the mentor training.\nThe templates.\nrOpenSci branding material.\n\n\nTemplates: we created templates for your meeting with your mentee. There are 3 different templates: one for the first meeting, one for the last meeting and one for the rest of the meeting. The templates google doc can be copied and modified.\nSlack: we have three private channels for your communication with other mentors, with the champions and with the previews cohorts participants:\n\n#mentors-2024: only mentors in this channel. You can ask questions, share resources, ask for advice from your peers. Yani is in this space to provide support and share information for mentors.\n#champions-and-mentors-2024: a channel with all the participants. Yani and Maëlle are in this channel to provide support and share common information.\n#champions-program: a channel with all the participants of the program. Yani and Maëlle are in this channel to provide support and share common information.\n\n\n\n\n2.0.2 Tools for meetings\nAll our online meetings will use:\n\nVideo conferencing software\nCollaborative notes\nScheduling Tools\nCode of Conduct\n\nThe following list is an overview of the tools we’ll be using in our full-cohort session (training and meetings) along with alternatives you can use in your mentorship meetings. If you are used to using a tool that is not in this list, you can use it (and let us know which one it is, so we can add it to this list).\n\n2.0.2.1 Video Conferencing\nFor our Cohort Calls we will use Zoom. We will sent a calendar with the full schedule of the program and the zoom links and meeting share document to your email. You can add this calendar to your schedule.\nFor Mentorship Meetings, usually 1:1 call with your mentee, you are free to use any tool you both agree. Here are a list of services:\n\nZoom: you can also use your own Zoom rooms. The free account allow 40 minutes call for 1 to 1 meetings.\nSlack: Slack allow calls between the member of the workspace. You can use this functionality on rOpenSci Slack.\nGoogle Meet: if you’re using google calendar to schedule your mentorship calls, add a call is straightforward, click on the button ‘Add Google Meet video conferencing’.\nJitsi: an open source alternative. Integrates with Google Calendar and Slack.\nSkype: works well for lower bandwidth areas.\nWhatsApp: works well for lower bandwidth areas.\nTelegram: also great for low bandwidth areas.\nWhereby: unlimited time for one-on-one meetings.\n\n\n\n\n2.0.3 Collaborative Notes\nWe’ll be using Google Docs for our Cohort calls. For your 1:1 mentorship meeting notes, you’re welcome to use any collaborative note tools.\n\nGoogle Docs: To use Google Docs for your mentorship meetings, please create a doc in your Google Drive folder. You can make a copy of the template we provide.\nHack.md: This is an accessible option and have Markdown format for the text. You can integrate with GitHub.\nEtherpad format: this is another accesible option with Markdown format for the text and don’t need an account from users. The cons is that it only available for some time (you can configure how many days from a list of options).\n\n\n\n2.0.4 Scheduling Tools\nWe use tools to agree on what day and time we will meet. Perhaps for you, it is easier to agree by email, but here are a list of tool that can help on this task (specially because time zones can be very tricky)\n\nWhen2meet: it is free, allows you to choose a day and time interval and create a link to fill the pool. You can say yes or no. It is not screen reader accessible.\nDoodle: the free version shows ads. It is screen reader accessible. You choose what day and times you can use, and it provides a third option, which is “Maybe”. It is screen reader accessible.\nCalendly: you can link your calendar with Calendly and provide a link to other people to choose a day and time in your agenda. It is free for only one type of event. It also provides a pool option. Have a 40 spot limit and it is not screen reader accessible.\nGoogle Calendar: if you have a business plan, you can offer spots on your agenda for people to book with you.\nTime and date: for checking time zones and calculate dates and times.\nWorld Time Buddy: for checking time zones and calculate dates and times.\n\n\n\n2.0.5 Code of Conduct\nrOpenSci is committed to providing a safe, inclusive, welcoming, and harassment-free experience for everyone. We have a Code of Conduct that includes the reporting guidelines for reinforcing our CoC. Alternatively, you may email ‘conduct@ropensci.org’, which will go to the Committee members.\n\n\n2.0.6 Outreach and Contributions\nIn the second part of the year, the champions will plan and carry out outreach activities in their local communities.\nThese activities can be workshops, talks, participation in events and conferences, blog posts or interviews. They can be organized with institutions, communities, user groups and local and regional organizations, indeed, it is highly desirable that they be organized in this way!.\nOf course these activities can be within the range of contribution possibilities that rOpenSci already has such as Community Calls, co-working session, the rOpenSci blog post and translations.\nThese resources can help you see what kinds of contributions and participations can be made in rOpenSci and with these ideas plan the outreach activity for the program:\n\nTip Sheet: This Tip Sheet has a summary of the different ways to contribute to and participate in rOpenSci.\nContribution Guide: this book has more details, links, materials and examples of each way to participate in our community.\nBlog Guide: this book explain how to contribute a blog post for the rOpenSci Website.",
+    "text": "2.0.1 Infrastructure\nWe setup a series of tools to help you in your mentoring.\n\nGoogle Drive: the drive contain:\n\nA folder for each champion. You have access to your mentee folder only. This folder now has a document with your mentee application. In the future we will also upload videos or other material you mentee will generate as part of their work on the program. You can also use it to store and share resources with your mentee.\nA common folder for mentors with:\n\nThe slides of the kick-off meeting.\nThe link to this book.\nThe slides of the mentor training.\nThe templates.\nrOpenSci branding material.\n\n\nTemplates: we created templates for your meeting with your mentee. There are 3 different templates: one for the first meeting, one for the last meeting and one for the rest of the meeting. The templates google doc can be copied and modified.\nSlack: we have three private channels for your communication with other mentors, with the champions and with the previews cohorts participants:\n\n#mentors-2024: only mentors in this channel. You can ask questions, share resources, ask for advice from your peers. Yani is in this space to provide support and share information for mentors.\n#champions-and-mentors-2024: a channel with all the participants. Yani and Maëlle are in this channel to provide support and share common information.\n#champions-program: a channel with all the participants of the program. Yani and Maëlle are in this channel to provide support and share common information.\n\n\n\n\n2.0.2 Tools for meetings\nAll our online meetings will use:\n\nVideo conferencing software\nCollaborative notes\nScheduling Tools\nCode of Conduct\n\nThe following list is an overview of the tools we’ll be using in our full-cohort session (training and meetings) along with alternatives you can use in your mentorship meetings. If you are used to using a tool that is not in this list, you can use it (and let us know which one it is, so we can add it to this list).\n\n2.0.2.1 Video Conferencing\nFor our Cohort Calls we will use Zoom. We will sent a calendar with the full schedule of the program and the zoom links and meeting share document to your email. You can add this calendar to your schedule.\nFor Mentorship Meetings, usually 1:1 call with your mentee, you are free to use any tool you both agree. Here are a list of services:\n\nZoom: you can also use your own Zoom rooms. The free account allow 40 minutes call for 1 to 1 meetings.\nSlack: Slack allow calls between the member of the workspace. You can use this functionality on rOpenSci Slack.\nGoogle Meet: if you’re using google calendar to schedule your mentorship calls, add a call is straightforward, click on the button ‘Add Google Meet video conferencing’.\nJitsi: an open source alternative. Integrates with Google Calendar and Slack.\nSkype: works well for lower bandwidth areas.\nWhatsApp: works well for lower bandwidth areas.\nTelegram: also great for low bandwidth areas.\nWhereby: unlimited time for one-on-one meetings.\n\n\n\n\n2.0.3 Collaborative Notes\nWe’ll be using Google Docs for our Cohort calls. For your 1:1 mentorship meeting notes, you’re welcome to use any collaborative note tools.\n\nGoogle Docs: To use Google Docs for your mentorship meetings, please create a doc in your Google Drive folder. You can make a copy of the template we provide.\nHack.md: This is an accessible option and have Markdown format for the text. You can integrate with GitHub.\nEtherpad format: this is another accesible option with Markdown format for the text and don’t need an account from users. The cons is that it only available for some time (you can configure how many days from a list of options).\n\n\n\n2.0.4 Scheduling Tools\nWe use tools to agree on what day and time we will meet. Perhaps for you, it is easier to agree by email, but here are a list of tool that can help on this task (specially because time zones can be very tricky).\n\nCalendly: you can link your calendar with Calendly and provide a link to other people to choose a day and time in your agenda. It is free for only one type of event. It also provides a pool option. Have a 40 spot limit and it is screen reader accessible.\nDoodle: the free version shows ads. It is screen reader accessible. The ads are very annoying for the navigation of the tool. You choose what day and times you can use, and it provides a third option, which is “Maybe”. It is screen reader accessible.\nWhen2meet: it is free, allows you to choose a day and time interval and create a link to fill the pool. You can say yes or no. It is not screen reader accessible.\nGoogle Calendar: if you have a business plan, you can offer spots on your agenda for people to book with you.\nTime and date: for checking time zones and calculate dates and times.\nWorld Time Buddy: for checking time zones and calculate dates and times.\n\n\n\n2.0.5 Code of Conduct\nrOpenSci is committed to providing a safe, inclusive, welcoming, and harassment-free experience for everyone. We have a Code of Conduct that includes the reporting guidelines for reinforcing our CoC. Alternatively, you may email ‘conduct@ropensci.org’, which will go to the Committee members.\n\n\n2.0.6 Outreach and Contributions\nIn the second part of the year, the champions will plan and carry out outreach activities in their local communities.\nThese activities can be workshops, talks, participation in events and conferences, blog posts or interviews. They can be organized with institutions, communities, user groups and local and regional organizations, indeed, it is highly desirable that they be organized in this way!.\nOf course these activities can be within the range of contribution possibilities that rOpenSci already has such as Community Calls, co-working session, the rOpenSci blog post and translations.\nThese resources can help you see what kinds of contributions and participations can be made in rOpenSci and with these ideas plan the outreach activity for the program:\n\nTip Sheet: This Tip Sheet has a summary of the different ways to contribute to and participate in rOpenSci.\nContribution Guide: this book has more details, links, materials and examples of each way to participate in our community.\nBlog Guide: this book explain how to contribute a blog post for the rOpenSci Website.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Mentors Tools</span>"
     ]
@@ -147,46 +167,6 @@
     "text": "We use different sources to build this training and the material. We thank these organizations and their authors for sharing their material under an open license that we can reuse and remix.\n\nMozilla Open Leaders. https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/\nTeaching Tech Together. https://teachtogether.tech/en/index.html\nThe Carpentries Instructor Training. https://carpentries.github.io/instructor-training/\n\nThis book was build using the rOpenSci package quartificate by Maëlle Salmon.\nCover illustration by Lydia Hill\nThis work was supported in part by a CZI Grant to rOpenSci.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Sources and Acknowledgments</span>"
-    ]
-  },
-  {
-    "objectID": "index.html#license",
-    "href": "index.html#license",
-    "title": "rOpenSci Champions Program Mentor Guidelines v2.0",
-    "section": "License",
-    "text": "License\nThis work is licensed under the Creative Commons Attribution 4.0 license (CC-BY-4.0).",
-    "crumbs": [
-      "Cohorts 2022-2024"
-    ]
-  },
-  {
-    "objectID": "index.html#how-to-cite-this-work",
-    "href": "index.html#how-to-cite-this-work",
-    "title": "rOpenSci Champions Program Mentor Guidelines v2.0",
-    "section": "How to cite this work",
-    "text": "How to cite this work\nYanina Bellini Saibene. (2024, January 5). rOpenSci Champions Program Mentor Guidelines v2.0.",
-    "crumbs": [
-      "Cohorts 2022-2024"
-    ]
-  },
-  {
-    "objectID": "index.html#cohorts-2022-2024",
-    "href": "index.html#cohorts-2022-2024",
-    "title": "rOpenSci Champions Program Mentor Guidelines v2.0",
-    "section": "Cohorts 2022-2024",
-    "text": "Cohorts 2022-2024\n Cover illustration by Lydia Hill",
-    "crumbs": [
-      "Cohorts 2022-2024"
-    ]
-  },
-  {
-    "objectID": "introduction.html",
-    "href": "introduction.html",
-    "title": "1  Introduction",
-    "section": "",
-    "text": "2 Feedback\nContributions of all kinds are welcome, from suggestions for improvements to errata and new material. Please, contact the Community Manager with your ideas.",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
     ]
   }
 ]

@@ -1,4 +1,4 @@
-# Habilidades de tutoría
+# Habilidades de mentoría
 
 Esta es una lista de recursos y herramientas de la formación para Mentor(a|e)s de rOpenSci.
 Puedes acceder a todos los [material de la capacitación](https://ropensci-training.github.io/ropensci-mentors/) incluido las

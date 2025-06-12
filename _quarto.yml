@@ -9,17 +9,28 @@ book:
   chapters:
     - index.qmd
     - introduction.qmd
+    - part: Introduction
+      part-es: Introducción
     - mentors-tools.qmd
+    - part: Mentors Tools
+      part-es: Herramientas
     - mentorship-meetings.qmd
+    - part: Mentorship Meetings
+      part-es: Reuniones de mentoría
     - mentorship-skills.qmd
+    - part: Mentorship Skills
+      part-es: Habilidades de mentoría
     - sources.qmd
+    - part: Sources
+      part-es: Fuentes
 
 babelquarto:
+  languagelinks: sidebar
   languagecodes:
   - name: es
-    text: "Version in es"
+    text: "Español"
   - name: en
-    text: "Version in en"
+    text: "English"
   mainlanguage: 'en'
   languages: ['es']
 title-es: Orientaciones para mentor(a|e)s del Programa de Campeon(e|a)s de rOpenSci v2.0
