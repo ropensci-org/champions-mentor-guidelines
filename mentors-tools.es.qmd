@@ -1,44 +1,44 @@
-## Herramientas para tutores
+## Herramientas para mentoras/es
 
 ### Infraestructura {#infrastructure}
 
-Configuramos una serie de herramientas para ayudarte en tu tutoría.
+Configuramos una serie de herramientas para ayudarte en tu mentoría.
 
 - **Google Drive:** la unidad contiene:
   
-  - Una carpeta para cada campeón. Tienes acceso a la carpeta de tu pupilo
-    solamente. Esta carpeta tiene ahora un documento con la solicitud de tu mentee. En el futuro también subiremos vídeos u otro material que tu mentee genere como parte de su trabajo en el programa.  También puedes utilizarla para almacenar y compartir recursos con tu mentee.
+  - Una carpeta para cada campeón/a. Tienes acceso a la carpeta la persona que mentoreas.
+ Esta carpeta tiene ahora un documento con la aplicación completa. En el futuro también subiremos vídeos u otro material que se generen como parte de su trabajo en el programa.  También puedes utilizarla para almacenar y compartir recursos.
   
-  - Una carpeta común para los mentores con:
+  - Una carpeta común para mentores-as con:
     
     - Las diapositivas de la reunión inicial.
     
     - El enlace a este libro.
     
-    - Las diapositivas de la formación de mentores.
+    - Las diapositivas de la formación de mentores-as.
     
     - Las plantillas.
     
-    - Material de marca rOpenSci.
+    - Material de la marca de rOpenSci (como logos, plantillas de slides, etc).
 
-- **Plantillas:** Hemos creado plantillas para la reunión con tu alumno.
+- **Plantillas:** Hemos creado plantillas para las reuniones con tu campeon/a
   Hay 3 plantillas diferentes: una para la primera reunión, otra para
-  la última reunión y otra para el resto de la reunión. En [*plantillas
-  google doc*](https://docs.google.com/document/u/0/d/1vjmfbjv9ABJ6fkbtQRMFPydJZ3ypKOIpZ-xf7_iBhvo/edit)
-  se puede copiar y modificar.
+  la última reunión y otra para el resto de las reuniones. En el [documento de google de *plantillas](https://docs.google.com/document/d/1VtNYfDNYRS7xAbs1Ajf2S5wsv3mOQ0BcTn93cXAv6sc/)
+  
+  podes econtrar estas sugerencias de agenda.  El documento se puede copiar, adaptar y modificar para su uso.
 
 - **Slack:** tenemos tres canales privados para tu comunicación con
-  otros mentores, con los campeones y con los participantes de las cohortes previas:
+  las personas que participan de esta cohorte y con los participantes de las cohortes previas:
   
-  - **\#mentores-2024**: sólo mentores en este canal. Puedes preguntar
-    preguntas, compartir recursos, pedir consejo a tus compañeros. Yani está en este espacio para
-    proporcionar apoyo y compartir información para los mentores.
+  - **\#mentors-2025**: sólo mentores/as en este canal. Puedes hacer
+    preguntas, compartir recursos, pedir consejo a tus compañeros/as. Yani está en este espacio para
+    proporcionar apoyo y compartir información relevante.
   
-  - **\#campeones-y-mentores-2024:** un canal con todos los participantes Yani
+  - **\#champions-and-mentors-2025:** un canal con todos los participantes. Yani
     y Maëlle están en este canal para prestar apoyo y compartir
     información común.
   
-  - ** programa #campeones:** un canal con todos los participantes del programa. Yani
+  - ** champions-program:** un canal con todos los participantes del programa. Yani
     y Maëlle están en este canal para ofrecer apoyo y compartir
     información común.
 
@@ -54,15 +54,15 @@ Todas nuestras reuniones en línea utilizarán
 
 - Código de conducta
 
-La siguiente lista es un resumen de las herramientas que utilizaremos en nuestro
+La siguiente lista es un resumen de las herramientas que utilizaremos en nuestras
 sesión de cohorte completa (formación y reuniones) junto con las alternativas que
-puedes utilizar en tus reuniones de tutoría. Si estás acostumbrado a utilizar una herramienta
+puedes utilizar en tus reuniones de tutoría. Si tienes la costumbre de usar una herramienta
 que no está en esta lista, puedes utilizarla (y hacernos saber cuál es
 para que podamos añadirla a la lista).
 
 #### Videoconferencia {#videocalls}
 
-Para nuestras Llamadas de Cohorte utilizaremos Zoom. Enviaremos un calendario con las
+Para nuestras Llamadas de Cohorte utilizaremos Zoom. Enviaremos un calendario con el
 horario completo del programa y los enlaces de zoom y la reunión compartida
 a tu correo electrónico. Puedes añadir este calendario a tu agenda.
 
