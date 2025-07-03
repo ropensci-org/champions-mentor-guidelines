@@ -1,6 +1,6 @@
 # Introduction
 
-## Welcome
+## Welcome!
 
 Thank you for volunteering to be a mentor for the [rOpenSci Champions
 Program](https://ropensci.org/champions/).
