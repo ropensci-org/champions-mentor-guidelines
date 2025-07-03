@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 book:
+  site-url: https://ropensci-org.github.io/champions-mentor-guidelines/
   title: "rOpenSci Champions Program Mentor Guidelines v2.0"
   author: "Yanina Bellini Saibene"
   date: "2024-01-05"
