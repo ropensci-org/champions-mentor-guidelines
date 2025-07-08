@@ -37,7 +37,7 @@ jobs:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
         uses: nwtgck/actions-netlify@v1.1
         with:
-          publish-dir: './_book'
+          publish-dir: './docs'
           production-branch: master
           github-token: ${{ secrets.GITHUB_TOKEN }}
           deploy-message:
