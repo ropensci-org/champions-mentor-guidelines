@@ -34,6 +34,7 @@ jobs:
         id: netlify-deploy
         env: # Set the secret as an input
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
         uses: nwtgck/actions-netlify@v1.1
         with:
           publish-dir: './_book'
