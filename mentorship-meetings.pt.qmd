@@ -1,0 +1,86 @@
+# Reuniões de mentoria
+
+As reuniões de mentoria são as chamadas on-line individuais que você faz com o seu campeão.
+
+:::: callout-note
+
+## Reunião presencial
+
+Esse formato de reunião é opcional. Não se espera que você tenha reuniões presenciais.
+:::
+
+## Agenda e anotações da reunião
+
+Pedimos que você faça anotações colaborativas das suas reuniões. Isso ajudará a concentrar a discussão e a manter um registro do progresso. Se você usa o Google Docs, pode criar um documento na pasta que criamos para você na unidade do programa. Você pode fazer uma cópia do documento [*modelo de reunião*](https://docs.google.com/document/d/1VtNYfDNYRS7xAbs1Ajf2S5wsv3mOQ0BcTn93cXAv6sc/) que fornecemos a você.
+
+## Frequência
+
+Você deve se reunir com a pessoa que está orientando. **todo mês** Estimamos reuniões de pelo menos 30 minutos, podendo haver mais sessões se necessário e se vocês dois puderem. O dia e a hora são combinados entre vocês. Consulte a seção @programação para ter uma ideia das ferramentas disponíveis para reuniões.
+
+## Acompanhamento das reuniões
+
+Solicitaremos que você se registre em [este formulário](https://airtable.com/appF6OXmxkk8VmR8a/shrV3SruqtGwe1Bdj) quando você realizar essas reuniões. Isso nos ajuda a manter o controle e a saber se tudo está indo bem. **Você pode usar este formulário para solicitar apoio da equipe do rOpenSci.**.
+
+Na seção [*modelo de reunião do google doc*](https://docs.google.com/document/d/1VtNYfDNYRS7xAbs1Ajf2S5wsv3mOQ0BcTn93cXAv6sc/edit?usp=sharing) fornecemos um guia com os tópicos/questões que você pode usar em cada reunião. É claro que você pode escolher sua própria estrutura, mas é importante ter uma pauta.
+
+#### Primeira reunião
+
+Na primeira reunião, recomendamos que você
+
+- Apresentações: para que você se conheça,
+
+- Um momento para os Campeões falarem sobre seus projetos com seus mentores.
+
+- Defina um ou dois objetivos para o seu projeto,
+
+- Possíveis áreas para você pensar:
+  
+  - *Para um novo projeto de pacote:* Uma primeira versão funcional do pacote seguindo as recomendações do guia de desenvolvimento do rOpenSci. Melhorar as funções, os testes, a documentação, o repositório e as funcionalidades. Gerar o site do pacote ou aprimorá-lo.
+  
+  - *Para que um pacote seja enviado para revisão:* preparar o pacote para envio ao processo de revisão, enviar o pacote para revisão e concluir o processo. Melhorar a funcionalidade, os testes, a documentação, o repositório, a funcionalidade e a governança. Escreva um artigo para o JOSS ou JOSE sobre o pacote.
+  
+  - *Para se tornar um revisor:* [preencha o formulário para revisar](https://airtable.com/app8dssb6a7PG6Vwj/shrnfDI2S9uuyxtDw) e depois revisar [a lista de pacotes que estão aguardando revisão](https://github.com/ropensci/software-review/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) e discuta quais podem ser boas opções para análise.  Informe ao Community Manager sobre essas preferências, que deverá entrar em contato com a equipe editorial para organizar a análise. [Leia o Guia de revisão de pacotes do rOpenSci](https://devguide.ropensci.org/es/index.es.html). Revisar pelo menos um pacote atribuído.
+
+- O que você espera do seu mentor?
+
+#### Entre as reuniões
+
+Para as reuniões seguintes, recomendamos que você
+
+- Destaques do mês anterior + Agradecimentos (alguém a quem você possa agradecer ou apreciar?)
+
+- Revisar os objetivos e o roteiro
+
+- Estamos progredindo e precisamos fazer algum ajuste?
+
+- **Na reunião de janeiro/fevereiro** Definir um ou dois objetivos para as atividades de divulgação
+  
+  - Analisar possíveis contribuições por tipo (eventos como "conversas da comunidade", webinars, reuniões, conferências (uma palestra ou workshop na useR!, Posit, LatinR), artigo de blog, tutorial, workshop, palestra, sessão de trabalho conjunto), por número, levar em conta quando e com quem (outra comunidade, grupo R-Ladies, universidade, instituições), por objetivo (desenvolver uma nova habilidade, tentar algo novo, praticar uma habilidade, organizar algo com outra comunidade).
+
+- **Quando é a convocação de um mês com uma coorte** Você pode fazer uma revisão da convocação da coorte: alguma reflexão, pergunta ou comentário após a última convocação?
+
+- Em que mais podemos ajudar?
+
+- Da próxima vez
+
+As reuniões intermediárias podem ser usadas para sessões de programação entre pares ou revisão de código.
+
+#### Última reunião
+
+Para a última reunião, recomendamos:
+
+- Comemore! Veja o que você conquistou nos últimos meses!
+  
+  - Reveja as metas do início do programa - você está onde imaginava estar? Por que sim ou por que não?
+
+- Sprint + Mentoria e treinamento
+  
+  - O que deu certo?
+  
+  - O que você poderia melhorar?
+  
+  - Algo que deveríamos fazer diferente da próxima vez?
+
+- Próximos passos
+
+
