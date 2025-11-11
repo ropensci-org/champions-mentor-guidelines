@@ -1,0 +1,110 @@
+# Habilidades de mentoria
+
+Esta é uma lista de recursos e ferramentas do treinamento rOpenSci Mentor(a|e)s.
+Você pode acessar todos os [materiais de treinamento](https://ropensci-training.github.io/ropensci-mentors/) incluindo o
+[*slides*](https://docs.google.com/presentation/d/1OQ_EpW6cgebENt-gBtG53WbgvioIy_EU9Ntym7wJocg/). Também compartilhamos as anotações colaborativas da reunião ancoradas no canal do Slack para mentores e mentorados.
+
+## Escuta ativa
+
+Dicas para ouvir ativamente:
+
+- Suspenda o julgamento e ouça.
+
+- Dê toda a sua atenção ao orador (não ensaie o que você está dizendo).
+  você vai dizer/responder)
+
+- Incentive o orador com dicas verbais e não verbais.
+
+## Perguntas eficazes
+
+As perguntas nos permitem
+
+- Acessar e analisar informações.
+
+- Estimular o pensamento e a criatividade.
+
+- Aprendizado por meio de debates.
+
+Veja o modelo [*GROW (GROW em inglês)*](#grow-model) por exemplo.
+
+## Dando feedback
+
+É mais fácil dar e receber opiniões quando ambos os lados compartilham
+expectativas sobre o que está e o que não está no escopo e como o feedback pode ser usado.
+Você deve formular comentários.
+
+Dicas para dar feedback:
+
+- Tente ser útil.
+
+- Seja concreto. Concentre-se em comportamentos observáveis.
+
+- Fale por você.
+
+- Equilibre elogios e comentários críticos: é importante dizer às pessoas o que você quer dizer.
+  você deve continuar a fazer, bem como o que elas devem mudar.
+
+## Modelo *CRESCER*
+
+**Objetivo:** Chegue a um acordo sobre uma questão e um objetivo ou uma ou duas metas de longo prazo.
+
+**Realidade:** autoavaliação, exemplos concretos.
+
+**Opções:** sugestões oferecidas e escolhas feitas.
+
+**Caminho a seguir:** Próximas etapas.
+
+Dicas para o modelo *CRESCER*:
+
+- "Pergunte" em vez de "fale".
+
+- Ilustre e verifique a compreensão.
+
+- Pense de forma criativa!
+
+- Você não precisa ser um especialista na situação: você é
+  você está facilitando.
+
+Exemplos de perguntas:
+
+META ou OBJETIVOS
+
+- O que você deseja alcançar?
+
+- O que acontecerá quando você tiver alcançado esse objetivo?
+
+- Os OBJETIVOS podem ser *INTELIGENTES* (Inteligente): Específicos, mensuráveis, atingíveis, realistas e com prazo determinado.
+
+REALIDADE
+
+- O que está acontecendo neste momento?
+
+- O que está impedindo você de seguir em frente?
+
+- O que você já tentou?
+
+- O que aconteceu?
+
+- O que você aprendeu?
+
+OPÇÕES
+
+- O que mais você poderia fazer? O que mais você poderia fazer?
+
+- Quais são as vantagens/desvantagens de cada opção?
+
+- Você quer que eu faça sugestões?
+
+- Quais são as opções que você mais gosta?
+
+CAMINHO PARA FRENTE
+
+- O que você vai fazer?
+
+- Qual será o primeiro passo que você dará?
+
+- Quando exatamente você começará e terminará cada etapa?
+
+- De que apoio você precisa e de quem?
+
+
