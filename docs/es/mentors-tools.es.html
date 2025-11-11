@@ -1,15 +1,13 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
 <head>
-<link rel="alternate" hreflang="en" href="/index.html" />
-<link rel="alternate" hreflang="es" href="/es/index.es.html" />
+<link rel="alternate" hreflang="en" href="/mentors-tools.html" />
+<link rel="alternate" hreflang="es" href="/es/mentors-tools.es.html" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.4.528">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-<meta name="author" content="Yanina Bellini Saibene">
-<meta name="dcterms.date" content="2024-01-05">
-<title>rOpenSci Champions Program Mentor Guidelines v2.0</title>
+<title>Orientaciones para mentor(a|e)s del Programa de Campeon(e|a)s de rOpenSci v2.0 - 2  Herramientas</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,7 +22,8 @@ ul.task-list li input[type="checkbox"] {
 }
 </style>
 <script src="site_libs/quarto-nav/quarto-nav.js"></script><script src="site_libs/quarto-nav/headroom.min.js"></script><script src="site_libs/clipboard/clipboard.min.js"></script><script src="site_libs/quarto-search/autocomplete.umd.js"></script><script src="site_libs/quarto-search/fuse.min.js"></script><script src="site_libs/quarto-search/quarto-search.js"></script><meta name="quarto:offset" content="./">
-<link href="./introduction.html" rel="next">
+<link href="./mentorship-meetings.es.html" rel="next">
+<link href="./introduction.es.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script><script src="site_libs/quarto-html/popper.min.js"></script><script src="site_libs/quarto-html/tippy.umd.min.js"></script><script src="site_libs/quarto-html/anchor.min.js"></script><link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script><link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
@@ -43,17 +42,17 @@ ul.task-list li input[type="checkbox"] {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
+    "search-no-results-text": "Sin resultados",
+    "search-matching-documents-text": "documentos encontrados",
+    "search-copy-link-title": "Copiar el enlace en la búsqueda",
+    "search-hide-matches-text": "Ocultar resultados adicionales",
+    "search-more-match-text": "resultado adicional en este documento",
+    "search-more-matches-text": "resultados adicionales en este documento",
+    "search-clear-button-title": "Borrar",
     "search-text-placeholder": "",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
+    "search-detached-cancel-button-title": "Cancelar",
+    "search-submit-button-title": "Enviar",
+    "search-label": "Buscar"
   }
 }</script>
 </head>
@@ -61,10 +60,10 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top"><nav class="quarto-secondary-nav"><div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Cohorts 2022-2024</a></li></ol></nav><a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./mentors-tools.es.html"><span class="chapter-number">2</span>  <span class="chapter-title">Herramientas</span></a></li></ol></nav><a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
@@ -74,125 +73,198 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto"><div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
-      <a href="./">rOpenSci Champions Program Mentor Guidelines v2.0</a> 
+      <a href="./">Orientaciones para mentor(a|e)s del Programa de Campeon(e|a)s de rOpenSci v2.0</a> 
     </div>
       </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
-        <div id="quarto-search" class="" title="Search"></div>
+        <div id="quarto-search" class="" title="Buscar"></div>
         </div>
         </div>
     <div class="dropdown" id="languages-links-parent">
-<button class="btn btn-primary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" id="languages-button"><i class="bi bi-globe2"></i></button><ul class="dropdown-menu" id="languages-links"><li><a class="dropdown-item" href="/es/index.es.html" id="language-link-es">Español</a></li></ul>
+<button class="btn btn-primary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" id="languages-button"><i class="bi bi-globe2"></i></button><ul class="dropdown-menu" id="languages-links"><li><a class="dropdown-item" href="/mentors-tools.html" id="language-link-en">English</a></li></ul>
 </div>
 <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
 <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Cohorts 2022-2024</span></a>
+  <a href="./index.es.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Cohortes 2022-2026</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./introduction.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">1</span>  <span class="chapter-title">Introduction</span></span></a>
+  <a href="./introduction.es.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>  <span class="chapter-title">Introducción</span></span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
       <span class="sidebar-item-text sidebar-link text-start">
- <span class="menu-text">Introduction</span></span>
+ <span class="menu-text">Introducción</span></span>
   </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./mentors-tools.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">2</span>  <span class="chapter-title">Mentors Tools</span></span></a>
+  <a href="./mentors-tools.es.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">2</span>  <span class="chapter-title">Herramientas</span></span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
       <span class="sidebar-item-text sidebar-link text-start">
- <span class="menu-text">Mentors Tools</span></span>
+ <span class="menu-text">Herramientas</span></span>
   </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./mentorship-meetings.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">3</span>  <span class="chapter-title">Mentorship Meetings</span></span></a>
+  <a href="./mentorship-meetings.es.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>  <span class="chapter-title">Reuniones de mentoría</span></span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
       <span class="sidebar-item-text sidebar-link text-start">
- <span class="menu-text">Mentorship Meetings</span></span>
+ <span class="menu-text">Reuniones de mentoría</span></span>
   </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./mentorship-skills.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">4</span>  <span class="chapter-title">Mentorship Skills</span></span></a>
+  <a href="./mentorship-skills.es.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>  <span class="chapter-title">Habilidades de mentoría</span></span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
       <span class="sidebar-item-text sidebar-link text-start">
- <span class="menu-text">Mentorship Skills</span></span>
+ <span class="menu-text">Habilidades de mentoría</span></span>
   </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./sources.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">5</span>  <span class="chapter-title">Sources and Acknowledgments</span></span></a>
+  <a href="./sources.es.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">5</span>  <span class="chapter-title">Fuentes y agradecimientos</span></span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
       <span class="sidebar-item-text sidebar-link text-start">
- <span class="menu-text">Sources</span></span>
+ <span class="menu-text">Fuentes</span></span>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <span class="sidebar-item-text sidebar-link text-start">
+ <span class="menu-text">Apéndices</span></span>
   </li>
     </ul>
 </div>
 </nav><div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active"><h2 id="toc-title">Table of contents</h2>
+        <nav id="TOC" role="doc-toc" class="toc-active"><h2 id="toc-title">Tabla de contenidos</h2>
    
   <ul>
-<li><a href="#cohorts-2022-2024" id="toc-cohorts-2022-2024" class="nav-link active" data-scroll-target="#cohorts-2022-2024">Cohorts 2022-2024</a></li>
-  <li><a href="#license" id="toc-license" class="nav-link" data-scroll-target="#license">License</a></li>
-  <li><a href="#how-to-cite-this-work" id="toc-how-to-cite-this-work" class="nav-link" data-scroll-target="#how-to-cite-this-work">How to cite this work</a></li>
+<li><a href="#infrastructure" id="toc-infrastructure" class="nav-link active" data-scroll-target="#infrastructure"><span class="header-section-number">2.0.1</span> Infraestructura</a></li>
+  <li><a href="#meeting-tools" id="toc-meeting-tools" class="nav-link" data-scroll-target="#meeting-tools"><span class="header-section-number">2.0.2</span> Herramientas para las reuniones</a></li>
+  <li><a href="#note-taking" id="toc-note-taking" class="nav-link" data-scroll-target="#note-taking"><span class="header-section-number">2.0.3</span> Notas colaborativas</a></li>
+  <li><a href="#scheduling" id="toc-scheduling" class="nav-link" data-scroll-target="#scheduling"><span class="header-section-number">2.0.4</span> Herramientas para organizar y agendar reuniones</a></li>
+  <li><a href="#c%C3%B3digo-de-conducta" id="toc-código-de-conducta" class="nav-link" data-scroll-target="#código-de-conducta"><span class="header-section-number">2.0.5</span> Código de conducta</a></li>
+  <li><a href="#divulgaci%C3%B3n-y-contribuciones" id="toc-divulgación-y-contribuciones" class="nav-link" data-scroll-target="#divulgación-y-contribuciones"><span class="header-section-number">2.0.6</span> Divulgación y contribuciones</a></li>
   </ul></nav>
 </div>
 <!-- main -->
 <main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block default"><div class="quarto-title">
-<h1 class="title">rOpenSci Champions Program Mentor Guidelines v2.0</h1>
+<h1 class="title">
+<span class="chapter-number">2</span>  <span class="chapter-title">Herramientas</span>
+</h1>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Yanina Bellini Saibene </p>
-          </div>
-  </div>
     
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">January 5, 2024</p>
-    </div>
-  </div>
   
     
   </div>
   
 
 
-</header><section id="cohorts-2022-2024" class="level2 unnumbered"><h2 class="unnumbered anchored" data-anchor-id="cohorts-2022-2024">Cohorts 2022-2024</h2>
-<p><img src="images/media/image2.png" class="img-fluid"><em>Cover illustration by <a href="https://www.lydiakahill.com/">Lydia Hill</a></em></p>
-</section><section id="license" class="level2"><h2 class="anchored" data-anchor-id="license">License</h2>
-<p>This work is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0</a> license (CC-BY-4.0).</p>
-</section><section id="how-to-cite-this-work" class="level2"><h2 class="anchored" data-anchor-id="how-to-cite-this-work">How to cite this work</h2>
-<p>Yanina Bellini Saibene. (2024, January 5). rOpenSci Champions Program Mentor Guidelines v2.0.</p>
-
-
-</section></main><!-- /main --><script id="quarto-html-after-body" type="application/javascript">
+</header><section id="infrastructure" class="level3" data-number="2.0.1"><h3 data-number="2.0.1" class="anchored" data-anchor-id="infrastructure">
+<span class="header-section-number">2.0.1</span> Infraestructura</h3>
+<p>Configuramos una serie de herramientas para ayudarte en tu mentoría.</p>
+<ul>
+<li>
+<p><strong>Google Drive:</strong> la unidad contiene:</p>
+<ul>
+<li><p>Una carpeta para cada campeón/a. Tienes acceso a la carpeta la persona que mentoreas. Esta carpeta tiene ahora un documento con la aplicación completa. En el futuro también subiremos vídeos u otro material que se generen como parte de su trabajo en el programa. También puedes utilizarla para almacenar y compartir recursos.</p></li>
+<li>
+<p>Una carpeta común para mentores-as con:</p>
+<ul>
+<li><p>Las diapositivas de la reunión inicial.</p></li>
+<li><p>El enlace a este libro.</p></li>
+<li><p>Las diapositivas de la formación de mentores-as.</p></li>
+<li><p>Las plantillas.</p></li>
+<li><p>Material de la marca de rOpenSci (como logos, plantillas de slides, etc).</p></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Plantillas:</strong> Hemos creado plantillas para las reuniones con tu campeon/a Hay 3 plantillas diferentes: una para la primera reunión, otra para la última reunión y otra para el resto de las reuniones. En el <a href="https://docs.google.com/document/d/1VtNYfDNYRS7xAbs1Ajf2S5wsv3mOQ0BcTn93cXAv6sc/">documento de google de *plantillas</a></p>
+<p>podes econtrar estas sugerencias de agenda. El documento se puede copiar, adaptar y modificar para su uso.</p>
+</li>
+<li>
+<p><strong>Slack:</strong> tenemos tres canales privados para tu comunicación con las personas que participan de esta cohorte y con los participantes de las cohortes previas:</p>
+<ul>
+<li><p><strong>#mentors-2025</strong>: sólo mentores/as en este canal. Puedes hacer preguntas, compartir recursos, pedir consejo a tus compañeros/as. Yani está en este espacio para proporcionar apoyo y compartir información relevante.</p></li>
+<li><p><strong>#champions-and-mentors-2025:</strong> un canal con todos los participantes. Yani y Maëlle están en este canal para prestar apoyo y compartir información común.</p></li>
+<li><p>** champions-program:** un canal con todos los participantes del programa. Yani y Maëlle están en este canal para ofrecer apoyo y compartir información común.</p></li>
+</ul>
+</li>
+</ul></section><section id="meeting-tools" class="level3" data-number="2.0.2"><h3 data-number="2.0.2" class="anchored" data-anchor-id="meeting-tools">
+<span class="header-section-number">2.0.2</span> Herramientas para las reuniones</h3>
+<p>Todas nuestras reuniones en línea utilizarán</p>
+<ul>
+<li><p>Software de videoconferencia</p></li>
+<li><p>Notas colaborativas</p></li>
+<li><p>Herramientas de programación</p></li>
+<li><p>Código de conducta</p></li>
+</ul>
+<p>La siguiente lista es un resumen de las herramientas que utilizaremos en nuestras sesión de cohorte completa (formación y reuniones) junto con las alternativas que puedes utilizar en tus reuniones de tutoría. Si tienes la costumbre de usar una herramienta que no está en esta lista, puedes utilizarla (y hacernos saber cuál es para que podamos añadirla a la lista).</p>
+<section id="videocalls" class="level4" data-number="2.0.2.1"><h4 data-number="2.0.2.1" class="anchored" data-anchor-id="videocalls">
+<span class="header-section-number">2.0.2.1</span> Videoconferencia</h4>
+<p>Para nuestras Llamadas de Cohorte utilizaremos Zoom. Enviaremos un calendario con el horario completo del programa y los enlaces de zoom y la reunión compartida a tu correo electrónico. Puedes añadir este calendario a tu agenda.</p>
+<p>Para las reuniones de mentoría, normalmente llamadas 1:1 con tu campeon/a, eres libre de utilizar cualquier herramienta que acuerden. Aquí tienes una lista de servicios:</p>
+<ul>
+<li><p><a href="http://zoom.us/"><em>Zoom</em></a>: también puedes utilizar tus propias salas Zoom. En cuenta gratuita permite 40 minutos de llamada para reuniones 1 a 1.</p></li>
+<li><p><a href="https://slack.com/help/articles/216771908-Make-calls-in-Slack"><em>Slack</em></a>: Slack permite llamadas entre los miembros del espacio de trabajo. Puedes utilizar esta funcionalidad en el Slack de rOpenSci.</p></li>
+<li><p><a href="https://meet.google.com/landing">Google Meet</a>: si utilizas google calendar para programar tu llamadas de mentoría, puedes añadir una llamada haciendo clic en el botón ‘Añadir videoconferencia de Google Meet’.</p></li>
+<li><p><a href="http://meet.jit.si/"><em>Jitsi:</em></a> una alternativa de código abierto. Integra con Google Calendar y Slack.</p></li>
+<li><p><a href="https://www.whatsapp.com/"><em>WhatsApp</em></a>: funciona bien en zonas con menor ancho de banda.</p></li>
+<li><p><a href="https://telegram.org/"><em>Telegrama</em></a>: también es genial para zonas con un ancho de banda bajo.</p></li>
+<li><p><a href="https://whereby.com/"><em>Whereby</em></a> tiempo ilimitado para reuniones uno a uno.</p></li>
+</ul></section></section><section id="note-taking" class="level3" data-number="2.0.3"><h3 data-number="2.0.3" class="anchored" data-anchor-id="note-taking">
+<span class="header-section-number">2.0.3</span> Notas colaborativas</h3>
+<p>Utilizaremos Google Docs o una solucion simil Etherpad (si es requedida por accesibilidad) para nuestras llamadas de Cohorte. Para tu mentoría 1:1 puedes utilizar cualquier herramienta de notas colaborativas.</p>
+<ul>
+<li><p><a href="https://docs.google.com/">Google Docs</a> Para utilizar Google Docs en tus reuniones de mentoría, crea un documento en tu carpeta de Google Drive. Puedes hacer una copia de la plantilla que te proporcionamos.</p></li>
+<li><p><a href="https://hackmd.io/">Hack.md:</a> Esta es una opción accesible y tienen formato Markdown para el texto. Se puede integrar con GitHub.</p></li>
+<li><p><a href="https://pad.riseup.net/">Formato Etherpad</a> esta es otra opción accesible con formato Markdown para el texto y no necesita una cuenta de usuario. El inconveniente es que sólo está disponible durante un tiempo (puedes configurar cuántos días de una lista de opciones).</p></li>
+</ul></section><section id="scheduling" class="level3" data-number="2.0.4"><h3 data-number="2.0.4" class="anchored" data-anchor-id="scheduling">
+<span class="header-section-number">2.0.4</span> Herramientas para organizar y agendar reuniones</h3>
+<p>Utilizamos herramientas para acordar el día y la hora en que nos reuniremos. Quizás la forma más fácil acordar las reuniones sea por correo electrónico, pero aquí tienes una lista de herramientas que pueden ayudarte en esta tarea (especialmente porque las zonas horarias pueden ser muy complicadas).</p>
+<ul>
+<li><p><a href="https://calendly.com/"><em>Calendly</em></a>: puedes enlazar tu calendario con Calendly y proporcionar un enlace a otras personas para que elijan un día y una hora en tu agenda. Es gratuito sólo para un tipo de evento. También ofrece una opción de encusta Tiene un límite de 40 lugares y es accesible para lectores de pantalla. lector de pantalla.</p></li>
+<li><p><a href="https://doodle.com/"><em>Doodle:</em></a> la versión gratuita muestra anuncios. Es accesible para lectores de pantalla. Los anuncios son muy molestos para la navegación de la herramienta. Tú eliges qué día y a qué horas de esos dias estas disponible, y ofrece una tercera opción, que es “Tal vez” y que permite organizar con una mayor flexibilidad que cuando las opcopnes son “Si Puedo” y “No puedo”. Es accesible para lectores de pantalla.</p></li>
+<li><p><a href="https://www.when2meet.com/"><em>When2meet:</em></a> es gratuito, te permite elegir un día y un intervalo de tiempo y crear un enlace para llenar la reserva. Puedes decir sí o no. No es accesible para lectores de pantalla.</p></li>
+<li><p>Google Calendar: si tienes un plan de empresa, puedes ofrecer lugares libres en tu agenda para que la gente reserve reuniones contigo.</p></li>
+<li><p><a href="http://timeanddate.com/"><em>Hora y fecha</em></a>: para comprobar los husos horarios y calcular fechas y horas.</p></li>
+<li><p><a href="https://www.worldtimebuddy.com"><em>Compañero de la Hora Mundial</em></a>: para comprobar los husos horarios y calcular fechas y horas.</p></li>
+</ul></section><section id="código-de-conducta" class="level3" data-number="2.0.5"><h3 data-number="2.0.5" class="anchored" data-anchor-id="código-de-conducta">
+<span class="header-section-number">2.0.5</span> Código de conducta</h3>
+<p>rOpenSci se compromete a proporcionar un ambiente seguro, inclusivo, acogedor y y libre de acoso para todas las personas. Tenemos un <a href="https://ropensci.org/code-of-conduct/"><em>Código de Conducta</em></a> que incluye instrucciones pare reportar incidentes y como es el proceso para aplicar nuestro CdC. Alternativamente, puedes enviar un correo electrónico a ’<a href="mailto:conduct@ropensci.org">conduct@ropensci.org</a> que se enviará a los miembros del Comité.</p>
+</section><section id="divulgación-y-contribuciones" class="level3" data-number="2.0.6"><h3 data-number="2.0.6" class="anchored" data-anchor-id="divulgación-y-contribuciones">
+<span class="header-section-number">2.0.6</span> Divulgación y contribuciones</h3>
+<p>En la segunda parte del año, campeones/as planificarán y llevarán a cabo actividades de divulgación, de preferencia en sus comunidades locales, pero también en comunidades internacionales.</p>
+<p>Estas actividades pueden ser talleres, charlas, participación en eventos y conferencias, publicaciones en blogs o entrevistas. Pueden organizarse con instituciones, comunidades, grupos de usuarios y organizaciones locales y regionales; de hecho, ¡es muy deseable que se organicen así!</p>
+<p>Por supuesto, estas actividades pueden estar dentro del abanico de posibilidades de contribución que ya tiene rOpenSci, como las “Conversaciones con la comunidad”, las sesiones de co-working, los mini-hackatones, articulos en el blog de rOpenSci y las traducciones.</p>
+<p>Estos recursos pueden ayudarte a ver qué tipo de contribuciones y participaciones se pueden hacer en rOpenSci y con estas ideas planificar la actividad de difusión del programa:</p>
+<ul>
+<li><p><a href="https://ropensci.org/es/blog/2022/09/13/contributing-ropensci-es/">Hoja de consejos</a> Esta hoja de consejos contiene un resumen de las distintas formas de contribuir y participar en rOpenSci.</p></li>
+<li><p><a href="https://contributing.ropensci.org/">Guía de contribución</a> tiene más detalles, enlaces, materiales y ejemplos de cada forma de participar en nuestra comunidad. (En ingles).</p></li>
+<li><p><a href="https://blogguide.ropensci.org/">Guía del blog</a>: este libro explica cómo escribir un blog post para el sitio web de rOpenSci (en Ingles).</p></li>
+</ul></section></main><!-- /main --><script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
     const mode = bsSheetEl.getAttribute("data-mode");
@@ -246,12 +318,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // flash "checked"
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copied!");
+    button.setAttribute("title", "Copiado");
     let tooltip;
     if (window.bootstrap) {
       button.setAttribute("data-bs-toggle", "tooltip");
       button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
+      button.setAttribute("data-bs-title", "Copiado");
       tooltip = new bootstrap.Tooltip(button, 
         { trigger: "manual", 
           customClass: "code-copy-button-tooltip",
@@ -574,10 +646,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script><nav class="page-navigation"><div class="nav-page nav-page-previous">
+      <a href="./introduction.es.html" class="pagination-link  aria-label=">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">1</span>  <span class="chapter-title">Introducción</span></span>
+      </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./introduction.html" class="pagination-link" aria-label="&lt;span class='chapter-number'&gt;1&lt;/span&gt;  &lt;span class='chapter-title'&gt;Introduction&lt;/span&gt;">
-        <span class="nav-page-text"><span class="chapter-number">1</span>  <span class="chapter-title">Introduction</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./mentorship-meetings.es.html" class="pagination-link" aria-label="&lt;span class='chapter-number'&gt;3&lt;/span&gt;  &lt;span class='chapter-title'&gt;Reuniones de mentoría&lt;/span&gt;">
+        <span class="nav-page-text"><span class="chapter-number">3</span>  <span class="chapter-title">Reuniones de mentoría</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

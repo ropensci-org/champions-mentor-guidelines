@@ -1,0 +1,172 @@
+[
+  {
+    "objectID": "index.es.html#cohortes-2022-2026",
+    "href": "index.es.html#cohortes-2022-2026",
+    "title": "Orientaciones para mentor(a|e)s del Programa de Campeon(e|a)s de rOpenSci v2.0",
+    "section": "Cohortes 2022-2026",
+    "text": "Cohortes 2022-2026\n Ilustración de portada Lydia Hill",
+    "crumbs": [
+      "Cohortes 2022-2026"
+    ]
+  },
+  {
+    "objectID": "index.es.html#licencia",
+    "href": "index.es.html#licencia",
+    "title": "Orientaciones para mentor(a|e)s del Programa de Campeon(e|a)s de rOpenSci v2.0",
+    "section": "Licencia",
+    "text": "Licencia\nEsta obra está bajo licencia Creative Commons Reconocimiento 4.0 (CC-BY-4.0).",
+    "crumbs": [
+      "Cohortes 2022-2026"
+    ]
+  },
+  {
+    "objectID": "index.es.html#cómo-citar-este-trabajo",
+    "href": "index.es.html#cómo-citar-este-trabajo",
+    "title": "Orientaciones para mentor(a|e)s del Programa de Campeon(e|a)s de rOpenSci v2.0",
+    "section": "Cómo citar este trabajo",
+    "text": "Cómo citar este trabajo\nYanina Bellini Saibene. (2025, 11 de Junio). rOpenSci Champions Program Mentor Guidelines v3.0.",
+    "crumbs": [
+      "Cohortes 2022-2026"
+    ]
+  },
+  {
+    "objectID": "introduction.es.html",
+    "href": "introduction.es.html",
+    "title": "1  Introducción",
+    "section": "",
+    "text": "2 Comentarios\nContribuciones de todo tipo son bienvenidas, desde sugerencias para mejoras, erratas y material nuevo. Por favor, ponte en contacto con con tus ideas.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introducción</span>"
+    ]
+  },
+  {
+    "objectID": "introduction.es.html#te-damos-la-bienvenida",
+    "href": "introduction.es.html#te-damos-la-bienvenida",
+    "title": "1  Introducción",
+    "section": "1.1 Te damos la bienvenida",
+    "text": "1.1 Te damos la bienvenida\nGracias por ofrecerte para ser mentor del Programa de Campeon(a|e)s de rOpenSci\nDesarrollamos esta guía para ayudarte a navegar por la logística del programa y proporcionar herramientas para tu papel como mentor o mentora.\nComo documento vivo que construimos en comunidad, siempre estamos muy agradecidos por comentarios, mejoras y contribuciones.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introducción</span>"
+    ]
+  },
+  {
+    "objectID": "introduction.es.html#descripción-de-funciones",
+    "href": "introduction.es.html#descripción-de-funciones",
+    "title": "1  Introducción",
+    "section": "1.2 Descripción de funciones",
+    "text": "1.2 Descripción de funciones\nLas personas mentoras desempeñarán un papel vital en el Programa aconsejando e inspirando a tu campeón o campeona.También conectarán a sus a sus aprendices con personas, programas y organizaciones, recomendándoles recursos, lecturas, formación y experiencias. También van a proveer feedback sobre el proyecto del campeón o campeona.\nTrabajarás con la persona que mentorees para desarrollar su proyecto, que puede ser una de las siguientes opciones:\n\nCrear un nuevo paquete;\nPasar por el proceso de revisión con un paquete en R que ya tengan desarrollado;\nServir como revisor o revisora para el sistema de revisión por pares de software de rOpenSci.\n\nMentor(e|a)s también pueden apoyar a los Campeon(e|a)s en la realización de otras actividades entre las que se incluyen: dar una charla, escribir artículos o notas técnicas para el blog de rOpenSci y enseñar a otras personas de la comunidad.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introducción</span>"
+    ]
+  },
+  {
+    "objectID": "introduction.es.html#cronología-del-programa",
+    "href": "introduction.es.html#cronología-del-programa",
+    "title": "1  Introducción",
+    "section": "1.3 Cronología del Programa",
+    "text": "1.3 Cronología del Programa\nSe espera que el compromiso de tiempo total sea de aproximadamente 2-4 horas al mes desde mayo de 2025 - julio de 2025 para completar el siguiente calendario provisional del programa.\n\n\n\n\n\n\n\n\n\nFecha\nEvento\nDetalle\nDuración\n\n\n\n\nOctubre de 2023\nSeleccionar campeones\nRevisa, clasifica y selecciona 1-2 proyectos revisados para mentorizarlos.\n2 h\n\n\nnoviembre de 2023\nActo inaugural\nInfórmate sobre el programa, revisa las expectativas del programa y resuelve tus dudas. Conoce a los alumnos.\n1.5 h\n\n\nenero - abril 2024\nFormación\nCómo hacer de mentor y logística en el programa.\n2 h\n\n\nmarzo-julio 2024\nReunión con el alumno\nProporcionar comentarios y orientación sobre el proyecto del alumno. Ponerle en contacto con otros expertos, mentores o miembros de la comunidad. Recomendar formación y recursos para el proyecto del alumno.\n1 reunión al mes 0,5 h\n\n\nMayo de 2024\nReunión de cohortes [opcional]\nLos campeones presentarán su proyecto y recibirán comentarios.\n1.5 h\n\n\nagosto - noviembre 2023\nReunión con el alumno\nProporcionar comentarios y orientación sobre el proyecto del alumno. Ponerle en contacto con otros expertos, mentores o miembros de la comunidad. Recomendar formación y recursos para el proyecto del alumno.\n1 reunión al mes 0,5 h\n\n\nJulio de 2024\nReunión de cohortes [opcional]: Reflexiones sobre los proyectos\nSe invitará a los promotores a compartir con la cohorte las conclusiones de sus proyectos.\n1.5 h\n\n\nSeptiembre de 2024\nReunión de cohortes [opcional]: Reflexiones sobre los acontecimientos\nSe invitará a los promotores a compartir con la cohorte las conclusiones de sus actos.\n1.5 h\n\n\nOctubre de 2024\nReunión de cohortes: Reflexiones sobre el programa\nSe invitará a los mentores a compartir las conclusiones del programa y a ayudar a definir las futuras funciones de los Campeones.\n1.5 h\n\n\nNoviembre de 2024\nFin del plazo\nCerrar la cohorte y definir nuevas funciones para los Campeones y Mentores.\n1 h",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introducción</span>"
+    ]
+  },
+  {
+    "objectID": "introduction.es.html#enlaces-rápidos",
+    "href": "introduction.es.html#enlaces-rápidos",
+    "title": "1  Introducción",
+    "section": "1.4 Enlaces rápidos",
+    "text": "1.4 Enlaces rápidos\n\n1.4.1 Social\nPágina Web del Programa Campeones en el sitio de rOpenSci y Sitio Web del Programa https://ropensci.org/champions/\nSlack: ropensci.slack.com\nMastodon https://hachyderm.io/@rOpenSci\nLinkedIn\nVimeo (canal de videos)\nGitHub: https://github.com/ropensci\n\n\n1.4.2 Código de conducta\nCódigo de Conducta (versión en español)\n\n\n1.4.3 Contacto/Reunión con la Community Manager\nCalendly - Reserva una reunión con Yani (puedes elegir desde 15 a 60 minutos)\nCorreo electrónico: yabellini@ropensci.org",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introducción</span>"
+    ]
+  },
+  {
+    "objectID": "mentors-tools.es.html",
+    "href": "mentors-tools.es.html",
+    "title": "2  Herramientas",
+    "section": "",
+    "text": "2.0.1 Infraestructura\nConfiguramos una serie de herramientas para ayudarte en tu mentoría.\n\nGoogle Drive: la unidad contiene:\n\nUna carpeta para cada campeón/a. Tienes acceso a la carpeta la persona que mentoreas. Esta carpeta tiene ahora un documento con la aplicación completa. En el futuro también subiremos vídeos u otro material que se generen como parte de su trabajo en el programa. También puedes utilizarla para almacenar y compartir recursos.\nUna carpeta común para mentores-as con:\n\nLas diapositivas de la reunión inicial.\nEl enlace a este libro.\nLas diapositivas de la formación de mentores-as.\nLas plantillas.\nMaterial de la marca de rOpenSci (como logos, plantillas de slides, etc).\n\n\nPlantillas: Hemos creado plantillas para las reuniones con tu campeon/a Hay 3 plantillas diferentes: una para la primera reunión, otra para la última reunión y otra para el resto de las reuniones. En el documento de google de *plantillas\npodes econtrar estas sugerencias de agenda. El documento se puede copiar, adaptar y modificar para su uso.\nSlack: tenemos tres canales privados para tu comunicación con las personas que participan de esta cohorte y con los participantes de las cohortes previas:\n\n#mentors-2025: sólo mentores/as en este canal. Puedes hacer preguntas, compartir recursos, pedir consejo a tus compañeros/as. Yani está en este espacio para proporcionar apoyo y compartir información relevante.\n#champions-and-mentors-2025: un canal con todos los participantes. Yani y Maëlle están en este canal para prestar apoyo y compartir información común.\n** champions-program:** un canal con todos los participantes del programa. Yani y Maëlle están en este canal para ofrecer apoyo y compartir información común.\n\n\n\n\n2.0.2 Herramientas para las reuniones\nTodas nuestras reuniones en línea utilizarán\n\nSoftware de videoconferencia\nNotas colaborativas\nHerramientas de programación\nCódigo de conducta\n\nLa siguiente lista es un resumen de las herramientas que utilizaremos en nuestras sesión de cohorte completa (formación y reuniones) junto con las alternativas que puedes utilizar en tus reuniones de tutoría. Si tienes la costumbre de usar una herramienta que no está en esta lista, puedes utilizarla (y hacernos saber cuál es para que podamos añadirla a la lista).\n\n2.0.2.1 Videoconferencia\nPara nuestras Llamadas de Cohorte utilizaremos Zoom. Enviaremos un calendario con el horario completo del programa y los enlaces de zoom y la reunión compartida a tu correo electrónico. Puedes añadir este calendario a tu agenda.\nPara las reuniones de mentoría, normalmente llamadas 1:1 con tu campeon/a, eres libre de utilizar cualquier herramienta que acuerden. Aquí tienes una lista de servicios:\n\nZoom: también puedes utilizar tus propias salas Zoom. En cuenta gratuita permite 40 minutos de llamada para reuniones 1 a 1.\nSlack: Slack permite llamadas entre los miembros del espacio de trabajo. Puedes utilizar esta funcionalidad en el Slack de rOpenSci.\nGoogle Meet: si utilizas google calendar para programar tu llamadas de mentoría, puedes añadir una llamada haciendo clic en el botón ‘Añadir videoconferencia de Google Meet’.\nJitsi: una alternativa de código abierto. Integra con Google Calendar y Slack.\nWhatsApp: funciona bien en zonas con menor ancho de banda.\nTelegrama: también es genial para zonas con un ancho de banda bajo.\nWhereby tiempo ilimitado para reuniones uno a uno.\n\n\n\n\n2.0.3 Notas colaborativas\nUtilizaremos Google Docs o una solucion simil Etherpad (si es requedida por accesibilidad) para nuestras llamadas de Cohorte. Para tu mentoría 1:1 puedes utilizar cualquier herramienta de notas colaborativas.\n\nGoogle Docs Para utilizar Google Docs en tus reuniones de mentoría, crea un documento en tu carpeta de Google Drive. Puedes hacer una copia de la plantilla que te proporcionamos.\nHack.md: Esta es una opción accesible y tienen formato Markdown para el texto. Se puede integrar con GitHub.\nFormato Etherpad esta es otra opción accesible con formato Markdown para el texto y no necesita una cuenta de usuario. El inconveniente es que sólo está disponible durante un tiempo (puedes configurar cuántos días de una lista de opciones).\n\n\n\n2.0.4 Herramientas para organizar y agendar reuniones\nUtilizamos herramientas para acordar el día y la hora en que nos reuniremos. Quizás la forma más fácil acordar las reuniones sea por correo electrónico, pero aquí tienes una lista de herramientas que pueden ayudarte en esta tarea (especialmente porque las zonas horarias pueden ser muy complicadas).\n\nCalendly: puedes enlazar tu calendario con Calendly y proporcionar un enlace a otras personas para que elijan un día y una hora en tu agenda. Es gratuito sólo para un tipo de evento. También ofrece una opción de encusta Tiene un límite de 40 lugares y es accesible para lectores de pantalla. lector de pantalla.\nDoodle: la versión gratuita muestra anuncios. Es accesible para lectores de pantalla. Los anuncios son muy molestos para la navegación de la herramienta. Tú eliges qué día y a qué horas de esos dias estas disponible, y ofrece una tercera opción, que es “Tal vez” y que permite organizar con una mayor flexibilidad que cuando las opcopnes son “Si Puedo” y “No puedo”. Es accesible para lectores de pantalla.\nWhen2meet: es gratuito, te permite elegir un día y un intervalo de tiempo y crear un enlace para llenar la reserva. Puedes decir sí o no. No es accesible para lectores de pantalla.\nGoogle Calendar: si tienes un plan de empresa, puedes ofrecer lugares libres en tu agenda para que la gente reserve reuniones contigo.\nHora y fecha: para comprobar los husos horarios y calcular fechas y horas.\nCompañero de la Hora Mundial: para comprobar los husos horarios y calcular fechas y horas.\n\n\n\n2.0.5 Código de conducta\nrOpenSci se compromete a proporcionar un ambiente seguro, inclusivo, acogedor y y libre de acoso para todas las personas. Tenemos un Código de Conducta que incluye instrucciones pare reportar incidentes y como es el proceso para aplicar nuestro CdC. Alternativamente, puedes enviar un correo electrónico a ’conduct@ropensci.org que se enviará a los miembros del Comité.\n\n\n2.0.6 Divulgación y contribuciones\nEn la segunda parte del año, campeones/as planificarán y llevarán a cabo actividades de divulgación, de preferencia en sus comunidades locales, pero también en comunidades internacionales.\nEstas actividades pueden ser talleres, charlas, participación en eventos y conferencias, publicaciones en blogs o entrevistas. Pueden organizarse con instituciones, comunidades, grupos de usuarios y organizaciones locales y regionales; de hecho, ¡es muy deseable que se organicen así!\nPor supuesto, estas actividades pueden estar dentro del abanico de posibilidades de contribución que ya tiene rOpenSci, como las “Conversaciones con la comunidad”, las sesiones de co-working, los mini-hackatones, articulos en el blog de rOpenSci y las traducciones.\nEstos recursos pueden ayudarte a ver qué tipo de contribuciones y participaciones se pueden hacer en rOpenSci y con estas ideas planificar la actividad de difusión del programa:\n\nHoja de consejos Esta hoja de consejos contiene un resumen de las distintas formas de contribuir y participar en rOpenSci.\nGuía de contribución tiene más detalles, enlaces, materiales y ejemplos de cada forma de participar en nuestra comunidad. (En ingles).\nGuía del blog: este libro explica cómo escribir un blog post para el sitio web de rOpenSci (en Ingles).",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Herramientas</span>"
+    ]
+  },
+  {
+    "objectID": "mentorship-meetings.es.html#agenda-y-notas-de-las-reuniones",
+    "href": "mentorship-meetings.es.html#agenda-y-notas-de-las-reuniones",
+    "title": "3  Reuniones de mentoría",
+    "section": "3.1 Agenda y notas de las reuniones",
+    "text": "3.1 Agenda y notas de las reuniones\nTe pedimos que tomen notas colaborativas de tus reuniones. Esto ayudará a centrar el debate y a mantener un registro de los progresos. Si utilizas Google Docs, puedes crear un documento en la carpeta que creamos para ustdes en el drive del programa. Puedes hacer una copia de la plantilla para reuniones que te proporcionamos.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Reuniones de mentoría</span>"
+    ]
+  },
+  {
+    "objectID": "mentorship-meetings.es.html#frecuencia",
+    "href": "mentorship-meetings.es.html#frecuencia",
+    "title": "3  Reuniones de mentoría",
+    "section": "3.2 Frecuencia",
+    "text": "3.2 Frecuencia\nDebes reunirte con la persona que mentoreas cada mes; estimamos al menos reuniones de 30 minutos, ten más sesiones si es necesario y ambos dos pueden. El día y horario lo acuerdan entre ustedes. Consulta la sección @programación para tener alguna idea de las herramientas disponibles para las reuniones.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Reuniones de mentoría</span>"
+    ]
+  },
+  {
+    "objectID": "mentorship-meetings.es.html#seguimiento-de-las-reuniones",
+    "href": "mentorship-meetings.es.html#seguimiento-de-las-reuniones",
+    "title": "3  Reuniones de mentoría",
+    "section": "3.3 Seguimiento de las reuniones",
+    "text": "3.3 Seguimiento de las reuniones\nTe pediremos que registres en este formulario cuando celebres estas reuniones. Esto nos ayuda a hacer un seguimiento y saber si todo va bien. Puedes utilizar este formulario para pedir apoyo al staff de rOpenSci.\nEn la plantilla de reunión de google doc te ofrecemos una guía sobre los temas/preguntas que puedes utilizar en cada reunión. Por supuesto, puedes elegir tu propia estructura, pero es importante tener un orden del día.\n\n3.3.0.1 Primera reunión\nEn la primera reunión, recomendamos:\n\nPresentaciones: conocerse mutuamente,\nMomento ideas para que Campeones-as hablen de su proyecto con sus mentores-as.\nEstablece 1-2 objetivos para tu proyecto,\nPosibles áreas en las que pensar:\n\nPara un nuevo proyecto de paquete: una primera versión funcional del paquete siguiendo las recomendaciones de la guía de desarrollo de rOpenSci. Mejorar las funciones, pruebas, documentación, repositorio, funcionalidades. Generar la web del paquete o mejorarla.\nPara un paquete que se envia a revisión: prepara el paquete para enviarlo al proceso de revisión, enviar el paquete a revisión y completar el proceso. Mejorar las funciones, las pruebas, la documentación, el repositorio, las funcionalidades, la gobernanza. Escribir un artículo para JOSS o JOSE sobre el paquete.\nPara convertirte en revisor: completa el formulario para revisar, luego revisa el listado de paquetes que estan esperando revision y charlen cuales pueden ser buenas opciones para revisar. Comentarle a la Community Manager sobre estas preferencias, es quien debe comunicarse con el equipo editor para acordar la revisión. Leer la guia de revision de paquetes de rOpenSci. Revisar al menos un paquete asignado.\n\n¿Qué es lo que esperas de tu mentor/a?\n\n\n\n3.3.0.2 Entre reunión y reunión\nPara las siguientes reuniones, te recomendamos\n\nLo más destacado del mes anterior + Reconocimientos (¿alguien a quien dar las gracias o apreciar?)\nRevisar los objetivos y la hoja de ruta\n¿Estamos progresando? ¿Debemos ajustar algo?\nEn la reunión de enero/febrero Fijar 1-2 objetivos para las actividades de divulgación\n\nAnaliza las posibles contribuciones por tipo (Eventos como “conversaciones con la comunidad”, webinarios, reuniones, conferencias (una charla o taller en useR!, Posit, LatinR), artículo en el blog, tutorial, taller, charla, sesión de co-trabajo), por número, tener en cuenta cuándo y con quién (otra comunidad, grupo de R-Ladies, universidad, instituciones), por objetivo (desarrollar una nueva habilidad, probar algo nuevo, practicar una habilidad, organizar algo con otra comunidad).\n\nCuándo es un mes con una convocatoria de la cohorte: Repasa la llamada de cohorte: ¿algún pensamiento / pregunta / comentario tras la llamada pasada?\n¿En qué más podemos ayudar?\nLa próxima vez\n\nLas reuniones intermedias pueden utilizarse para sesiones de programación por pares o revisión de código.\n\n\n3.3.0.3 Última reunión\nPara la última reunión, recomendamos:\n\n¡Celebrar! ¡Mira todo lo que has conseguido en los últimos meses!\n\nRepasa los objetivos desde el principio del programa. ¿Estás donde pensabas que estarías? ¿Por qué sí o por qué no?\n\nSprint + Tutoría y Formación\n\n¿Qué ha ido bien?\n¿Qué podría ir mejor?\n¿Algo que debamos hacer de forma diferente la próxima vez?\n\nPróximos pasos",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Reuniones de mentoría</span>"
+    ]
+  },
+  {
+    "objectID": "mentorship-skills.es.html#escucha-activa",
+    "href": "mentorship-skills.es.html#escucha-activa",
+    "title": "4  Habilidades de mentoría",
+    "section": "4.1 Escucha activa",
+    "text": "4.1 Escucha activa\nConsejos para la escucha activa:\n\nSuspende el juicio y escucha.\nPresta toda tu atención a quien habla (no ensayes lo que vas a decir/contestar)\nAnima a la quien habla con señales verbales y no verbales.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Habilidades de mentoría</span>"
+    ]
+  },
+  {
+    "objectID": "mentorship-skills.es.html#preguntas-efectivas",
+    "href": "mentorship-skills.es.html#preguntas-efectivas",
+    "title": "4  Habilidades de mentoría",
+    "section": "4.2 Preguntas efectivas",
+    "text": "4.2 Preguntas efectivas\nLas preguntas nos permiten\n\nAcceder a la información y analizarla.\nEstimular el pensamiento y la creatividad.\nAprender mediante el debate.\n\nVer el modelo GROW (CRECE en Inglés) para ver ejemplos.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Habilidades de mentoría</span>"
+    ]
+  },
+  {
+    "objectID": "mentorship-skills.es.html#dar-retroalimentación-feedback",
+    "href": "mentorship-skills.es.html#dar-retroalimentación-feedback",
+    "title": "4  Habilidades de mentoría",
+    "section": "4.3 Dar retroalimentación (feedback)",
+    "text": "4.3 Dar retroalimentación (feedback)\nEs más fácil dar y recibir opiniones cuando ambas partes comparten expectativas sobre lo que está y no está dentro del alcance y sobre cómo los comentarios deben formularse los comentarios.\nConsejos para dar retroalimentación:\n\nIntenta ser útil.\nVe a lo concreto. Céntrate en comportamientos observables.\nHabla por ti.\nEquilibra los elogios y los comentarios críticos: es importante decirle a las personas lo que deben seguir haciendo, así como lo que deben cambiar.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Habilidades de mentoría</span>"
+    ]
+  },
+  {
+    "objectID": "mentorship-skills.es.html#modelo-grow",
+    "href": "mentorship-skills.es.html#modelo-grow",
+    "title": "4  Habilidades de mentoría",
+    "section": "4.4 Modelo GROW",
+    "text": "4.4 Modelo GROW\nObjetivo: Acuerda un tema y un objetivo o una o dos metas a más largo plazo.\nRealidad: autoevaluación, ejemplos concretos.\nOpciones: sugerencias ofrecidas y elecciones realizadas.\nCamino a seguir: próximos pasos.\nConsejos para el modelo GROW:\n\n“Pregunta” en lugar de “habla”.\nIlustra y comprueba la comprensión.\n¡Piensa de forma creativa!\nNo necesitas ser una persona experta en la situación: estás facilitando.\n\nEjemplos de preguntas:\nMETA u OBJETIVOS\n\n¿Qué quieres conseguir?\n¿Qué ocurrirá cuando lo hayas conseguido?\nLos OBJETIVOS pueden ser SMART (inteligentes en Inglés): Específicos, Mensurables, Alcanzables, Realistas y Temporales.\n\nREALIDAD\n\n¿Qué está ocurriendo en este momento?\n¿Qué te impide seguir adelante?\n¿Qué has intentado?\n¿Qué ha pasado?\n¿Qué has aprendido?\n\nOPCIONES\n\n¿Qué podrías hacer? ¿Qué otra cosa más podrías hacer?\n¿Cuáles son las ventajas/desventajas de cada opción?\n¿Quieres que te haga sugerencias?\n¿Qué opciones te gustan más?\n\nCAMINO A SEGUIR\n\n¿Qué vas a hacer?\n¿Cuál será el primer paso?\n¿Cuándo exactamente vas a empezar y terminar cada paso?\n¿Qué apoyo necesitas y de quién?",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Habilidades de mentoría</span>"
+    ]
+  },
+  {
+    "objectID": "sources.es.html",
+    "href": "sources.es.html",
+    "title": "5  Fuentes y agradecimientos",
+    "section": "",
+    "text": "Utilizamos diferentes fuentes para construir este material. Damos las gracias a estas organizaciones y a sus autores y autoras por compartir su material bajo una licencia abierta que podemos reutilizar.\n\nMozilla Open Leaders.\nEnseñar tecnología en comunidad\nFormación de Instructores/as de The Carpentries\n\nEste libro se ha creado utilizando los paquetes de rOpenSci cuartificate y babelquarto, ambos de Maëlle Salmon.\nIlustración de portada de Lydia Hill\nEste trabajo ha sido financiado en parte por un subsidio de CZI a rOpenSci.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Fuentes y agradecimientos</span>"
+    ]
+  }
+]

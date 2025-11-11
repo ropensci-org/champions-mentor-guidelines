@@ -1,109 +1,110 @@
-# Mentorship Skills
+# Habilidades de mentoría
 
-This is a list of resources and tools from the Mentor training and
-orientation meeting. You can access all the [traning material](https://ropensci-training.github.io/ropensci-mentors/), including the 
-[*slides*](https://docs.google.com/presentation/d/1qAv8IfSMRRGbQlwOkyM7QvnYQSEvL-cUFPj72ixNgN4/edit?usp=sharing). We also shared the meeting collaborative notes pinned in the Slack channel for mentors. 
+Esta es una lista de recursos y herramientas de la formación para Mentor(a|e)s de rOpenSci.
+Puedes acceder a todos los [material de la capacitación](https://ropensci-training.github.io/ropensci-mentors/) incluido las
+[*diapositivas*](https://docs.google.com/presentation/d/1OQ_EpW6cgebENt-gBtG53WbgvioIy_EU9Ntym7wJocg/). También compartimos las notas colaborativas de la reunión ancladas en el canal de Slack para mentores y mentoras.
 
-## Active Listening
+## Escucha activa
 
-Tips for active listening:
+Consejos para la escucha activa:
 
-- Suspend judgment and listen.
+- Suspende el juicio y escucha.
 
-- Give your full attention to the speaker (don’t rehearse what you’re
-  going to say).
+- Presta toda tu atención a quien habla (no ensayes lo que 
+  vas a decir/contestar)
 
-- Encourage the speaker with verbal and nonverbal cues.
+- Anima a la quien habla con señales verbales y no verbales.
 
-## Effective Questioning
+## Preguntas efectivas
 
-Questions let us:
+Las preguntas nos permiten
 
-- Access & analyze information.
+- Acceder a la información y analizarla.
 
-- Stimulate thinking & creativity.
+- Estimular el pensamiento y la creatividad.
 
-- Learn through discussion.
+- Aprender mediante el debate.
 
-See the [*GROW*](#grow-model) model for examples.
+Ver el modelo [*GROW (CRECE en Inglés)*](#grow-model) para ver ejemplos.
 
-## Giving Feedback
+## Dar retroalimentación (feedback)
 
-Feedback is easier to give and receive when both parties share
-expectations about what is and isn’t in scope and about how comments
-ought to be phrased.
+Es más fácil dar y recibir opiniones cuando ambas partes comparten
+expectativas sobre lo que está y no está dentro del alcance y sobre cómo los comentarios
+deben formularse los comentarios.
 
-Tips for giving feedback:
+Consejos para dar retroalimentación:
 
-- Try to be helpful.
+- Intenta ser útil.
 
-- Be specific. Focus on observable behavior.
+- Ve a lo concreto. Céntrate en comportamientos observables.
 
-- Speak for yourself.
+- Habla por ti.
 
-- Balance praise & critical feedback: it’s important to tell people what
-  they should keep doing as well as what they should change.
+- Equilibra los elogios y los comentarios críticos: es importante decirle a las personas lo que
+  deben seguir haciendo, así como lo que deben cambiar.
 
-## GROW Model
+## Modelo _GROW_
 
-**Goal:** Agree on a topic & objective or longer-term goals.
+**Objetivo:** Acuerda un tema y un objetivo o una o dos metas a más largo plazo.
 
-**Reality:** self-assessment, specific examples.
+**Realidad:** autoevaluación, ejemplos concretos.
 
-**Options:** suggestions offered & choices made.
+**Opciones:** sugerencias ofrecidas y elecciones realizadas.
 
-**Way forward:** next steps.
+**Camino a seguir:** próximos pasos.
 
-GROW model tips:
+Consejos para el modelo _GROW_:
 
-- ‘Ask’ rather than ‘tell’.
+- "Pregunta" en lugar de "habla".
 
-- Illustrate and check understanding.
+- Ilustra y comprueba la comprensión.
 
-- Think creatively!
+- ¡Piensa de forma creativa!
 
-- You don’t need to be an expert in the situation - you’re acting as a
-  facilitator.
+- No necesitas ser una persona experta en la situación: estás 
+  facilitando.
 
-Sample Questions:
+Ejemplos de preguntas:
 
-GOAL
+META u OBJETIVOS
 
-- What do you want to achieve?
+- ¿Qué quieres conseguir?
 
-- What will be happening when you have succeeded?
+- ¿Qué ocurrirá cuando lo hayas conseguido?
 
-- GOALS can be SMART (Specific, Measurable, Achievable, Realistic, Time
-  bound).
+- Los OBJETIVOS pueden ser _SMART_ (inteligentes en Inglés): Específicos, Mensurables, Alcanzables, Realistas y Temporales.
 
-REALITY
+REALIDAD
 
-- What is happening at the moment?
+- ¿Qué está ocurriendo en este momento?
 
-- What stops you from moving on?
+- ¿Qué te impide seguir adelante?
 
-- What have you tried?
+- ¿Qué has intentado?
 
-- What happened?
+- ¿Qué ha pasado?
 
-- What have you learned?
+- ¿Qué has aprendido?
 
-OPTIONS
+OPCIONES
 
-- What could you do? What else?
+- ¿Qué podrías hacer? ¿Qué otra cosa más podrías hacer?
 
-- What are the advantages/ disadvantages of each option?
+- ¿Cuáles son las ventajas/desventajas de cada opción?
 
-- Would you like suggestions from me?
+- ¿Quieres que te haga sugerencias?
 
-- What options do you like the most?
+- ¿Qué opciones te gustan más?
 
-WAY FORWARD
+CAMINO A SEGUIR
 
-- What will you do?
+- ¿Qué vas a hacer?
 
-- What will be the first step?
+- ¿Cuál será el primer paso?
 
-- When precisely are you going to start and finish each step?
+- ¿Cuándo exactamente vas a empezar y terminar cada paso?
 
-- What support do you need and from whom?
+- ¿Qué apoyo necesitas y de quién?
+
+
