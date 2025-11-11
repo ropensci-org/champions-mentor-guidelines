@@ -1,0 +1,89 @@
+# Introdução
+
+## Damos as boas-vindas a você
+
+Obrigado por você se voluntariar para ser mentor do [Programa rOpenSci(a|e)s Champion(a|e)s](https://ropensci.org/champions/)
+
+Desenvolvemos este guia para ajudar você a navegar pela logística do programa
+programa e fornecer ferramentas para você desempenhar sua função como *mentor* o *mentor*.
+
+Como um documento vivo que construímos como uma comunidade, somos sempre muito gratos por
+comentários, aprimoramentos e contribuições.
+
+## Descrição das funções
+
+Os mentores desempenharão uma função vital no Programa.
+Você será o mentor e inspirador de seu campeão.
+Eles também conectarão seus pupilos a pessoas, programas e organizações, recomendando recursos,
+leitura, treinamento e experiências.
+Eles também fornecerão feedback sobre o projeto do campeão.
+
+Você trabalhará com a pessoa que orienta para desenvolver o projeto dela, que pode ser um
+das seguintes opções:
+
+- Criar um novo pacote;
+
+- Passe pelo processo de revisão com um pacote no R que você já possui.
+  desenvolvido;
+
+- Servir como revisor para [sistema de revisão por pares do software rOpenSci.](https://ropensci.org/es/software-review/)
+
+Os mentores também podem apoiar o(s) Campeão(ões) na realização de outras atividades
+entre elas estão: dar uma palestra, escrever artigos ou notas técnicas para o blog rOpenSci e ensinar outras pessoas
+na comunidade.
+
+## Cronologia do programa
+
+Espera-se que o tempo total de dedicação seja de aproximadamente **2 a 4 horas
+por mês** de **maio de 2025 - julho de 2025** para concluir o
+o seguinte cronograma provisório do programa.
+
+| **Data**                          | **Evento**                                                                  | **Detalhes**                                                                                                                                                                                                          | **Duração**                        | 
+| ------------------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| Outubro de 2023           | Selecionar campeões                                               | Analise, classifique e selecione um ou dois projetos analisados para orientação.                                                                                                                          | 2 h                     | 
+| Novembro de 2023          | Cerimônia de abertura                                             | Saiba mais sobre o programa, analise as expectativas do programa e tire suas dúvidas. Conheça os alunos.                                                                                                  | 1\.5 h                   | 
+| Janeiro a abril de 2024   | Treinamento                                                       | Mentoria e logística no programa.                                                                                                                                                                         | 2 h                     | 
+| Março a julho de 2024     | Reunião com o aluno                                               | Fornecer feedback e orientação sobre o projeto do mentorado.  Conectar o pupilo a outros especialistas, mentores ou membros da comunidade. Recomendar treinamento e recursos para o projeto do mentorado. | 1 reunião por mês 0,5 h | 
+| Maio de 2024              | Reunião da coorte [opcional]                                      | Os campeões apresentarão seus projetos e receberão feedback.                                                                                                                                              | 1\.5 h                   | 
+| Agosto - novembro de 2023 | Reunião com o aluno                                               | Fornecer feedback e orientação sobre o projeto do mentorado.  Conectar o pupilo a outros especialistas, mentores ou membros da comunidade. Recomendar treinamento e recursos para o projeto do mentorado. | 1 reunião por mês 0,5 h | 
+| Julho de 2024             | Reunião da coorte [opcional]: Reflexões sobre os projetos         | Os promotores serão convidados a compartilhar com a coorte os resultados de seus projetos.                                                                                                                | 1\.5 h                   | 
+| Setembro de 2024          | Reunião da coorte [opcional]: Reflexões sobre os desenvolvimentos | Os promotores serão convidados a compartilhar com a coorte as conclusões de seus eventos.                                                                                                                 | 1\.5 h                   | 
+| Outubro de 2024           | Reunião da coorte: Reflexões sobre o programa                     | Os mentores serão convidados a compartilhar os resultados do programa e ajudar a definir as futuras funções dos Campeões.                                                                                 | 1\.5 h                   | 
+| Novembro de 2024          | Fim do prazo                                                      | Encerrar o grupo e definir novas funções para os Campeões e Mentores.                                                                                                                                     | 1 h                     | 
+
+## Links rápidos
+
+### Social
+
+[Página do programa Champions no site da rOpenSci](https://ropensci.org/es/champions/) y [Site do programa](https://champions-program.ropensci.org)
+<https://ropensci.org/champions/>
+
+Slack: ropensci.slack.com
+
+[Mastodonte](https://hachyderm.io/@rOpenSci)
+<https://hachyderm.io/@rOpenSci>
+
+[LinkedIn](https://www.linkedin.com/company/ropensci/)
+
+[Vimeo (canal de vídeo)](https://vimeo.com/ropensci)
+
+GitHub: <https://github.com/ropensci>
+
+### Código de Conduta
+
+[Código de Conduta (versão em espanhol)](https://ropensci.org/es/código-de-conducta/)
+
+### Contato/Reunião com o *Gerente da comunidade*
+
+[Calendly](https://calendly.com/yabellini-ropensci) - Marque uma reunião com Yani (você pode escolher de 15 a 60
+minutos)
+
+E-mail: [*yabellini@ropensci.org*](mailto:yabellini@ropensci.org)
+
+# Comentários
+
+Contribuições de todos os tipos são bem-vindas, desde sugestões para
+melhorias, erros de digitação e material novo. Entre em contato com
+com suas ideias.
+
+
