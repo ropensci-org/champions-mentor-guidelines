@@ -68,7 +68,7 @@ para o seu e-mail. Você pode adicionar esse calendário à sua agenda.
 Nas reuniões de mentoria, geralmente chamadas de reuniões individuais com a pessoa aprendiz, você pode
 usar as ferramentas que quiser. Aqui está uma lista de serviços:
 
-- [*Zoom*](http://zoom.us/) Você também pode usar suas próprias salas do Zoom. Em
+- [*Zoom*](http://zoom.us/) Você também pode usar suas próprias salas do Zoom. A
   conta gratuita permite 40 minutos de tempo de chamada para reuniões 1 a 1.
 
 - [*Slack*](https://slack.com/help/articles/216771908-Make-calls-in-Slack):
