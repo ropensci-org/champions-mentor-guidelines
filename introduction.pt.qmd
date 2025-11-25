@@ -5,7 +5,7 @@
 Agradecemos por você se voluntariar para ser mentor(a) do [Programa Campeãs e Campeões da rOpenSci](https://ropensci.org/champions/)
 
 Desenvolvemos este guia para ajudá-lo(a) a navegar pela logística do programa
-programa e fornecer ferramentas para você desempenhar sua função como *mentor* o *mentor*.
+e fornecer ferramentas para sua função como *mentor(a)*.
 
 Como um documento vivo que construímos como uma comunidade, somos sempre muito gratos por
 comentários, aprimoramentos e contribuições.
