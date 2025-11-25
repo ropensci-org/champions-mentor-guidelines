@@ -19,7 +19,7 @@ Criamos uma série de ferramentas para ajudar na sua mentoria.
     
     - Os modelos.
     
-    - Material com a marca rOpenSci (como logotipos, modelos de slides, etc.).
+    - Material com a marca da rOpenSci (como logotipos, modelos de slides, etc.).
 
 - **Modelos:** Criamos modelos para reuniões com seu campeão.
   Há três modelos diferentes: um para a primeira reunião, um para a segunda reunião e um para a terceira reunião.
