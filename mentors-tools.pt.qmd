@@ -2,7 +2,7 @@
 
 ### Infraestrutura {#infrastructure}
 
-Criamos uma série de ferramentas para ajudar você em sua mentoria.
+Criamos uma série de ferramentas para ajudar na sua mentoria.
 
 - **Google Drive:** O Drive contém:
   
