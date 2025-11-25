@@ -62,7 +62,7 @@ que não esteja nessa lista, você pode usá-la (e nos informar qual é para que
 #### Videoconferência {#videocalls}
 
 Para as nossas chamadas de coorte, usaremos o Zoom. Enviaremos um calendário com as datas de
-programação completa e os links para o Zoom e a reunião compartilhada.
+programação completa, os links para o Zoom e a reunião compartilhada.
 para o seu e-mail. Você pode adicionar esse calendário à sua agenda.
 
 Nas reuniões de mentoria, geralmente chamadas de reuniões individuais com o seu campeão, você pode
