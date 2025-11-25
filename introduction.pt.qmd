@@ -27,7 +27,7 @@ das seguintes opções:
 
 - Servir como revisor(a) no [sistema de revisão por pares de software da rOpenSci.](https://ropensci.org/es/software-review/)
 
-Os mentores também podem apoiar o(s) Campeão(ões) na realização de outras atividades
+As pessoas mentoras também podem apoiar a(s) pessoa(s) Campeã(s) na realização de outras atividades
 entre elas estão: dar uma palestra, escrever artigos ou notas técnicas para o blog rOpenSci e ensinar outras pessoas
 na comunidade.
 
