@@ -102,7 +102,7 @@ você pode usar qualquer ferramenta de anotações colaborativas.
   o formato Markdown para texto.
   Você pode integrá-la ao GitHub.
 
-- [Formato do Etherpad](https://pad.riseup.net/) Essa é outra opção acessível com formatação Markdown para texto e não requer uma conta de usuário.
+- [Formato do Etherpad](https://pad.riseup.net/): essa é outra opção acessível com formatação Markdown para texto e não requer uma conta de usuário(a).
   A desvantagem é que ele só fica disponível por um determinado período de tempo (você pode definir quantos dias em uma lista de opções).
 
 ### Ferramentas para organizar e agendar reuniões {#scheduling}
