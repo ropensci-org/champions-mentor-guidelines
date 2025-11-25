@@ -79,7 +79,7 @@ usar as ferramentas que quiser. Aqui está uma lista de serviços:
   chamadas de mentoria, você pode adicionar uma chamada clicando no botão
    "Adicionar videoconferência do Google Meet".
 
-- [*Jitsi:*](http://meet.jit.si/) Uma alternativa de código aberto. Integra
+- [*Jitsi*](http://meet.jit.si/): Uma alternativa de código aberto. Integra
   com o Google Calendar e o Slack.
 
 - [*WhatsApp*](https://www.whatsapp.com/) funciona bem em áreas com menor
