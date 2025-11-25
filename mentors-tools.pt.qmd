@@ -99,7 +99,7 @@ você pode usar qualquer ferramenta de anotações colaborativas.
   Você pode fazer uma cópia do modelo que fornecemos.
 
 - [Hack.md](https://hackmd.io/): esta é uma opção econômica e tem
-  Formato markdown para texto.
+  o formato Markdown para texto.
   Você pode integrá-lo ao GitHub.
 
 - [Formato do Etherpad](https://pad.riseup.net/) Essa é outra opção acessível com formatação Markdown para texto e não requer uma conta de usuário.
