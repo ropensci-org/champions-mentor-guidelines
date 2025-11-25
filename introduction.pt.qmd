@@ -24,7 +24,6 @@ das seguintes opções:
 - Criar um novo pacote;
 
 - Passar pelo processo de revisão com um pacote no R que já existe;
-  desenvolvido;
 
 - Servir como revisor para [sistema de revisão por pares do software rOpenSci.](https://ropensci.org/es/software-review/)
 
