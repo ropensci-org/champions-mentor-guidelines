@@ -85,7 +85,7 @@ usar as ferramentas que quiser. Aqui está uma lista de serviços:
 - [*WhatsApp*](https://www.whatsapp.com/): funciona bem em áreas com menor
   largura de banda.
 
-- [*Telegrama*](https://telegram.org/) Telegram: também é ótimo para áreas com pouca largura de banda.
+- [*Telegram*](https://telegram.org/): também é ótimo para áreas com baixa largura de banda.
 
 - [*Onde*](https://whereby.com/) tempo ilimitado para reuniões individuais.
 
