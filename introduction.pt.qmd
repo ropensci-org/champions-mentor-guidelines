@@ -25,7 +25,7 @@ das seguintes opções:
 
 - Passar pelo processo de revisão com um pacote no R que já existe;
 
-- Servir como revisor para [sistema de revisão por pares do software rOpenSci.](https://ropensci.org/es/software-review/)
+- Servir como revisor(a) no [sistema de revisão por pares de software da rOpenSci.](https://ropensci.org/es/software-review/)
 
 Os mentores também podem apoiar o(s) Campeão(ões) na realização de outras atividades
 entre elas estão: dar uma palestra, escrever artigos ou notas técnicas para o blog rOpenSci e ensinar outras pessoas
