@@ -55,7 +55,7 @@ Todas as nossas reuniões on-line usarão:
 - Código de conduta
 
 A lista a seguir é um resumo das ferramentas que usaremos em nosso trabalho.
-Você pode encontrar uma sessão completa de coorte (treinamento e reuniões) juntamente com as alternativas que usaremos no trabalho.
+Você pode encontrar uma sessão completa de coorte (treinamento e reuniões) juntamente com as alternativas que
 você pode usar em suas reuniões de mentoria. Se você tem o hábito de usar uma ferramenta
 que não esteja nessa lista, você pode usá-la (e nos informar qual é).
 Se você tiver o hábito de usar uma ferramenta que não esteja nesta lista, poderá usá-la (e nos informar qual é).
