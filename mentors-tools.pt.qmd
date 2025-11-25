@@ -6,7 +6,7 @@ Criamos uma série de ferramentas para ajudar na sua mentoria.
 
 - **Google Drive:** a unidade contém:
   
-  - Uma pasta para cada campeão. A pessoa que você orienta tem acesso à pasta.
+  - Uma pasta para cada campeã(o). A pessoa que você orienta tem acesso à pasta.
     Essa pasta agora tem um documento com a inscrição completa. No futuro, também faremos o upload de vídeos ou outros materiais gerados como parte do trabalho deles no programa.  Você também pode usá-la para armazenar e compartilhar recursos.
   
   - Uma pasta comum para os mentores com:
