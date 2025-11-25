@@ -28,7 +28,7 @@ Você pode encontrar essas sugestões de modelos no [*documento do google*](http
   O documento pode ser copiado, adaptado e modificado para o seu uso.
 
 - **Slack:** Temos três canais privados para você se comunicar com
-  você se comunicar com as pessoas que estão participando desta coorte e com os participantes de coortes anteriores:
+  as pessoas que estão participando desta coorte e de coortes anteriores.
   
   - **\#mentores-2025** Somente mentores neste canal. Você pode fazer
     Você pode fazer perguntas, compartilhar recursos e pedir conselhos a seus colegas. Yani está neste espaço para
