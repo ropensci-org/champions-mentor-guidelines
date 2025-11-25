@@ -96,7 +96,7 @@ você pode usar qualquer ferramenta de anotações colaborativas.
 
 - [Google Docs](https://docs.google.com/): para usar o Google Docs em suas reuniões de mentoria,
   crie um documento em sua pasta do Google Drive.
-  Você pode fazer uma cópia do modelo fornecido.
+  Você pode fazer uma cópia do modelo que fornecemos.
 
 - [Hack.md:](https://hackmd.io/) Esta é uma opção econômica e você tem
   Formato markdown para texto.
