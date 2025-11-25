@@ -91,7 +91,7 @@ usar as ferramentas que quiser. Aqui está uma lista de serviços:
 
 ### Notas colaborativas {#note-taking}
 
-Usaremos o Google Docs ou uma solução semelhante do Etherpad (se necessário para acessibilidade) para nossas chamadas de Cohort. Para sua mentoria individual
+Usaremos o Google Docs ou uma solução semelhante do Etherpad (se necessário para acessibilidade) para as nossas chamadas da coorte. Para a sua mentoria individual
 você pode usar qualquer ferramenta de anotações colaborativas.
 
 - [Google Docs](https://docs.google.com/) Para usar o Google Docs em suas reuniões de mentoria, você deve
