@@ -109,7 +109,7 @@ você pode usar qualquer ferramenta de anotações colaborativas.
 
 Usamos ferramentas para combinar o dia e a hora em que iremos nos reunir.
 Talvez a maneira mais fácil de marcar reuniões seja por e-mail,
-mas aqui está uma lista de ferramentas que podem ajudar você com essa tarefa (especialmente porque os fusos horários podem ser muito complicados).
+mas aqui está uma lista de ferramentas que podem ajudar com essa tarefa (especialmente porque os fusos horários podem ser muito complicados).
 
 - [*Calendly*](https://calendly.com/) você pode vincular seu calendário ao
   Calendly e fornecer um link para que outras pessoas escolham um dia e uma hora.
