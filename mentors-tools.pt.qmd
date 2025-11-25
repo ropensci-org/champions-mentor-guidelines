@@ -77,7 +77,7 @@ usar as ferramentas que quiser. Aqui está uma lista de serviços:
 
 - [Google Meet](https://meet.google.com/landing): se usa o Google Agenda para agendar suas
   chamadas de mentoria, você pode adicionar uma chamada clicando no botão
-   Adicionar videoconferência do Google Meet".
+   "Adicionar videoconferência do Google Meet".
 
 - [*Jitsi:*](http://meet.jit.si/) Uma alternativa de código aberto. Integra
   com o Google Calendar e o Slack.
