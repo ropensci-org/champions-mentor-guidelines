@@ -94,7 +94,7 @@ usar as ferramentas que quiser. Aqui está uma lista de serviços:
 Usaremos o Google Docs ou uma solução semelhante do Etherpad (se necessário para acessibilidade) para as nossas chamadas da coorte. Para a sua mentoria individual
 você pode usar qualquer ferramenta de anotações colaborativas.
 
-- [Google Docs](https://docs.google.com/) Para usar o Google Docs em suas reuniões de mentoria, você deve
+- [Google Docs](https://docs.google.com/): para usar o Google Docs em suas reuniões de mentoria,
   crie um documento em sua pasta do Google Drive.
   Você pode fazer uma cópia do modelo fornecido.
 
