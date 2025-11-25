@@ -18,7 +18,7 @@ Elas também conectarão seus/suas aprendizes a pessoas, programas e organizaç�
 leitura, treinamento e experiências.
 Elas também fornecerão comentários sobre o projeto da pessoa mentorada.
 
-Você trabalhará com a pessoa que orienta para desenvolver o projeto dela, que pode ser um
+Você trabalhará com a pessoa mentorada para desenvolver o projeto dela, que pode ser uma
 das seguintes opções:
 
 - Criar um novo pacote;
