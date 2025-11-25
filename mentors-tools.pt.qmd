@@ -15,7 +15,7 @@ Criamos uma série de ferramentas para ajudar na sua mentoria.
     
     - O link para este livro.
     
-    - Os slides do treinamento de mentores.
+    - Os slides do treinamento de mentores(as).
     
     - Os modelos.
     
