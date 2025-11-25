@@ -42,7 +42,7 @@ Você pode encontrar essas sugestões de modelos no [*documento do google*](http
     e Maëlle estão nesse canal para oferecer apoio e compartilhar
     informações comuns.
 
-### Ferramentas para reuniões {#meeting-tools}
+### Ferramentas para as reuniões {#meeting-tools}
 
 Todas as nossas reuniões on-line usarão
 
