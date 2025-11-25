@@ -29,7 +29,7 @@ das seguintes opções:
 
 As pessoas mentoras também podem apoiar a(s) pessoa(s) Campeã(s) na realização de outras atividades
 entre elas estão: dar uma palestra, escrever artigos ou notas técnicas para o blog da rOpenSci e ensinar outras pessoas
-na comunidade.
+da comunidade.
 
 ## Cronologia do programa
 
