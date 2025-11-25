@@ -73,7 +73,7 @@ usar as ferramentas que quiser. Aqui está uma lista de serviços:
 
 - [*Slack*](https://slack.com/help/articles/216771908-Make-calls-in-Slack):
   O Slack permite chamadas entre membros do espaço de trabalho. 
-  Você pode usar essa funcionalidade no Slack do rOpenSci.
+  Você pode usar essa funcionalidade no Slack da rOpenSci.
 
 - [Google Meet](https://meet.google.com/landing) Se você usa o Google Agenda para agendar seus
   chamadas de mentoria, você pode adicionar uma chamada clicando no botão
