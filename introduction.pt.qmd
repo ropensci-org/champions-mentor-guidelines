@@ -2,7 +2,7 @@
 
 ## Damos as boas-vindas a você
 
-Obrigado por você se voluntariar para ser mentor do [Programa rOpenSci(a|e)s Champion(a|e)s](https://ropensci.org/champions/)
+Agradecemos por você se voluntariar para ser mentor(a) do [Programa Campeãs e Campeões da rOpenSci](https://ropensci.org/champions/)
 
 Desenvolvemos este guia para ajudar você a navegar pela logística do programa
 programa e fornecer ferramentas para você desempenhar sua função como *mentor* o *mentor*.
