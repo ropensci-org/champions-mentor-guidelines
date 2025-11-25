@@ -71,7 +71,7 @@ GitHub: <https://github.com/ropensci>
 
 ### Código de Conduta
 
-[Código de Conduta (versão em espanhol)](https://ropensci.org/es/código-de-conducta/)
+[Código de Conduta (versão em português)](https://ropensci.org/pt/código-de-conduta/)
 
 ### Contato/Reunião com o *Gerente da comunidade*
 
