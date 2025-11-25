@@ -83,6 +83,6 @@ E-mail: [*yabellini@ropensci.org*](mailto:yabellini@ropensci.org)
 
 Contribuições de todos os tipos são bem-vindas, desde sugestões de
 melhorias e correções de erros de digitação até material novo. Entre em contato com
-com suas ideias.
+com as suas ideias.
 
 
