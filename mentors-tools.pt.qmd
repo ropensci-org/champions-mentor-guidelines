@@ -44,7 +44,7 @@ Você pode encontrar essas sugestões de modelos no [*documento do google*](http
 
 ### Ferramentas para as reuniões {#meeting-tools}
 
-Todas as nossas reuniões on-line usarão
+Todas as nossas reuniões on-line usarão:
 
 - Software de videoconferência
 
