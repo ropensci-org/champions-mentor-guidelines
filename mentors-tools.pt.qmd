@@ -87,7 +87,7 @@ usar as ferramentas que quiser. Aqui está uma lista de serviços:
 
 - [*Telegram*](https://telegram.org/): também é ótimo para áreas com baixa largura de banda.
 
-- [*Onde*](https://whereby.com/) tempo ilimitado para reuniões individuais.
+- [*Whereby*](https://whereby.com/): tempo ilimitado para reuniões individuais.
 
 ### Notas colaborativas {#note-taking}
 
