@@ -98,7 +98,7 @@ você pode usar qualquer ferramenta de anotações colaborativas.
   crie um documento em sua pasta do Google Drive.
   Você pode fazer uma cópia do modelo que fornecemos.
 
-- [Hack.md:](https://hackmd.io/) Esta é uma opção econômica e você tem
+- [Hack.md](https://hackmd.io/): esta é uma opção econômica e tem
   Formato markdown para texto.
   Você pode integrá-lo ao GitHub.
 
