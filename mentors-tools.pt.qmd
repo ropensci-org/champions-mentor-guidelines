@@ -25,7 +25,7 @@ Criamos uma série de ferramentas para ajudar na sua mentoria.
   Há três modelos diferentes: um para a primeira reunião, um para a última e outro para as demais reuniões.
 Você pode encontrar essas sugestões de modelos no [*documento do google*](https://docs.google.com/document/d/1VtNYfDNYRS7xAbs1Ajf2S5wsv3mOQ0BcTn93cXAv6sc/).
   
-  você pode encontrar essas sugestões de agenda.  O documento pode ser copiado, adaptado e modificado para que você possa usá-lo.
+  O documento pode ser copiado, adaptado e modificado para o seu uso.
 
 - **Slack:** Temos três canais privados para você se comunicar com
   você se comunicar com as pessoas que estão participando desta coorte e com os participantes de coortes anteriores:
