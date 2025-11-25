@@ -100,7 +100,7 @@ você pode usar qualquer ferramenta de anotações colaborativas.
 
 - [Hack.md](https://hackmd.io/): esta é uma opção econômica e tem
   o formato Markdown para texto.
-  Você pode integrá-lo ao GitHub.
+  Você pode integrá-la ao GitHub.
 
 - [Formato do Etherpad](https://pad.riseup.net/) Essa é outra opção acessível com formatação Markdown para texto e não requer uma conta de usuário.
   A desvantagem é que ele só fica disponível por um determinado período de tempo (você pode definir quantos dias em uma lista de opções).
