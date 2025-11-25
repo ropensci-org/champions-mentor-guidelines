@@ -72,7 +72,7 @@ GitHub: <https://github.com/ropensci>
 
 [Código de Conduta (versão em português)](https://ropensci.org/pt/código-de-conduta/)
 
-### Contato/Reunião com o *Gerente da comunidade*
+### Contato/Reunião com o/a *Gerente da comunidade*
 
 [Calendly](https://calendly.com/yabellini-ropensci) - Marque uma reunião com Yani (você pode escolher de 15 a 60
 minutos)
