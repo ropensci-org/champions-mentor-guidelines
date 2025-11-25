@@ -52,7 +52,7 @@ Todas as nossas reuniões on-line usarão:
 
 - Ferramentas de programação
 
-- Código de Conduta
+- Código de conduta
 
 A lista a seguir é um resumo das ferramentas que usaremos em nosso trabalho.
 Você pode encontrar uma sessão completa de coorte (treinamento e reuniões) juntamente com as alternativas que usaremos no trabalho.
