@@ -111,53 +111,52 @@ Usamos ferramentas para combinar o dia e a hora em que iremos nos reunir.
 Talvez a maneira mais fácil de marcar reuniões seja por e-mail,
 mas aqui está uma lista de ferramentas que podem ajudar com essa tarefa (especialmente porque os fusos horários podem ser muito complicados).
 
-- [*Calendly*](https://calendly.com/) você pode vincular seu calendário ao
-  Calendly e fornecer um link para que outras pessoas escolham um dia e uma hora.
-  em seu calendário. É gratuito para apenas um tipo de evento. Você também pode
+- [*Calendly*](https://calendly.com/): você pode vincular seu calendário ao
+  Calendly e fornecer um link para que outras pessoas escolham um dia e uma hora
+  na sua agenda. É gratuito para apenas um tipo de evento. Também oferece a opção de enquete. 
   Tem um limite de 40 lugares e é acessível para leitores de tela.
-  leitor de tela.
 
-- [*Doodle:*](https://doodle.com/) A versão gratuita exibe anúncios. Ela é
+- [*Doodle*](https://doodle.com/): a versão gratuita exibe anúncios. É
   acessível aos leitores de tela. Os anúncios são muito incômodos para a navegação da ferramenta.
-  Você escolhe o dia e as horas do dia em que está disponível,
-  e oferece uma terceira opção, que é "Maybe" (Talvez) e permite que você se organize com mais flexibilidade do que quando as opções são "Yes I can" (Sim, posso) e "No I can't" (Não, não posso).
-  Ele é acessível a leitores de tela.
+  Você escolhe o dia e o horário em que está disponível,
+  e oferece uma terceira opção, que é "Talvez", que permite mais flexibilidade do que as opções "Sim, posso" e "Não, não posso".
+  É acessível a leitores de tela.
 
-- [*When2meet:*](https://www.when2meet.com/) é gratuito e permite que você
-  você escolha um dia e um horário e crie um link para preencher a reserva.
+- [*When2meet*](https://www.when2meet.com/): é gratuito, permite 
+  escolher um dia e um horário e cria um link para preencher a reserva.
   Você pode dizer sim ou não. Não é acessível para leitores de tela.
 
-- Google Agenda: se você tiver um plano de negócios, poderá oferecer vagas gratuitas em
+- Google Agenda: se tiver um plano de negócios, poderá oferecer vagas gratuitas em
   seu calendário para que as pessoas marquem reuniões com você.
 
-- [*Hora e data*](http://timeanddate.com/) fuso horário: para verificar os fusos horários
-  e calcular datas e horas.
+- [*Time and date*](http://timeanddate.com/): para verificar os fusos horários
+  e calcular as datas e as horas.
 
-- [*Parceiro de horário mundial*](https://www.worldtimebuddy.com): para verificar os fusos horários
-  e calcular datas e horários.
+- [*World Time Buddy*](https://www.worldtimebuddy.com): para verificar os fusos horários
+  e calcular as datas e as horas.
 
 ### Código de conduta
 
-A rOpenSci tem o compromisso de oferecer um ambiente seguro, inclusivo, acolhedor e de apoio.
-Você não precisa se preocupar com a segurança e a segurança das pessoas, nem com um ambiente livre de assédio para todas as pessoas. Temos um [*Código de
-Código de Conduta*](https://ropensci.org/code-of-conduct/) que inclui instruções
-como você pode relatar incidentes e como é o processo de aplicação do nosso CoC. Como alternativa, você pode
-enviar um e-mail para '[conduct@ropensci.org](mailto:conduct@ropensci.org) que será enviado aos membros do Comitê.
+A rOpenSci está comprometida em proporcionar um ambiente seguro, inclusivo, acolhedor e livre de assédio para todas as pessoas.
+Temos um [*Código de
+ Conduta*](https://ropensci.org/code-of-conduct/) que inclui instruções
+de como relatar incidentes e como é o processo de aplicação do nosso código. Como alternativa, você pode
+enviar um e-mail para '[conduct@ropensci.org](mailto:conduct@ropensci.org) que será encaminhado aos membros do Comitê.
 
 ### Divulgação e contribuições
 
-Na segunda parte do ano, os campeões planejarão e realizarão atividades de divulgação, de preferência em suas comunidades locais, mas também em comunidades internacionais.
+Na segunda parte do ano, as campeãs e os campeões planejarão e realizarão as atividades de divulgação, de preferência em suas comunidades locais, mas também em comunidades internacionais.
 
-Essas atividades podem ser workshops, palestras, participação em eventos e conferências, publicações em blogs ou entrevistas.  Elas podem ser organizadas com instituições locais e regionais, comunidades, grupos de usuários e organizações; na verdade, é altamente desejável que sejam organizadas dessa forma!
+Essas atividades podem ser workshops, palestras, participação em eventos e conferências, publicações em blogs ou entrevistas. Elas podem ser organizadas com instituições locais e regionais, comunidades, grupos de pessoas usuárias e organizações; na verdade, é altamente desejável que sejam organizadas dessa forma!
 
 É claro que essas atividades podem estar dentro da gama de possibilidades de contribuição que a rOpenSci já tem, como as "Community Calls", as sessões de trabalho conjunto, os mini-hackathons, os artigos no blog da rOpenSci e as traduções.
 
-Esses recursos podem ajudar você a ver que tipo de contribuições e participações podem ser feitas no rOpenSci e, com essas ideias, planejar a atividade de divulgação do programa:
+Esses recursos podem ajudar você a entender que tipo de contribuições e participações podem ser feitas na rOpenSci e, com essas ideias, planejar a atividade de divulgação do programa:
 
-- [Folha de dicas](https://ropensci.org/es/blog/2022/09/13/contributing-ropensci-es/) Esta folha de dicas contém uma visão geral das diferentes maneiras de contribuir e participar do rOpenSci.
+- [Folha de dicas](https://ropensci.org/es/blog/2022/09/13/contributing-ropensci-es/): esta folha de dicas contém uma visão geral das diferentes maneiras de contribuir e participar da rOpenSci.
 
-- [Guia de contribuição](https://contributing.ropensci.org/) Você encontrará mais detalhes, links, materiais e exemplos de cada forma de participação em nossa comunidade.
+- [Guia de contribuição](https://contributing.ropensci.org/): contém mais detalhes, links, materiais e exemplos de cada forma de participação em nossa comunidade.
 
-- [Guia do blog](https://blogguide.ropensci.org/) Este livro explica como você pode escrever uma postagem de blog para o site rOpenSci.
+- [Guia do blog](https://blogguide.ropensci.org/): explica como escrever uma postagem de blog para o site da rOpenSci.
 
 
