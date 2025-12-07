@@ -1,0 +1,162 @@
+## Ferramentas
+
+### Infraestrutura {#infrastructure}
+
+Criamos uma série de ferramentas para ajudar na sua mentoria.
+
+- **Google Drive:** a unidade contém:
+  
+  - Uma pasta para cada campeã(o). A pessoa que você orienta tem acesso à pasta.
+    Essa pasta agora tem um documento com a inscrição completa. No futuro, também faremos o carregamento de vídeos ou outros materiais gerados como parte do trabalho deles(as) no programa. Você também pode usá-la para armazenar e compartilhar recursos.
+  
+  - Uma pasta comum para os(as) mentores(as) com:
+    
+    - Slides da reunião inicial.
+    
+    - O link para este livro.
+    
+    - Os slides do treinamento de mentores(as).
+    
+    - Os modelos.
+    
+    - Material com a marca da rOpenSci (como logotipos, modelos de slides, etc.).
+
+- **Modelos:** Criamos modelos para reuniões com seu/sua aprendiz.
+  Há três modelos diferentes: um para a primeira reunião, um para a última e outro para as demais reuniões.
+Você pode encontrar essas sugestões de modelos no [*documento do google*](https://docs.google.com/document/d/1VtNYfDNYRS7xAbs1Ajf2S5wsv3mOQ0BcTn93cXAv6sc/).
+  
+  O documento pode ser copiado, adaptado e modificado para o seu uso.
+
+- **Slack:** Temos três canais privados para você se comunicar com
+  as pessoas que estão participando desta coorte e de coortes anteriores.
+  
+  - **\#mentors-2025** Somente pessoas mentoras neste canal.
+    Você pode fazer perguntas, compartilhar recursos e pedir conselhos a seus/suas colegas. Yani está neste espaço para
+    oferecer suporte e compartilhar informações relevantes.
+  
+  - **\#champions-and-mentors-2025:** um canal com todas as pessoas participantes. Yani
+    e Maëlle estão nesse canal para dar apoio e compartilhar
+    informações comuns.
+  
+  - **\#champions-program:** um canal com todos os participantes do programa. Yani
+    e Maëlle estão nesse canal para oferecer apoio e compartilhar
+    informações comuns.
+
+### Ferramentas para as reuniões {#meeting-tools}
+
+Todas as nossas reuniões on-line usarão:
+
+- Software de videoconferência
+
+- Notas colaborativas
+
+- Ferramentas de programação
+
+- Código de conduta
+
+A lista a seguir é um resumo das ferramentas que usaremos em nosso trabalho.
+Você pode encontrar uma sessão completa de coorte (treinamento e reuniões) juntamente com as alternativas que
+você pode usar em suas reuniões de mentoria. Se você tiver o hábito de usar uma ferramenta
+que não esteja nessa lista, você pode usá-la (e nos informar qual é para que possamos adicioná-la à lista).
+
+#### Videoconferência {#videocalls}
+
+Para as nossas chamadas de coorte, usaremos o Zoom. Enviaremos um calendário com as datas de
+programação completa, os links para o Zoom e a reunião compartilhada.
+para o seu e-mail. Você pode adicionar esse calendário à sua agenda.
+
+Nas reuniões de mentoria, geralmente chamadas de reuniões individuais com a pessoa aprendiz, você pode
+usar as ferramentas que quiser. Aqui está uma lista de serviços:
+
+- [*Zoom*](http://zoom.us/) Você também pode usar suas próprias salas do Zoom. A
+  conta gratuita permite 40 minutos de tempo de chamada para reuniões 1 a 1.
+
+- [*Slack*](https://slack.com/help/articles/216771908-Make-calls-in-Slack):
+  O Slack permite chamadas entre membros do espaço de trabalho. 
+  Você pode usar essa funcionalidade no Slack da rOpenSci.
+
+- [Google Meet](https://meet.google.com/landing): se usa o Google Agenda para agendar suas
+  chamadas de mentoria, você pode adicionar uma chamada clicando no botão
+   "Adicionar videoconferência do Google Meet".
+
+- [*Jitsi*](http://meet.jit.si/): Uma alternativa de código aberto. Integra
+  com o Google Calendar e o Slack.
+
+- [*WhatsApp*](https://www.whatsapp.com/): funciona bem em áreas com menor
+  largura de banda.
+
+- [*Telegram*](https://telegram.org/): também é ótimo para áreas com baixa largura de banda.
+
+- [*Whereby*](https://whereby.com/): tempo ilimitado para reuniões individuais.
+
+### Notas colaborativas {#note-taking}
+
+Usaremos o Google Docs ou uma solução semelhante do Etherpad (se necessário para acessibilidade) para as nossas chamadas da coorte. Para a sua mentoria individual
+você pode usar qualquer ferramenta de anotações colaborativas.
+
+- [Google Docs](https://docs.google.com/): para usar o Google Docs em suas reuniões de mentoria,
+  crie um documento em sua pasta do Google Drive.
+  Você pode fazer uma cópia do modelo que fornecemos.
+
+- [Hack.md](https://hackmd.io/): esta é uma opção econômica e tem
+  o formato Markdown para texto.
+  Você pode integrá-la ao GitHub.
+
+- [Formato do Etherpad](https://pad.riseup.net/): essa é outra opção acessível com formatação Markdown para texto e não requer uma conta de usuário(a).
+  A desvantagem é que ele só fica disponível por um determinado período de tempo (você pode definir a duração em dias a partir de uma lista de opções).
+
+### Ferramentas para organizar e agendar reuniões {#scheduling}
+
+Usamos ferramentas para combinar o dia e a hora em que iremos nos reunir.
+Talvez a maneira mais fácil de marcar reuniões seja por e-mail,
+mas aqui está uma lista de ferramentas que podem ajudar com essa tarefa (especialmente porque os fusos horários podem ser muito complicados).
+
+- [*Calendly*](https://calendly.com/): você pode vincular seu calendário ao
+  Calendly e fornecer um link para que outras pessoas escolham um dia e uma hora
+  na sua agenda. É gratuito para apenas um tipo de evento. Também oferece a opção de enquete. 
+  Tem um limite de 40 lugares e é acessível para leitores de tela.
+
+- [*Doodle*](https://doodle.com/): a versão gratuita exibe anúncios. É
+  acessível aos leitores de tela. Os anúncios são muito incômodos para a navegação da ferramenta.
+  Você escolhe o dia e o horário em que está disponível,
+  e oferece uma terceira opção, que é "Talvez", que permite mais flexibilidade do que as opções "Sim, posso" e "Não, não posso".
+  É acessível a leitores de tela.
+
+- [*When2meet*](https://www.when2meet.com/): é gratuito, permite 
+  escolher um dia e um horário e cria um link para preencher a reserva.
+  Você pode dizer sim ou não. Não é acessível para leitores de tela.
+
+- Google Agenda: se tiver um plano de negócios, poderá oferecer vagas gratuitas em
+  seu calendário para que as pessoas marquem reuniões com você.
+
+- [*Time and date*](http://timeanddate.com/): para verificar os fusos horários
+  e calcular as datas e as horas.
+
+- [*World Time Buddy*](https://www.worldtimebuddy.com): para verificar os fusos horários
+  e calcular as datas e as horas.
+
+### Código de conduta
+
+A rOpenSci está comprometida em proporcionar um ambiente seguro, inclusivo, acolhedor e livre de assédio para todas as pessoas.
+Temos um [*Código de
+ Conduta*](https://ropensci.org/code-of-conduct/) que inclui instruções
+de como relatar incidentes e como é o processo de aplicação do nosso código. Como alternativa, você pode
+enviar um e-mail para '[conduct@ropensci.org](mailto:conduct@ropensci.org) que será encaminhado aos membros do Comitê.
+
+### Divulgação e contribuições
+
+Na segunda parte do ano, as campeãs e os campeões planejarão e realizarão as atividades de divulgação, de preferência em suas comunidades locais, mas também em comunidades internacionais.
+
+Essas atividades podem ser workshops, palestras, participação em eventos e conferências, publicações em blogs ou entrevistas. Elas podem ser organizadas com instituições locais e regionais, comunidades, grupos de pessoas usuárias e organizações; na verdade, é altamente desejável que sejam organizadas dessa forma!
+
+É claro que essas atividades podem estar dentro da gama de possibilidades de contribuição que a rOpenSci já tem, como as "Community Calls", as sessões de trabalho conjunto, os mini-hackathons, os artigos no blog da rOpenSci e as traduções.
+
+Esses recursos podem ajudar você a entender que tipo de contribuições e participações podem ser feitas na rOpenSci e, com essas ideias, planejar a atividade de divulgação do programa:
+
+- [Folha de dicas](https://ropensci.org/es/blog/2022/09/13/contributing-ropensci-es/): esta folha de dicas contém uma visão geral das diferentes maneiras de contribuir e participar da rOpenSci.
+
+- [Guia de contribuição](https://contributing.ropensci.org/): contém mais detalhes, links, materiais e exemplos de cada forma de participação em nossa comunidade.
+
+- [Guia do blog](https://blogguide.ropensci.org/): explica como escrever uma postagem de blog para o site da rOpenSci.
+
+
