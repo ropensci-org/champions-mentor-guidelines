@@ -150,7 +150,7 @@ Na segunda parte do ano, os campeões planejarão e realizarão atividades de di
 
 Essas atividades podem ser workshops, palestras, participação em eventos e conferências, publicações em blogs ou entrevistas.  Elas podem ser organizadas com instituições locais e regionais, comunidades, grupos de usuários e organizações; na verdade, é altamente desejável que sejam organizadas dessa forma!
 
-É claro que essas atividades podem estar dentro da gama de possibilidades de contribuição que o rOpenSci já tem, como "Conversas com a comunidade", sessões de trabalho conjunto, mini-hackathons, artigos no blog do rOpenSci e traduções.
+É claro que essas atividades podem estar dentro da gama de possibilidades de contribuição que a rOpenSci já tem, como as "Community Calls", as sessões de trabalho conjunto, os mini-hackathons, os artigos no blog da rOpenSci e as traduções.
 
 Esses recursos podem ajudar você a ver que tipo de contribuições e participações podem ser feitas no rOpenSci e, com essas ideias, planejar a atividade de divulgação do programa:
 
