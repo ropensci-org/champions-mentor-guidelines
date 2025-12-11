@@ -57,7 +57,7 @@ Para as reuniões seguintes, recomendamos:
   
   - Analisar possíveis contribuições por tipo (eventos como "conversas da comunidade", webinars, reuniões, conferências (uma palestra ou workshop na useR!, Posit, LatinR), artigo de blog, tutorial, workshop, palestra, sessão de trabalho conjunto), por número, levar em conta quando e com quem (outra comunidade, grupo R-Ladies, universidade, instituições), por objetivo (desenvolver uma nova habilidade, tentar algo novo, praticar uma habilidade, organizar algo com outra comunidade).
 
-- **Quando é a convocação de um mês com uma coorte** Você pode fazer uma revisão da convocação da coorte: alguma reflexão, pergunta ou comentário após a última convocação?
+- **Quando ocorrer a convocação de um mês com a coorte**, você pode fazer uma revisão da convocação trazendo alguma reflexão, pergunta ou comentário.
 
 - Em que mais podemos ajudar?
 
