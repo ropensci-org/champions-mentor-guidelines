@@ -19,7 +19,7 @@ Você deve se reunir **todo mês** com a pessoa que está orientando. Estimamos 
 
 ## Acompanhamento das reuniões
 
-Solicitaremos que você se registre em [este formulário](https://airtable.com/appF6OXmxkk8VmR8a/shrV3SruqtGwe1Bdj) quando você realizar essas reuniões. Isso nos ajuda a manter o controle e a saber se tudo está indo bem. **Você pode usar este formulário para solicitar apoio da equipe do rOpenSci.**.
+Solicitaremos que se registre utilizando [este formulário](https://airtable.com/appF6OXmxkk8VmR8a/shrV3SruqtGwe1Bdj) quando realizar essas reuniões. Isso nos ajuda a manter o controle e a saber se tudo está indo bem. **Você pode usar este formulário para solicitar apoio da equipe da rOpenSci.**.
 
 Na seção [*modelo de reunião do google doc*](https://docs.google.com/document/d/1VtNYfDNYRS7xAbs1Ajf2S5wsv3mOQ0BcTn93cXAv6sc/edit?usp=sharing) fornecemos um guia com os tópicos/questões que você pode usar em cada reunião. É claro que você pode escolher sua própria estrutura, mas é importante ter uma pauta.
 
