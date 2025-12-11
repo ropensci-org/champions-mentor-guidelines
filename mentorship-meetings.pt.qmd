@@ -63,7 +63,7 @@ Para as reuniões seguintes, recomendamos:
 
 - Da próxima vez
 
-As reuniões intermediárias podem ser usadas para sessões de programação entre pares ou revisão de código.
+As reuniões intermediárias podem ser usadas para as sessões de programação entre pares ou para a revisão de código.
 
 #### Última reunião
 
