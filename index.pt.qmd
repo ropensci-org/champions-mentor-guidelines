@@ -1,0 +1,14 @@
+## Coortes 2022-2026 {.unnumbered}
+
+![](images/media/image2.png)
+*Ilustração da capa [Lydia Hill](https://www.lydiakahill.com/)*
+
+## Licença
+
+Este trabalho está licenciado [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) (CC-BY-4.0).
+
+## Como citar este trabalho
+
+Yanina Bellini Saibene (2025, 11 de junho). rOpenSci Champions Program Mentor Guidelines v3.0.
+
+
