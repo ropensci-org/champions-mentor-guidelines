@@ -35,7 +35,7 @@ Na primeira reunião, recomendamos:
 
 - Possíveis áreas para você pensar:
   
-  - *Para um novo projeto de pacote:* Uma primeira versão funcional do pacote seguindo as recomendações do guia de desenvolvimento do rOpenSci. Melhorar as funções, os testes, a documentação, o repositório e as funcionalidades. Gerar o site do pacote ou aprimorá-lo.
+  - *Para um novo projeto de pacote:* Uma primeira versão funcional do pacote seguindo as recomendações do guia de desenvolvimento da rOpenSci. Melhorar as funções, os testes, a documentação, o repositório e as funcionalidades. Gerar o site do pacote ou aprimorá-lo.
   
   - *Para que um pacote seja enviado para revisão:* preparar o pacote para envio ao processo de revisão, enviar o pacote para revisão e concluir o processo. Melhorar a funcionalidade, os testes, a documentação, o repositório, a funcionalidade e a governança. Escreva um artigo para o JOSS ou JOSE sobre o pacote.
   
