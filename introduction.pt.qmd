@@ -54,7 +54,7 @@ o seguinte cronograma provisório do programa.
 
 ### Social
 
-[Página do programa Champions no site da rOpenSci](https://ropensci.org/es/champions/) y [Site do programa](https://champions-program.ropensci.org)
+[Página do programa Campeãs e Campeões no site da rOpenSci](https://ropensci.org/es/champions/) e [Site do programa](https://champions-program.ropensci.org)
 <https://ropensci.org/champions/>
 
 Slack: ropensci.slack.com
