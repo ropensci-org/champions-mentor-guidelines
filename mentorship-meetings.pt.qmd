@@ -53,7 +53,7 @@ Para as reuniões seguintes, recomendamos:
 
 - Avaliar se estão progredindo e se precisam fazer algum ajuste
 
-- **Na reunião de janeiro/fevereiro** Definir um ou dois objetivos para as atividades de divulgação
+- **Na reunião de janeiro/fevereiro**, definir um ou dois objetivos para as atividades de divulgação
   
   - Analisar possíveis contribuições por tipo (eventos como "conversas da comunidade", webinars, reuniões, conferências (uma palestra ou workshop na useR!, Posit, LatinR), artigo de blog, tutorial, workshop, palestra, sessão de trabalho conjunto), por número, levar em conta quando e com quem (outra comunidade, grupo R-Ladies, universidade, instituições), por objetivo (desenvolver uma nova habilidade, tentar algo novo, praticar uma habilidade, organizar algo com outra comunidade).
 
