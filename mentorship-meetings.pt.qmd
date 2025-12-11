@@ -41,7 +41,7 @@ Na primeira reunião, recomendamos:
   
   - *Para se tornar uma pessoa revisora:* [preencha o formulário para revisar](https://airtable.com/app8dssb6a7PG6Vwj/shrnfDI2S9uuyxtDw) e, em seguida, avalie [a lista de pacotes que estão aguardando revisão](https://github.com/ropensci/software-review/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) e discuta quais podem ser boas opções para análise. Informe sobre essas preferências a pessoa Gerente da Comunidade, que deverá entrar em contato com a equipe editorial para organizar a análise. [Leia o Guia de revisão de pacotes da rOpenSci](https://devguide.ropensci.org/es/index.es.html). Revisar pelo menos um pacote atribuído.
 
-- O que você espera do seu mentor?
+- O que esperar de uma pessoa mentora?
 
 #### Entre as reuniões
 
