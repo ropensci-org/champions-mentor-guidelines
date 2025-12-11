@@ -1,6 +1,6 @@
 # Reuniões de mentoria
 
-As reuniões de mentoria são as chamadas on-line individuais que você faz com o seu campeão.
+As reuniões de mentoria são as chamadas on-line individuais que você faz com a pessoa mentorada.
 
 :::: callout-note
 
