@@ -1,16 +1,16 @@
 # Fontes e agradecimentos
 
-Usamos diferentes fontes para criar este material. Agradecemos a essas organizações e seus autores por compartilharem seus materiais sob uma licença aberta que podemos reutilizar.
+Usamos diferentes fontes para criar este material. Agradecemos a essas organizações e as pessoas autoras por compartilharem seus materiais sob uma licença aberta que podemos reutilizar.
 
-- [Mozilla Open Leaders](https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/).
+- [Mozilla Open Leaders](https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/) (em inglês)
 
-- [Ensinando tecnologia na comunidade](\(https://teachtogether.tech/es/index.html\))
+- [Ensinando tecnologia em comunidade](https://teachtogether.tech/) (em espanhol e inglês)
 
-- [Treinamento de instrutores da Carpentries](https://carpentries.github.io/instructor-training/)
+- [Treinamento de instrutores(as) da Carpentries](https://carpentries.github.io/instructor-training/) (em inglês)
 
-Este livro foi criado usando os pacotes rOpenSci [certificado](https://docs.ropensci.org/quartificate/) y [babelquarto](https://docs.ropensci.org/babelquarto/) ambos de Maëlle Salmon.
+Este livro foi criado usando os pacotes da coleção rOpenSci [quartificate](https://docs.ropensci.org/quartificate/) e [babelquarto](https://docs.ropensci.org/babelquarto/), ambos de Maëlle Salmon.
 
-Ilustração da capa por [Lydia Hill](https://www.lydiakahill.com/)
+Ilustração da capa por [Lydia Hill](https://www.lydiakahill.com/).
 
 Este trabalho foi apoiado em parte por uma doação de [CZI](https://chanzuckerberg.com) para a rOpenSci.
 
