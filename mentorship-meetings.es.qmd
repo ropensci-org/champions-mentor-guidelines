@@ -15,7 +15,7 @@ Te pedimos que tomen notas colaborativas de tus reuniones. Esto ayudará a centr
 
 ## Frecuencia
 
-Debes reunirte con la persona que mentoreas **cada mes**; estimamos al menos reuniones de 30 minutos, ten más sesiones si es necesario y ambos dos pueden. El día y horario lo acuerdan entre ustedes. Consulta la sección @programación para tener alguna idea de las herramientas disponibles para las reuniones.
+Debes reunirte con la persona que mentoreas **cada mes**; estimamos al menos reuniones de 30 minutos, ten más sesiones si es necesario y ambos dos pueden. El día y horario lo acuerdan entre ustedes. Consulta la @sec-scheduling para tener alguna idea de las herramientas disponibles para las reuniones.
 
 ## Seguimiento de las reuniones
 
@@ -23,7 +23,7 @@ Te pediremos que registres en [este formulario](https://airtable.com/appF6OXmxkk
 
 En la  [*plantilla de reunión de google doc*](https://docs.google.com/document/d/1VtNYfDNYRS7xAbs1Ajf2S5wsv3mOQ0BcTn93cXAv6sc/edit?usp=sharing) te ofrecemos una guía sobre los temas/preguntas que puedes utilizar en cada reunión. Por supuesto, puedes elegir tu propia estructura, pero es importante tener un orden del día.
 
-#### Primera reunión
+### Primera reunión
 
 En la primera reunión, recomendamos:
 
@@ -43,7 +43,7 @@ En la primera reunión, recomendamos:
 
 - ¿Qué es lo que esperas de tu mentor/a?
 
-#### Entre reunión y reunión
+### Entre reunión y reunión
 
 Para las siguientes reuniones, te recomendamos
 
@@ -65,7 +65,7 @@ Para las siguientes reuniones, te recomendamos
 
 Las reuniones intermedias pueden utilizarse para sesiones de programación por pares o revisión de código.
 
-#### Última reunión
+### Última reunión
 
 Para la última reunión, recomendamos:
 
