@@ -1,6 +1,6 @@
-## Herramientas
+# Herramientas
 
-### Infraestructura {#infrastructure}
+## Infraestructura {#infrastructure}
 
 Configuramos una serie de herramientas para ayudarte en tu mentoría.
 
@@ -42,7 +42,7 @@ Configuramos una serie de herramientas para ayudarte en tu mentoría.
     y Maëlle están en este canal para ofrecer apoyo y compartir
     información común.
 
-### Herramientas para las reuniones {#meeting-tools}
+## Herramientas para las reuniones {#meeting-tools}
 
 Todas nuestras reuniones en línea utilizarán
 
@@ -60,7 +60,7 @@ puedes utilizar en tus reuniones de tutoría. Si tienes la costumbre de usar una
 que no está en esta lista, puedes utilizarla (y hacernos saber cuál es
 para que podamos añadirla a la lista).
 
-#### Videoconferencia {#videocalls}
+### Videoconferencia {#videocalls}
 
 Para nuestras Llamadas de Cohorte utilizaremos Zoom. Enviaremos un calendario con el
 horario completo del programa y los enlaces de zoom y la reunión compartida
@@ -92,7 +92,7 @@ de utilizar cualquier herramienta que acuerden. Aquí tienes una lista de servic
 
 - [*Whereby*](https://whereby.com/) tiempo ilimitado para reuniones uno a uno.
 
-### Notas colaborativas {#note-taking}
+## Notas colaborativas {#note-taking}
 
 Utilizaremos Google Docs o una solucion simil Etherpad (si es requedida por accesibilidad) para nuestras llamadas de Cohorte. Para tu mentoría 1:1
 puedes utilizar cualquier herramienta de notas colaborativas.
@@ -108,7 +108,7 @@ puedes utilizar cualquier herramienta de notas colaborativas.
 - [Formato Etherpad](https://pad.riseup.net/) esta es otra opción accesible con formato Markdown para el texto y no necesita una cuenta de usuario.
   El inconveniente es que sólo está disponible durante un tiempo (puedes configurar cuántos días de una lista de opciones).
 
-### Herramientas para organizar y agendar reuniones {#scheduling}
+## Herramientas para organizar y agendar reuniones {#sec-scheduling}
 
 Utilizamos herramientas para acordar el día y la hora en que nos reuniremos.
 Quizás la forma más fácil acordar las reuniones sea por correo electrónico,
@@ -139,7 +139,7 @@ pero aquí tienes una lista de herramientas que pueden ayudarte en esta tarea (e
 - [*Compañero de la Hora Mundial*](https://www.worldtimebuddy.com): para comprobar los husos horarios
   y calcular fechas y horas.
 
-### Código de conducta
+## Código de conducta
 
 rOpenSci se compromete a proporcionar un ambiente seguro, inclusivo, acogedor y
 y libre de acoso para todas las personas. Tenemos un [*Código de
@@ -147,7 +147,7 @@ Conducta*](https://ropensci.org/code-of-conduct/) que incluye instrucciones
 pare reportar incidentes y como es el proceso para aplicar nuestro CdC. Alternativamente, puedes
 enviar un correo electrónico a '[conduct@ropensci.org](mailto:conduct@ropensci.org) que se enviará a los miembros del Comité.
 
-### Divulgación y contribuciones
+## Divulgación y contribuciones
 
 En la segunda parte del año, campeones/as planificarán y llevarán a cabo actividades de divulgación, de preferencia en sus comunidades locales, pero también en comunidades internacionales.
 

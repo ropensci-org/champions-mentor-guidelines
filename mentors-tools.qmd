@@ -1,6 +1,6 @@
-## Mentors Tools
+# Mentors Tools
 
-### Infrastructure {#infrastructure}
+## Infrastructure {#infrastructure}
 
 We setup a series of tools to help you in your mentoring.
 
@@ -42,7 +42,7 @@ We setup a series of tools to help you in your mentoring.
   and Maëlle are in this channel to provide support and share common
   information.
 
-### Tools for meetings {#meeting-tools}
+## Tools for meetings {#meeting-tools}
 
 All our online meetings will use:
 
@@ -60,7 +60,7 @@ can use in your mentorship meetings. If you are used to using a tool
 that is not in this list, you can use it (and let us know which one it
 is, so we can add it to this list).
 
-#### Video Conferencing {#videocalls}
+### Video Conferencing {#videocalls}
 
 For our Cohort Calls we will use Zoom. We will sent a calendar with the
 full schedule of the program and the zoom links and meeting share
@@ -94,7 +94,7 @@ to use any tool you both agree. Here are a list of services:
 - [*Whereby*](https://whereby.com/): unlimited time for one-on-one
   meetings.
 
-### Collaborative Notes {#note-taking}
+## Collaborative Notes {#note-taking}
 
 We’ll be using Google Docs for our Cohort calls. For your 1:1 mentorship
 meeting notes, you’re welcome to use any collaborative note tools.
@@ -110,7 +110,7 @@ You can make a copy of the template we provide.
 - [Etherpad format](https://pad.riseup.net/): this is another accesible option with Markdown format for the text and don't need an account from users.
 The cons is that it only available for some time (you can configure how many days from a list of options).  
 
-### Scheduling Tools {#scheduling}
+## Scheduling Tools {#sec-scheduling}
 
 We use tools to agree on what day and time we will meet. 
 Perhaps for you, it is easier to agree by email, 
@@ -141,7 +141,7 @@ but here are a list of tool that can help on this task (specially because time z
 - [*World Time Buddy*](https://www.worldtimebuddy.com): for checking time zones
   and calculate dates and times.
 
-### Code of Conduct
+## Code of Conduct
 
 rOpenSci is committed to providing a safe, inclusive, welcoming, and
 harassment-free experience for everyone. We have a [*Code of
@@ -149,7 +149,7 @@ Conduct*](https://ropensci.org/code-of-conduct/) that includes the
 reporting guidelines for reinforcing our CoC. Alternatively, you may
 email 'conduct@ropensci.org', which will go to the Committee members.
 
-### Outreach and Contributions 
+## Outreach and Contributions 
 
 In the second part of the year, the champions will plan and carry out outreach activities in their local communities. 
 
