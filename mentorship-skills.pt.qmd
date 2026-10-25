@@ -1,0 +1,109 @@
+# Habilidades de mentoria
+
+Esta é uma lista de recursos e ferramentas do treinamento de mentores e mentoras da rOpenSci.
+Você pode acessar todos os [materiais de treinamento](https://ropensci-training.github.io/ropensci-mentors/) incluindo os
+[*slides*](https://docs.google.com/presentation/d/1OQ_EpW6cgebENt-gBtG53WbgvioIy_EU9Ntym7wJocg/). Também compartilhamos as anotações colaborativas da reunião fixadas no canal do Slack para mentores e mentoras.
+
+## Escuta ativa
+
+Dicas para ouvir ativamente:
+
+- Suspenda o julgamento e ouça.
+
+- Dê toda a sua atenção a quem está falando (não ensaie o que você vai dizer/responder).
+
+- Incentive quem está falando com dicas verbais e não verbais.
+
+## Perguntas eficazes
+
+As perguntas nos permitem
+
+- Acessar e analisar informações.
+
+- Estimular o pensamento e a criatividade.
+
+- Aprender por meio de debates.
+
+Veja o modelo [*GROW*](#grow-model) por exemplo.
+
+## Dando feedback
+
+É mais fácil dar e receber feedbacks quando ambas as partes compartilham
+expectativas sobre o que está e o que não está no escopo, bem como a forma como os 
+comentários devem ser formulados.
+
+Dicas para dar feedback:
+
+- Tente ser útil.
+
+- Seja concreto. Concentre-se em comportamentos observáveis.
+
+- Fale por você.
+
+- Equilibre elogios e feedbacks críticos: é importante dizer às pessoas o que 
+elas devem continuar fazendo, bem como o que elas deveriam mudar.
+
+## Modelo *GROW*
+
+**Objetivo** (**G**oal): chegue a um acordo sobre um tema e um objetivo ou metas de longo prazo.
+
+**Realidade** (**R**eality):  autoavaliação, exemplos concretos.
+
+**Opções** (**O**ptions): sugestões oferecidas e escolhas feitas.
+
+**Caminho a seguir** (**W**ay forward): próximas etapas.
+
+Dicas para o modelo *GROW*:
+
+- "Pergunte", em vez de "falar".
+
+- Ilustre e verifique a compreensão.
+
+- Pense de forma criativa!
+
+- Você não precisa ser um especialista na situação: 
+o seu papel é de facilitação!
+
+Exemplos de perguntas:
+
+OBJETIVOS (**G**oal)
+
+- O que você deseja alcançar?
+
+- O que acontecerá quando você tiver alcançado esse objetivo?
+
+- Os OBJETIVOS podem ser *SMART*: específicos (**s**pecific), mensuráveis (**m**easurable), alcançáveis (**a**chievable), realistas (**r**ealistic) e com prazo determinado (**t**ime bound).
+
+REALIDADE (**R**eality)
+
+- O que está acontecendo neste momento?
+
+- O que está impedindo você de avançar?
+
+- O que você já tentou?
+
+- O que aconteceu?
+
+- O que você aprendeu?
+
+OPÇÕES (**O**ptions)
+
+- O que você poderia fazer? O que mais?
+
+- Quais são as vantagens/desvantagens de cada opção?
+
+- Você quer que eu faça sugestões?
+
+- Quais são as opções que você mais gosta?
+
+CAMINHO A SEGUIR (**W**ay forward)
+
+- O que você vai fazer?
+
+- Qual será o primeiro passo que você dará?
+
+- Quando exatamente você pretende começar e concluir cada etapa?
+
+- De que apoio você precisa e de quem?
+
+
