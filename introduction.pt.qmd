@@ -18,8 +18,7 @@ Elas também conectarão seus/suas aprendizes a pessoas, programas e organizaç�
 leitura, treinamento e experiências.
 Elas também fornecerão comentários sobre o projeto da pessoa mentorada.
 
-Você trabalhará com a pessoa mentorada para desenvolver o projeto dela, que pode ser uma
-das seguintes opções:
+Você trabalhará com a pessoa mentorada para desenvolver o projeto dela, que pode ser uma das seguintes opções:
 
 - Criar um novo pacote;
 
@@ -54,15 +53,15 @@ o seguinte cronograma provisório do programa.
 
 ### Social
 
-[Página do programa Campeãs e Campeões no site da rOpenSci](https://ropensci.org/es/champions/) e [Site do programa](https://champions-program.ropensci.org)
-<https://ropensci.org/champions/>
+[Página do programa Campeãs e Campeões no site da rOpenSci](https://ropensci.org/pt/champions/) e [Site do programa](https://champions-program.ropensci.org)
 
 Slack: ropensci.slack.com
 
+
 [Mastodonte](https://hachyderm.io/@rOpenSci)
-<https://hachyderm.io/@rOpenSci>
 
 [LinkedIn](https://www.linkedin.com/company/ropensci/)
+
 
 [Vimeo (canal de vídeo)](https://vimeo.com/ropensci)
 
@@ -74,8 +73,7 @@ GitHub: <https://github.com/ropensci>
 
 ### Contato/Reunião com o/a *Gerente da comunidade*
 
-[Calendly](https://calendly.com/yabellini-ropensci) - Marque uma reunião com Yani (você pode escolher de 15 a 60
-minutos)
+[Calendly](https://calendly.com/yabellini-ropensci) - Marque uma reunião com Yani (você pode escolher de 15 a 60 minutos)
 
 E-mail: [*yabellini@ropensci.org*](mailto:yabellini@ropensci.org)
 
@@ -84,5 +82,3 @@ E-mail: [*yabellini@ropensci.org*](mailto:yabellini@ropensci.org)
 Contribuições de todos os tipos são bem-vindas, desde sugestões de
 melhorias e correções de erros de digitação até material novo. Entre em contato com
 com as suas ideias.
-
-

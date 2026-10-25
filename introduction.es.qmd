@@ -80,7 +80,7 @@ minutos)
 
 Correo electrónico: [*yabellini@ropensci.org*](mailto:yabellini@ropensci.org)
 
-# Comentarios
+## Comentarios
 
 Contribuciones de todo tipo son bienvenidas, desde sugerencias para
 mejoras, erratas y material nuevo. Por favor, ponte en contacto con
