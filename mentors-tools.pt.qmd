@@ -158,5 +158,3 @@ Esses recursos podem ajudar você a entender que tipo de contribuições e parti
 - [Guia de contribuição](https://contributing.ropensci.org/): contém mais detalhes, links, materiais e exemplos de cada forma de participação em nossa comunidade.
 
 - [Guia do blog](https://blogguide.ropensci.org/): explica como escrever uma postagem de blog para o site da rOpenSci.
-
-
