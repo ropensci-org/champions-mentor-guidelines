@@ -14,7 +14,7 @@ We ask that you keep collaborative notes for your meetings. This will help focus
 
 ## Frequency
 
-You should meet with your mentee **every month**; we estimate at least 30-minute meetings, have more sessions if necessary, and both can. You can agree on the schedule with your mentee. Check the @scheduling section to have some tools idea. 
+You should meet with your mentee **every month**; we estimate at least 30-minute meetings, have more sessions if necessary, and both can. You can agree on the schedule with your mentee. Check @sec-scheduling for some ideas on scheduling tools. 
 
 ## Meeting Tracking
 
@@ -22,7 +22,7 @@ We will ask you to record on [this form]() when you hold these meetings. This he
 
 On the meeting [*templates google doc*](https://docs.google.com/document/u/0/d/1vjmfbjv9ABJ6fkbtQRMFPydJZ3ypKOIpZ-xf7_iBhvo/edit) we provide a guidance on what topics/questions you can use on each meeting. Of course, you can choose your own structure, but it is important to have an agenda.
 
-#### First meeting
+### First meeting
 
 On the first meeting, we recommend:
 
@@ -42,7 +42,7 @@ On the first meeting, we recommend:
 
 -   What do you want to see from a mentor?
 
-#### In between meetings
+### In between meetings
 
 For the following meetings, we recommend:
 
@@ -64,7 +64,7 @@ For the following meetings, we recommend:
 
 The in-between meetings can be used for peer-programing or coding sessions. 
 
-#### Last meeting
+### Last meeting
 
 For the last meeting, we recommend:
 
