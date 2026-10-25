@@ -10,31 +10,26 @@ book:
   chapters:
     - index.qmd
     - introduction.qmd
-    - part: Introduction
-      part-es: Introducción
     - mentors-tools.qmd
-    - part: Mentors Tools
-      part-es: Herramientas
     - mentorship-meetings.qmd
-    - part: Mentorship Meetings
-      part-es: Reuniones de mentoría
     - mentorship-skills.qmd
-    - part: Mentorship Skills
-      part-es: Habilidades de mentoría
     - sources.qmd
-    - part: Sources
-      part-es: Fuentes
 
 babelquarto:
   languagelinks: sidebar
   languagecodes:
-  - name: es
-    text: "Español"
   - name: en
     text: "English"
+  - name: es
+    text: "Español"
+  - name: pt
+    text: "Português"
   mainlanguage: 'en'
-  languages: ['es']
-title-es: Orientaciones para mentor(a|e)s del Programa de Campeon(e|a)s de rOpenSci v2.0
+  languages: ['es', 'pt']
+title-es: "Orientaciones para mentor(a|e)s del Programa de Campeon(e|a)s de rOpenSci v2.0"
+title-pt: "Orientações para mentor(a|e)s do Programa de Campeõ(e|a)s da rOpenSci v2.0"
 description-es: ""
-author-es: Yanina Bellini Saibene
+description-pt: ""
+author-es: "Yanina Bellini Saibene"
+author-pt: "Yanina Bellini Saibene"
 lang: en
