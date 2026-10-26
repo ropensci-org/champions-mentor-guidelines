@@ -4,7 +4,7 @@ project:
 
 book:
   site-url: https://ropensci-org.github.io/champions-mentor-guidelines/
-  title: "rOpenSci Champions Program Mentor Guidelines v2.0"
+  title: "rOpenSci Champions Program Mentor Guidelines"
   author: "Yanina Bellini Saibene"
   date: "2024-01-05"
   chapters:
@@ -26,8 +26,8 @@ babelquarto:
     text: "Português"
   mainlanguage: 'en'
   languages: ['es', 'pt']
-title-es: "Orientaciones para mentor(a|e)s del Programa de Campeon(e|a)s de rOpenSci v2.0"
-title-pt: "Orientações para mentor(a|e)s do Programa de Campeõ(e|a)s da rOpenSci v2.0"
+title-es: "Orientaciones para mentor(a|e)s del Programa de Campeon(e|a)s de rOpenSci"
+title-pt: "Orientações para mentor(a|e)s do Programa de Campeõ(e|a)s da rOpenSci"
 description-es: ""
 description-pt: ""
 author-es: "Yanina Bellini Saibene"
