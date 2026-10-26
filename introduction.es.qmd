@@ -65,6 +65,8 @@ Slack: ropensci.slack.com
 
 [LinkedIn](https://www.linkedin.com/company/ropensci/)
 
+[BlueSky](https://bsky.app/profile/ropensci.org)
+
 [Vimeo (canal de videos)](https://vimeo.com/ropensci)
 
 GitHub: [https://github.com/ropensci](https://github.com/ropensci)
