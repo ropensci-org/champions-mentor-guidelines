@@ -69,7 +69,7 @@ Slack: ropensci.slack.com
 
 [Vimeo (canal de videos)](https://vimeo.com/ropensci)
 
-GitHub: [https://github.com/ropensci](https://github.com/ropensci)
+[GitHub de rOpenSci](https://github.com/ropensci)
 
 ### Código de conducta
 
@@ -77,7 +77,7 @@ GitHub: [https://github.com/ropensci](https://github.com/ropensci)
 
 ### Contacto/Reunión con la _Community Manager_
 
-[Calendly](https://calendly.com/yabellini-ropensci) - Reserva una reunión con Yani (puedes elegir desde 15 a 60
+[Agenda](https://scheduler.zoom.us/yanina-bellini-saibene) - Reserva una reunión con Yani (puedes elegir desde 15 a 60
 minutos)
 
 Correo electrónico: [*yabellini@ropensci.org*](mailto:yabellini@ropensci.org)
@@ -87,5 +87,3 @@ Correo electrónico: [*yabellini@ropensci.org*](mailto:yabellini@ropensci.org)
 Contribuciones de todo tipo son bienvenidas, desde sugerencias para
 mejoras, erratas y material nuevo. Por favor, ponte en contacto con
 con tus ideas.
-
-
