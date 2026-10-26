@@ -44,7 +44,7 @@ Tips for giving feedback:
 - Balance praise & critical feedback: it’s important to tell people what
   they should keep doing as well as what they should change.
 
-## GROW Model
+## GROW Model {#grow-model}
 
 **Goal:** Agree on a topic & objective or longer-term goals.
 

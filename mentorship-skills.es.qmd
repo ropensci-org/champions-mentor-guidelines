@@ -44,7 +44,7 @@ Consejos para dar retroalimentación:
 - Equilibra los elogios y los comentarios críticos: es importante decirle a las personas lo que
   deben seguir haciendo, así como lo que deben cambiar.
 
-## Modelo _GROW_
+## Modelo _GROW_ {#grow-model}
 
 **Objetivo:** Acuerda un tema y un objetivo o una o dos metas a más largo plazo.
 
