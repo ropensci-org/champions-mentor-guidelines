@@ -13,5 +13,3 @@ Este livro foi criado usando os pacotes da coleção rOpenSci [quartificate](htt
 Ilustração da capa por [Lydia Hill](https://www.lydiakahill.com/).
 
 Este trabalho foi apoiado em parte por uma doação de [CZI](https://chanzuckerberg.com) para a rOpenSci.
-
-
