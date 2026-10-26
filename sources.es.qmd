@@ -4,12 +4,12 @@ Utilizamos diferentes fuentes para construir este material. Damos las gracias a 
 
 - [Mozilla Open Leaders](https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/).
 
-- [Enseñar tecnología en comunidad]((https://teachtogether.tech/es/index.html))
+- [Enseñar tecnología en comunidad](https://teachtogether.tech/es/index.html)
   
 
 - [Formación de Instructores/as de The Carpentries](https://carpentries.github.io/instructor-training/)
 
-Este libro se ha creado utilizando los paquetes de rOpenSci [cuartificate](https://docs.ropensci.org/quartificate/) y [babelquarto](https://docs.ropensci.org/babelquarto/), ambos de Maëlle Salmon.
+Este libro se ha creado utilizando los paquetes de rOpenSci [quartificate](https://docs.ropensci.org/quartificate/) y [babelquarto](https://docs.ropensci.org/babelquarto/), ambos de Maëlle Salmon.
 
 Ilustración de portada de [Lydia Hill](https://www.lydiakahill.com/)
 
