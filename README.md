@@ -1,8 +1,8 @@
-# rOpenSci Champions Program Mentor Guidelines v2.0
+# rOpenSci Champions Program Mentor Guidelines
 
 [![Project Status: Active -- The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10467064.svg)]()
 
-rOpenSci Champions Program Mentor Guidelines v2.0
+rOpenSci Champions Program Mentor Guidelines
 [Read it here](https://ropensci-org.github.io/champions-mentor-guidelines/).
 
 ## Contributing
