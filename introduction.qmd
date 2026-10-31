@@ -45,11 +45,15 @@ The total time commitment is expected to be approximately **2-4 hours per month*
 | Second month | Kick-off meeting | Learn about the program, review the program expectations, and address questions. Meet mentees. | 1.5 h |
 | Third/fourth month | Training | How to mentor and logistics on the program. | 2 h |
 | First to fifth month | Meeting with mentee | Provide feedback and guidance on the mentee's project. Connect them with other experts, mentors or community members. Recommend training and resources for the mentee's project. | 1 meeting per month, 0.5 h |
-| First quarter | Cohort meeting [optional] | Champions will present their project and get feedback. | 1.5 h |
+| First quarter | Champions cohort meeting [optional] | Champions will present their project and get feedback. | 1.5 h |
+| First quarter | Mentors cohort meeting | A space for mentors to share experiences, questions and progress on their mentorships. | 1 h |
 | Sixth to last month | Meeting with mentee | Provide feedback and guidance on the mentee's project. Connect them with other experts, mentors or community members. Recommend training and resources for the mentee's project. | 1 meeting per month, 0.5 h |
-| Second quarter | Cohort meeting [optional]: Reflections on projects | Champions will be invited to share takeaways from their projects with the cohort. | 1.5 h |
-| Third quarter | Cohort meeting [optional]: Reflections on events | Champions will be invited to share takeaways from their events with the cohort. | 1.5 h |
+| Second quarter | Champions cohort meeting [optional]: Reflections on projects | Champions will be invited to share takeaways from their projects with the cohort. | 1.5 h |
+| Second quarter | Mentors cohort meeting | A space for mentors to share experiences, questions and progress on their mentorships. | 1 h |
+| Third quarter | Champions cohort meeting [optional]: Reflections on events | Champions will be invited to share takeaways from their events with the cohort. | 1.5 h |
+| Third quarter | Mentors cohort meeting | A space for mentors to share experiences, questions and progress on their mentorships. | 1 h |
 | Fourth quarter | Cohort meeting: Reflections on the program | Mentors will be invited to share takeaways from the program and help define future roles for Champions. | 1.5 h |
+| Fourth quarter | Mentors cohort meeting | A space for mentors to share experiences, questions and progress on their mentorships. | 1 h |
 | Last month | End of term | Close the cohort and define new roles for Champions and Mentors. | 1 h |
 
 ## Quick Links
