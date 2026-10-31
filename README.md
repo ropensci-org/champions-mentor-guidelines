@@ -18,7 +18,7 @@ As with all our spaces and activities, this project is under our [Code of Conduc
 
 ### Technical details
 
-This book was built using [quartificate package](https://docs.ropensci.org/quartificate/)
+This book was built using [quartificate package](https://docs.ropensci.org/quartificate/) and the [babelquarto package](https://docs.ropensci.org/babelquarto/)
 
 ## License and citation
 
