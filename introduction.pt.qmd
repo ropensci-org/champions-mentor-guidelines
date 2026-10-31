@@ -65,7 +65,7 @@ Slack: ropensci.slack.com
 
 [Vimeo (canal de vídeo)](https://vimeo.com/ropensci)
 
-GitHub: <https://github.com/ropensci>
+[GitHub de rOpenSci](https://github.com/ropensci)
 
 ### Código de Conduta
 
