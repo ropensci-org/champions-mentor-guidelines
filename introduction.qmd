@@ -58,19 +58,17 @@ following tentative program timeline.
 
 ### Social
 
-Champions Program Web Page:
-[https://ropensci.org/champions/](https://ropensci.org/champions/)
+[Champions Program Web Page](https://ropensci.org/champions/)
 
 Slack: ropensci.slack.com
 
-Mastodon:
-[https://hachyderm.io/@rOpenSci](https://hachyderm.io/@rOpenSci)
+[Mastodon](https://hachyderm.io/@rOpenSci)
 
-LinkedIn:[https://www.linkedin.com/company/ropensci/](https://www.linkedin.com/company/ropensci/) 
+[LinkedIn](https://www.linkedin.com/company/ropensci/) 
 
-Vimeo: [https://vimeo.com/ropensci](https://vimeo.com/ropensci)
+[Vimeo](https://vimeo.com/ropensci)
 
-GitHub: [https://github.com/ropensci](https://github.com/ropensci)
+[GitHub](https://github.com/ropensci)
 
 ### Code of Conduct
 

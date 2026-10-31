@@ -34,9 +34,7 @@ entre las que se incluyen: dar una charla, escribir artículos o notas técnicas
 
 ## Cronología del Programa
 
-Se espera que el compromiso de tiempo total sea de aproximadamente **2-4 horas
-al mes** desde **mayo de 2025 - julio de 2025** para completar el
-siguiente calendario provisional del programa.
+Se espera que el compromiso de tiempo total sea de aproximadamente **2-4 horas al mes** desde **{mes de inicio} de {año de inicio} - {mes de fin} de {año de fin}** para completar el siguiente calendario provisional del programa.
 
 | **Fecha**                        | **Evento**                                                                      | **Detalle**                                                                                                                                                                                                                | **Duración**                       | 
 | ----------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
