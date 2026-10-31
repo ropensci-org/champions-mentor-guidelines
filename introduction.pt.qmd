@@ -32,22 +32,24 @@ da comunidade.
 
 ## Cronologia do programa
 
-Espera-se que o tempo total de dedicação seja de aproximadamente **2 a 4 horas
-por mês** de **maio de 2025 - julho de 2025** para concluir o
-o seguinte cronograma provisório do programa.
+Espera-se que o tempo total de dedicação seja de aproximadamente **2 a 4 horas por mês** de **{mês de início} de {ano de início} a {mês de término} de {ano de término}** para concluir o seguinte cronograma provisório do programa.
 
-| **Data**                          | **Evento**                                                                  | **Detalhes**                                                                                                                                                                                                          | **Duração**                        | 
-| ------------------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| Outubro de 2023           | Selecionar campeãs e campeões                                               | Revise, classifique e selecione um ou dois projetos avaliados para a orientação.                                                                                                                          | 2 h                     | 
-| Novembro de 2023          | Cerimônia de abertura                                             | Saiba mais sobre o programa, analise as expectativas do programa e tire as suas dúvidas. Conheça as pessoas mentoradas.                                                                                                  | 1\.5 h                   | 
-| Janeiro a abril de 2024   | Treinamento                                                       | Mentoria e logística no programa.                                                                                                                                                                         | 2 h                     | 
-| Março a julho de 2024     | Reunião com a pessoa mentorada                                               | Fornecer comentários e orientação sobre o projeto da pessoa mentorada.  Conectar o(a) pupilo(a) a outros(as) especialistas, mentores(as) ou membros da comunidade. Recomendar treinamento e recursos para o projeto da pessoa mentorada. | 1 reunião por mês 0,5 h | 
-| Maio de 2024              | Reunião da coorte [opcional]                                      | As campeãs e os campeões apresentarão seus projetos e receberão comentários.                                                                                                                                              | 1\.5 h                   | 
-| Agosto - novembro de 2023 | Reunião com a pessoa mentorada                                               | Fornecer comentários e orientação sobre o projeto da pessoa mentorada.  Conectar o(a) pupilo(a) a outros(as) especialistas, mentores(as) ou membros da comunidade. Recomendar treinamento e recursos para o projeto da pessoa mentorada. | 1 reunião por mês 0,5 h | 
-| Julho de 2024             | Reunião da coorte [opcional]: Reflexões sobre os projetos         | As pessoas mentoradas serão convidadas a compartilhar com a coorte os resultados de seus projetos.                                                                                                                | 1\.5 h                   | 
-| Setembro de 2024          | Reunião da coorte [opcional]: Reflexões sobre os desenvolvimentos | As pessoas mentoradas serão convidadas a compartilhar com a coorte as conclusões de seus eventos.                                                                                                                 | 1\.5 h                   | 
-| Outubro de 2024           | Reunião da coorte: Reflexões sobre o programa                     | As pessoas mentoras serão convidadas a compartilhar os resultados do programa e ajudar a definir as futuras funções das Campeãs e dos Campeões.                                                                                 | 1\.5 h                   | 
-| Novembro de 2024          | Fim do prazo                                                      | Encerrar o grupo e definir as novas funções para as pessoas Campeãs e Mentoras.                                                                                                                                     | 1 h                     | 
+| **Data** | **Evento** | **Detalhes** | **Duração** |
+|----------|------------|--------------|-------------|
+| Primeiro mês | Selecionar campeãs e campeões | Revise, classifique e selecione um ou dois projetos avaliados para a mentoria. | 2 h |
+| Segundo mês | Reunião de abertura | Saiba mais sobre o programa, analise as expectativas do programa e tire as suas dúvidas. Conheça as pessoas mentoradas. | 1,5 h |
+| Terceiro/quarto mês | Treinamento | Como ser mentor(a) e logística do programa. | 2 h |
+| Do primeiro ao quinto mês | Reunião com a pessoa mentorada | Fornecer comentários e orientação sobre o projeto da pessoa mentorada. Conectá-la a outros(as) especialistas, mentores(as) ou membros da comunidade. Recomendar treinamento e recursos para o projeto da pessoa mentorada. | 1 reunião por mês, 0,5 h |
+| Primeiro trimestre | Reunião da coorte de campeãs e campeões [opcional] | As campeãs e os campeões apresentarão seus projetos e receberão comentários. | 1,5 h |
+| Primeiro trimestre | Reunião da coorte de mentoras e mentores | Espaço para que mentoras e mentores compartilhem experiências, dúvidas e avanços de suas mentorias. | 1 h |
+| Do sexto ao último mês | Reunião com a pessoa mentorada | Fornecer comentários e orientação sobre o projeto da pessoa mentorada. Conectá-la a outros(as) especialistas, mentores(as) ou membros da comunidade. Recomendar treinamento e recursos para o projeto da pessoa mentorada. | 1 reunião por mês, 0,5 h |
+| Segundo trimestre | Reunião da coorte de campeãs e campeões [opcional]: Reflexões sobre os projetos | As campeãs e os campeões serão convidados a compartilhar com a coorte as conclusões de seus projetos. | 1,5 h |
+| Segundo trimestre | Reunião da coorte de mentoras e mentores | Espaço para que mentoras e mentores compartilhem experiências, dúvidas e avanços de suas mentorias. | 1 h |
+| Terceiro trimestre | Reunião da coorte de campeãs e campeões [opcional]: Reflexões sobre os eventos | As campeãs e os campeões serão convidados a compartilhar com a coorte as conclusões de seus eventos. | 1,5 h |
+| Terceiro trimestre | Reunião da coorte de mentoras e mentores | Espaço para que mentoras e mentores compartilhem experiências, dúvidas e avanços de suas mentorias. | 1 h |
+| Quarto trimestre | Reunião da coorte: Reflexões sobre o programa | As pessoas mentoras serão convidadas a compartilhar as conclusões do programa e ajudar a definir as futuras funções das campeãs e dos campeões. | 1,5 h |
+| Quarto trimestre | Reunião da coorte de mentoras e mentores | Espaço para que mentoras e mentores compartilhem experiências, dúvidas e avanços de suas mentorias. | 1 h |
+| Último mês | Fim do prazo | Encerrar a coorte e definir novas funções para campeãs, campeões e pessoas mentoras. | 1 h |
 
 ## Links rápidos
 
